@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Loading.unity
+    path: Assets/Musa/Scenes/Loading.unity
     guid: 5aea2f570d06821479c002ce86227459
   - enabled: 1
-    path: Assets/Scenes/GameScene.unity
+    path: Assets/Musa/Scenes/GameScene.unity
     guid: aad7269a64f707a43a62823b6277cf1e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
