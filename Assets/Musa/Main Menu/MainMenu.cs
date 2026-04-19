@@ -9,7 +9,7 @@ public class MainMenu : MonoBehaviour
 
     private void Awake()
     {
-        // Safety check
+        // Test to see if the buttons actually work
         if (startButton != null)
             startButton.onClick.AddListener(() => PlayGame());
         else
@@ -23,12 +23,14 @@ public class MainMenu : MonoBehaviour
 
     public void PlayGame()
     {
+        // This makes the start button work  
         Debug.Log("Start Button Clicked");
         Loader.Load(Loader.Scene.GameScene);
     }
 
     public void QuitGame()
     {
+        // This makes the quit button work 
         Debug.Log("Quit Button Clicked");
         Application.Quit();
     }
@@ -40,4 +42,6 @@ public class MainMenu : MonoBehaviour
             Loader.Load(Loader.Scene.GameScene);
         }
     }
+    // this script was developed with the asistance from Code Monkey :  https://www.youtube.com/watch?v=3I5d2rUJ0pE&list=PLF0hyIu5ZqWIBYvj3QOLcvuNiU0akzal7&index=7
 }
+

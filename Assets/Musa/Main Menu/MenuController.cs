@@ -17,7 +17,7 @@ public class MenuController : MonoBehaviour
     public void GameScene()
     {
             Debug.Log("Start clicked"); // Shows in editor
-            Loader.Load(Loader.Scene.GameScene); // Assuming you have a scene named "GameScene"
+            Loader.Load(Loader.Scene.GameScene); // Connected to the "GameScene"
     }   
 
     public void QuitGame()
@@ -26,4 +26,6 @@ public class MenuController : MonoBehaviour
         Application.Quit();
         Debug.Log("Quit clicked"); // Shows in editor
     }
+    // this script was developed with the asistance from Code Monkey :  https://www.youtube.com/watch?v=3I5d2rUJ0pE&list=PLF0hyIu5ZqWIBYvj3QOLcvuNiU0akzal7&index=7
 }
+
