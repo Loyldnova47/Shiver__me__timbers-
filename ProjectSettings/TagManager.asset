@@ -4,8 +4,9 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Seaweed2
-  - Seaweed1
+  - Death screen
+  - Restart
+  - Quit
   layers:
   - Default
   - TransparentFX
