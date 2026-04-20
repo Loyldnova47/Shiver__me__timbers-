@@ -8,6 +8,10 @@ public class ShootDistraction : MonoBehaviour
     public Transform spawnPoint;
     float aimScope = 0.0f;
 
+    //public InventoryCollect inventoryCollect;
+
+
+
     public float attackTime;
     private float attackTimeCounter;
 
@@ -15,11 +19,12 @@ public class ShootDistraction : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        //inventoryCollect = GetComponent<InventoryCollect>();
 
     }
 
     // Update is called once per frame
-    void Update()
+    public void Update()
     {
         SpawnDistraction();
 
@@ -53,30 +58,31 @@ public class ShootDistraction : MonoBehaviour
 
     void SpawnDistraction()
     {
-        Vector3 mousePos = Input.mousePosition;
+        // Vector3 mousePos = Input.mousePosition;
 
 
-        mousePos.z = Mathf.Abs(Camera.main.transform.position.z);
+        // mousePos.z = Mathf.Abs(Camera.main.transform.position.z);
+        // //mousePos.z = -Camera.main.transform.position.z;
 
-        Vector3 worldPosition = Camera.main.ScreenToWorldPoint(mousePos);
+        // Vector3 worldPosition = Camera.main.ScreenToWorldPoint(mousePos);
 
-        worldPosition.z = 0f;
-        Vector2 direction = (Vector2)worldPosition - (Vector2)spawnPoint.transform.position;
+        // worldPosition.z = 0f;
+        // Vector2 direction = (Vector2)worldPosition - (Vector2)spawnPoint.transform.position;
 
-        // 3. Calculate angle and apply rotation (assuming sprite faces Right by default)
-        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
-        spawnPoint.transform.rotation = Quaternion.Euler(0, 0, angle);
-
-
-
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
+        // // 3. Calculate angle and apply rotation (assuming sprite faces Right by default)
+        // float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+        // spawnPoint.transform.rotation = Quaternion.Euler(0, 0, angle);
+        
+            if (Input.GetKeyDown(KeyCode.Space))
+            {
            GameObject clone=Instantiate(distractionPrefab, spawnPoint.position, Quaternion.identity);
             Destroy(clone, 5f);
-        }
-       
+            }
+        
+
+
 
     }
-
+    
 
 }
