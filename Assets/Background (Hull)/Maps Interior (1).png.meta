@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 33c81708f3650cd428d58aad8a3598a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8123433481719689232
+    second: Maps Interior (1)_0
+  - first:
+      213: -2812291729934870483
+    second: Maps Interior (1)_1
+  - first:
+      213: 4030660026958042905
+    second: Maps Interior (1)_2
+  - first:
+      213: -8002342696416610758
+    second: Maps Interior (1)_3
+  - first:
+      213: 8107311099707571573
+    second: Maps Interior (1)_4
+  - first:
+      213: -4024850426723961218
+    second: Maps Interior (1)_5
+  - first:
+      213: 8491563226108010583
+    second: Maps Interior (1)_6
+  - first:
+      213: -5550964271000583482
+    second: Maps Interior (1)_7
+  - first:
+      213: -6353539473815339729
+    second: Maps Interior (1)_8
+  - first:
+      213: -8147039202265893638
+    second: Maps Interior (1)_9
+  - first:
+      213: -8430511380945090195
+    second: Maps Interior (1)_10
+  - first:
+      213: 1174459853808851362
+    second: Maps Interior (1)_11
+  - first:
+      213: 6517002667404495134
+    second: Maps Interior (1)_12
+  - first:
+      213: -6977656061719220423
+    second: Maps Interior (1)_13
+  - first:
+      213: 2143900416407702757
+    second: Maps Interior (1)_14
+  - first:
+      213: -5365796960719582205
+    second: Maps Interior (1)_15
+  - first:
+      213: -7582423817529127117
+    second: Maps Interior (1)_16
+  - first:
+      213: -3852230329240211614
+    second: Maps Interior (1)_17
+  - first:
+      213: -387828628881062237
+    second: Maps Interior (1)_18
+  - first:
+      213: 1097506755698534714
+    second: Maps Interior (1)_19
+  - first:
+      213: -6057144625710889355
+    second: Maps Interior (1)_20
+  - first:
+      213: -5674283705320200510
+    second: Maps Interior (1)_21
+  - first:
+      213: -7569311852909782695
+    second: Maps Interior (1)_22
+  - first:
+      213: -5722227737202829336
+    second: Maps Interior (1)_23
+  - first:
+      213: 4960829152632053802
+    second: Maps Interior (1)_24
+  - first:
+      213: -3327658094092014476
+    second: Maps Interior (1)_25
+  - first:
+      213: 5531068563602401848
+    second: Maps Interior (1)_26
+  - first:
+      213: -3209934797482362709
+    second: Maps Interior (1)_27
+  - first:
+      213: 7927723029168971210
+    second: Maps Interior (1)_28
+  - first:
+      213: 2309424956412124953
+    second: Maps Interior (1)_29
+  - first:
+      213: 6645924469320713100
+    second: Maps Interior (1)_30
+  - first:
+      213: -5064705199284002513
+    second: Maps Interior (1)_31
+  - first:
+      213: -5734680845306092739
+    second: Maps Interior (1)_32
+  - first:
+      213: -8433590434558070857
+    second: Maps Interior (1)_33
+  - first:
+      213: -8926381316587740453
+    second: Maps Interior (1)_34
+  - first:
+      213: 882593186268185375
+    second: Maps Interior (1)_35
+  - first:
+      213: -6482072525973726985
+    second: Maps Interior (1)_36
+  - first:
+      213: 5421861575042831231
+    second: Maps Interior (1)_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maps Interior (1)_0
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 946
+        width: 232
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff4595c944c34f80800000000000000
+      internalID: -8123433481719689232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_1
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 962
+        width: 307
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d289670629bb8f8d0800000000000000
+      internalID: -2812291729934870483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 966
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917533d60f7cfe730800000000000000
+      internalID: 4030660026958042905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_3
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 942
+        width: 274
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36752147b7f1f090800000000000000
+      internalID: -8002342696416610758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1002
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57db6a5ad74f28070800000000000000
+      internalID: 8107311099707571573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1001
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76f9098cdbd428c0800000000000000
+      internalID: -4024850426723961218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1002
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75020ff83c718d570800000000000000
+      internalID: 8491563226108010583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1004
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c20022e76307f2b0800000000000000
+      internalID: -5550964271000583482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_8
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 596
+        width: 478
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d70d4d281b3d7a0800000000000000
+      internalID: -6353539473815339729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 811
+        width: 109
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af472c9a207efee80800000000000000
+      internalID: -8147039202265893638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 745
+        width: 320
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6941e7d09ec00b80800000000000000
+      internalID: -8430511380945090195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 558
+        width: 506
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9db35b3058c4010800000000000000
+      internalID: 1174459853808851362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 654
+        width: 66
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e190beeb56b017a50800000000000000
+      internalID: 6517002667404495134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 747
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fef54f7c26a2f90800000000000000
+      internalID: -6977656061719220423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 335
+        width: 44
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec0bc1e11aa0cd10800000000000000
+      internalID: 2143900416407702757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 676
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c407be71cd885b0800000000000000
+      internalID: -5365796960719582205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 607
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f07bb16b1d5c690800000000000000
+      internalID: -7582423817529127117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 498
+        width: 80
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fa6a0fce02a8ac0800000000000000
+      internalID: -3852230329240211614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_18
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 488
+        width: 319
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a641d5bae72e9af0800000000000000
+      internalID: -387828628881062237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 325
+        width: 505
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39a00854902b3f00800000000000000
+      internalID: 1097506755698534714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_20
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 280
+        width: 478
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57606571e03b0fba0800000000000000
+      internalID: -6057144625710889355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 342
+        width: 12
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c62a9d9805e041b0800000000000000
+      internalID: -5674283705320200510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_22
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 422
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959982549f664f690800000000000000
+      internalID: -7569311852909782695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_23
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 190
+        width: 81
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e75320d0309690b0800000000000000
+      internalID: -5722227737202829336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_24
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 224
+        width: 319
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20290aa4d768d440800000000000000
+      internalID: 4960829152632053802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_25
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c21b71898c1d1d0800000000000000
+      internalID: -3327658094092014476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 137
+        width: 102
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ae9d1cd8d42cc40800000000000000
+      internalID: 5531068563602401848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 188
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8f5e30f450473d0800000000000000
+      internalID: -3209934797482362709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_28
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 181
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acddc47971ee40e60800000000000000
+      internalID: 7927723029168971210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_29
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 75
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fdd5213c9bc0020800000000000000
+      internalID: 2309424956412124953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 29
+        width: 335
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8300fdd7111b3c50800000000000000
+      internalID: 6645924469320713100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_31
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 27
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f216a98847d86b9b0800000000000000
+      internalID: -5064705199284002513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_32
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 36
+        width: 308
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d332b43a7225a60b0800000000000000
+      internalID: -5734680845306092739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_33
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 62
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfa80fce2ed5fa80800000000000000
+      internalID: -8433590434558070857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 0
+        width: 195
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2aa1f8c7f1f1480800000000000000
+      internalID: -8926381316587740453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_35
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 17
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1302b4a3d99f3c00800000000000000
+      internalID: 882593186268185375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_36
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 67
+        width: 103
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f85401916d0b06a0800000000000000
+      internalID: -6482072525973726985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maps Interior (1)_37
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 44
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7394c150625e3b40800000000000000
+      internalID: 5421861575042831231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maps Interior (1)_0: -8123433481719689232
+      Maps Interior (1)_1: -2812291729934870483
+      Maps Interior (1)_10: -8430511380945090195
+      Maps Interior (1)_11: 1174459853808851362
+      Maps Interior (1)_12: 6517002667404495134
+      Maps Interior (1)_13: -6977656061719220423
+      Maps Interior (1)_14: 2143900416407702757
+      Maps Interior (1)_15: -5365796960719582205
+      Maps Interior (1)_16: -7582423817529127117
+      Maps Interior (1)_17: -3852230329240211614
+      Maps Interior (1)_18: -387828628881062237
+      Maps Interior (1)_19: 1097506755698534714
+      Maps Interior (1)_2: 4030660026958042905
+      Maps Interior (1)_20: -6057144625710889355
+      Maps Interior (1)_21: -5674283705320200510
+      Maps Interior (1)_22: -7569311852909782695
+      Maps Interior (1)_23: -5722227737202829336
+      Maps Interior (1)_24: 4960829152632053802
+      Maps Interior (1)_25: -3327658094092014476
+      Maps Interior (1)_26: 5531068563602401848
+      Maps Interior (1)_27: -3209934797482362709
+      Maps Interior (1)_28: 7927723029168971210
+      Maps Interior (1)_29: 2309424956412124953
+      Maps Interior (1)_3: -8002342696416610758
+      Maps Interior (1)_30: 6645924469320713100
+      Maps Interior (1)_31: -5064705199284002513
+      Maps Interior (1)_32: -5734680845306092739
+      Maps Interior (1)_33: -8433590434558070857
+      Maps Interior (1)_34: -8926381316587740453
+      Maps Interior (1)_35: 882593186268185375
+      Maps Interior (1)_36: -6482072525973726985
+      Maps Interior (1)_37: 5421861575042831231
+      Maps Interior (1)_4: 8107311099707571573
+      Maps Interior (1)_5: -4024850426723961218
+      Maps Interior (1)_6: 8491563226108010583
+      Maps Interior (1)_7: -5550964271000583482
+      Maps Interior (1)_8: -6353539473815339729
+      Maps Interior (1)_9: -8147039202265893638
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
