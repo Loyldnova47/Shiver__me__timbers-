@@ -142,12 +142,12 @@ TextureImporter:
       name: Bubbles Animation_0
       rect:
         serializedVersion: 2
-        x: 187
-        y: 575
-        width: 164
-        height: 96
+        x: 171
+        y: 568
+        width: 243
+        height: 108
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -161,59 +161,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bubbles Animation_1
-      rect:
-        serializedVersion: 2
-        x: 346
-        y: 619
-        width: 22
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 64c8a1e68767c5e80800000000000000
-      internalID: -8188539762851017658
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bubbles Animation_2
-      rect:
-        serializedVersion: 2
-        x: 379
-        y: 623
-        width: 11
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0ccdc5994dfea6fa0800000000000000
-      internalID: -5806565073155728192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Bubbles Animation_3
       rect:
         serializedVersion: 2
-        x: 525
-        y: 591
-        width: 167
-        height: 72
+        x: 502
+        y: 568
+        width: 243
+        height: 108
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -227,59 +183,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bubbles Animation_4
-      rect:
-        serializedVersion: 2
-        x: 693
-        y: 630
-        width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2f90cca7bad01cb60800000000000000
-      internalID: 7764502262714206706
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bubbles Animation_5
-      rect:
-        serializedVersion: 2
-        x: 707
-        y: 630
-        width: 10
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2c6d030c62a2089f0800000000000000
-      internalID: -468328015324981566
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Bubbles Animation_6
       rect:
         serializedVersion: 2
-        x: 836
-        y: 578
-        width: 132
-        height: 97
+        x: 808
+        y: 570
+        width: 244
+        height: 107
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -293,37 +205,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bubbles Animation_7
-      rect:
-        serializedVersion: 2
-        x: 964
-        y: 614
-        width: 56
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 778aa60716d813ec0800000000000000
-      internalID: -3588931978400192393
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Bubbles Animation_8
       rect:
         serializedVersion: 2
-        x: 1149
-        y: 578
-        width: 164
-        height: 96
+        x: 1132
+        y: 570
+        width: 241
+        height: 107
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -336,121 +226,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Bubbles Animation_9
-      rect:
-        serializedVersion: 2
-        x: 1308
-        y: 622
-        width: 22
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 557de7cb109e30fa0800000000000000
-      internalID: -5835564498475362475
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bubbles Animation_10
-      rect:
-        serializedVersion: 2
-        x: 1341
-        y: 626
-        width: 11
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 080b5418c955f1830800000000000000
-      internalID: 4044045121074081920
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bubbles Animation_11
-      rect:
-        serializedVersion: 2
-        x: 366
-        y: 610
-        width: 15
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8d9f2e1e74813b9e0800000000000000
-      internalID: -1606913945029641768
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bubbles Animation_12
-      rect:
-        serializedVersion: 2
-        x: 1017
-        y: 619
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b00426419a0434a70800000000000000
-      internalID: 8809956391002456075
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bubbles Animation_13
-      rect:
-        serializedVersion: 2
-        x: 1328
-        y: 613
-        width: 15
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8601c28cac6beec20800000000000000
-      internalID: 3237726164183945320
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: cf7a06e1a0e27ef4a8599b138bda9c91
     internalID: 0
     vertices: []
     indices: 
