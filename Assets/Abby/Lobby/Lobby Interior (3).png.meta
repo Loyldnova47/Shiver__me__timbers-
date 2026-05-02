@@ -1,0 +1,855 @@
+fileFormatVersion: 2
+guid: 70b7bad17ad13ea4ca9eb70e6e23ecbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6230664907410372674
+    second: Lobby Interior (3)_0
+  - first:
+      213: 4781667979651015844
+    second: Lobby Interior (3)_1
+  - first:
+      213: 310511148130672032
+    second: Lobby Interior (3)_2
+  - first:
+      213: -5137798649020716772
+    second: Lobby Interior (3)_3
+  - first:
+      213: 6305468450857373426
+    second: Lobby Interior (3)_4
+  - first:
+      213: -7262489425331437139
+    second: Lobby Interior (3)_5
+  - first:
+      213: -8298481761764547869
+    second: Lobby Interior (3)_6
+  - first:
+      213: 7096674823689506404
+    second: Lobby Interior (3)_7
+  - first:
+      213: -7793049184158297658
+    second: Lobby Interior (3)_8
+  - first:
+      213: -7112421617722561480
+    second: Lobby Interior (3)_9
+  - first:
+      213: 7570659472529189485
+    second: Lobby Interior (3)_10
+  - first:
+      213: 7719820274337935768
+    second: Lobby Interior (3)_11
+  - first:
+      213: -2068032533080179616
+    second: Lobby Interior (3)_12
+  - first:
+      213: -4773884709585490690
+    second: Lobby Interior (3)_13
+  - first:
+      213: 3954400263574863236
+    second: Lobby Interior (3)_14
+  - first:
+      213: -8340859629876802167
+    second: Lobby Interior (3)_15
+  - first:
+      213: 3276465520452950413
+    second: Lobby Interior (3)_16
+  - first:
+      213: -6234058189407127711
+    second: Lobby Interior (3)_17
+  - first:
+      213: -5173426830538116878
+    second: Lobby Interior (3)_18
+  - first:
+      213: -6732207577620791426
+    second: Lobby Interior (3)_19
+  - first:
+      213: -7768103682377044587
+    second: Lobby Interior (3)_20
+  - first:
+      213: 2581242565256471026
+    second: Lobby Interior (3)_21
+  - first:
+      213: -5377810356644783873
+    second: Lobby Interior (3)_22
+  - first:
+      213: 3128052033266375734
+    second: Lobby Interior (3)_23
+  - first:
+      213: 8496172413934431464
+    second: Lobby Interior (3)_24
+  - first:
+      213: 8428458108772328778
+    second: Lobby Interior (3)_25
+  - first:
+      213: -7461523137803853430
+    second: Lobby Interior (3)_26
+  - first:
+      213: -5623288611967271631
+    second: Lobby Interior (3)_27
+  - first:
+      213: -1616622217386239725
+    second: Lobby Interior (3)_28
+  - first:
+      213: -2231905343158696676
+    second: Lobby Interior (3)_29
+  - first:
+      213: -8195330458825944112
+    second: Lobby Interior (3)_30
+  - first:
+      213: 7881030820900476701
+    second: Lobby Interior (3)_31
+  - first:
+      213: 1231012662621100977
+    second: Lobby Interior (3)_32
+  - first:
+      213: 454998136558528706
+    second: Lobby Interior (3)_33
+  - first:
+      213: 7080222439535132209
+    second: Lobby Interior (3)_34
+  - first:
+      213: -2597807284446829469
+    second: Lobby Interior (3)_35
+  - first:
+      213: 2097332959992026419
+    second: Lobby Interior (3)_36
+  - first:
+      213: -8245637559382411646
+    second: Lobby Interior (3)_37
+  - first:
+      213: 7363660327390505105
+    second: Lobby Interior (3)_38
+  - first:
+      213: 8308916340507687246
+    second: Lobby Interior (3)_39
+  - first:
+      213: -9056273309144015005
+    second: Lobby Interior (3)_40
+  - first:
+      213: 7277809234834863959
+    second: Lobby Interior (3)_41
+  - first:
+      213: -4888943372255854483
+    second: Lobby Interior (3)_42
+  - first:
+      213: -516870115428151136
+    second: Lobby Interior (3)_43
+  - first:
+      213: 3009850938918051815
+    second: Lobby Interior (3)_44
+  - first:
+      213: 8324930863673737956
+    second: Lobby Interior (3)_45
+  - first:
+      213: 639108711241822728
+    second: Lobby Interior (3)_46
+  - first:
+      213: 316908407938374148
+    second: Lobby Interior (3)_47
+  - first:
+      213: -6561103925641470507
+    second: Lobby Interior (3)_48
+  - first:
+      213: 3175425533062646674
+    second: Lobby Interior (3)_49
+  - first:
+      213: -5061428484456002836
+    second: Lobby Interior (3)_50
+  - first:
+      213: -1827897484876201528
+    second: Lobby Interior (3)_51
+  - first:
+      213: 8384308683427650967
+    second: Lobby Interior (3)_52
+  - first:
+      213: -5962952598596814198
+    second: Lobby Interior (3)_53
+  - first:
+      213: 5680108494159077279
+    second: Lobby Interior (3)_54
+  - first:
+      213: 8056183494220130427
+    second: Lobby Interior (3)_55
+  - first:
+      213: -3264862290635810934
+    second: Lobby Interior (3)_56
+  - first:
+      213: -7062841945305998635
+    second: Lobby Interior (3)_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lobby Interior (3)_0
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 910
+        width: 263
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248ffa8c8b4c77650800000000000000
+      internalID: 6230664907410372674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_2
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 8
+        width: 276
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad902b7e382f4400800000000000000
+      internalID: 310511148130672032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_7
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 908
+        width: 484
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e887007247c7260800000000000000
+      internalID: 7096674823689506404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_17
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 770
+        width: 127
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167f54f2b1d2c79a0800000000000000
+      internalID: -6234058189407127711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_18
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 770
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0fc4625bb4438b0800000000000000
+      internalID: -5173426830538116878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 115
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d2389abd6223490800000000000000
+      internalID: -7768103682377044587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_21
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 621
+        width: 160
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1ea35ef6a62d320800000000000000
+      internalID: 2581242565256471026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_22
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 621
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff855c639fd2e55b0800000000000000
+      internalID: -5377810356644783873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_23
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 705
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cd7c940c2196b20800000000000000
+      internalID: 3128052033266375734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_24
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 623
+        width: 165
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ece80bbbc778e570800000000000000
+      internalID: 8496172413934431464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_25
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 624
+        width: 165
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45a2a97ef5e7f470800000000000000
+      internalID: 8428458108772328778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_29
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 442
+        width: 62
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15cab06aeda601e0800000000000000
+      internalID: -2231905343158696676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_31
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 440
+        width: 84
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d179dafa6cb0f5d60800000000000000
+      internalID: 7881030820900476701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_35
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 380
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364ef9fd90cb2fbd0800000000000000
+      internalID: -2597807284446829469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_36
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 377
+        width: 166
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3351b0807393b1d10800000000000000
+      internalID: 2097332959992026419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_37
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 377
+        width: 166
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2867466b35c919d80800000000000000
+      internalID: -8245637559382411646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_38
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 379
+        width: 165
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1986fbcad0af03660800000000000000
+      internalID: 7363660327390505105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_39
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 315
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e493660a3633f4370800000000000000
+      internalID: 8308916340507687246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_40
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 253
+        width: 127
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f9e935867a15280800000000000000
+      internalID: -9056273309144015005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_41
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 236
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757b36980f8fff460800000000000000
+      internalID: 7277809234834863959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_52
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 66
+        width: 485
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d9dea535c0b5470800000000000000
+      internalID: 8384308683427650967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_57
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 46
+        width: 266
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da9e49dbaebbfd90800000000000000
+      internalID: -7062841945305998635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby Interior (3)_1
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 860
+        width: 271
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee34e35b8427f44f86696f50d9963bc
+      internalID: 4781667979651015844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 402c550f4d8ead34d8b75f7fed630e4d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lobby Interior (3)_0: 6230664907410372674
+      Lobby Interior (3)_1: 4781667979651015844
+      Lobby Interior (3)_10: 7570659472529189485
+      Lobby Interior (3)_11: 7719820274337935768
+      Lobby Interior (3)_12: -2068032533080179616
+      Lobby Interior (3)_13: -4773884709585490690
+      Lobby Interior (3)_14: 3954400263574863236
+      Lobby Interior (3)_15: -8340859629876802167
+      Lobby Interior (3)_16: 3276465520452950413
+      Lobby Interior (3)_17: -6234058189407127711
+      Lobby Interior (3)_18: -5173426830538116878
+      Lobby Interior (3)_19: -6732207577620791426
+      Lobby Interior (3)_2: 310511148130672032
+      Lobby Interior (3)_20: -7768103682377044587
+      Lobby Interior (3)_21: 2581242565256471026
+      Lobby Interior (3)_22: -5377810356644783873
+      Lobby Interior (3)_23: 3128052033266375734
+      Lobby Interior (3)_24: 8496172413934431464
+      Lobby Interior (3)_25: 8428458108772328778
+      Lobby Interior (3)_26: -7461523137803853430
+      Lobby Interior (3)_27: -5623288611967271631
+      Lobby Interior (3)_28: -1616622217386239725
+      Lobby Interior (3)_29: -2231905343158696676
+      Lobby Interior (3)_3: -5137798649020716772
+      Lobby Interior (3)_30: -8195330458825944112
+      Lobby Interior (3)_31: 7881030820900476701
+      Lobby Interior (3)_32: 1231012662621100977
+      Lobby Interior (3)_33: 454998136558528706
+      Lobby Interior (3)_34: 7080222439535132209
+      Lobby Interior (3)_35: -2597807284446829469
+      Lobby Interior (3)_36: 2097332959992026419
+      Lobby Interior (3)_37: -8245637559382411646
+      Lobby Interior (3)_38: 7363660327390505105
+      Lobby Interior (3)_39: 8308916340507687246
+      Lobby Interior (3)_4: 6305468450857373426
+      Lobby Interior (3)_40: -9056273309144015005
+      Lobby Interior (3)_41: 7277809234834863959
+      Lobby Interior (3)_42: -4888943372255854483
+      Lobby Interior (3)_43: -516870115428151136
+      Lobby Interior (3)_44: 3009850938918051815
+      Lobby Interior (3)_45: 8324930863673737956
+      Lobby Interior (3)_46: 639108711241822728
+      Lobby Interior (3)_47: 316908407938374148
+      Lobby Interior (3)_48: -6561103925641470507
+      Lobby Interior (3)_49: 3175425533062646674
+      Lobby Interior (3)_5: -7262489425331437139
+      Lobby Interior (3)_50: -5061428484456002836
+      Lobby Interior (3)_51: -1827897484876201528
+      Lobby Interior (3)_52: 8384308683427650967
+      Lobby Interior (3)_53: -5962952598596814198
+      Lobby Interior (3)_54: 5680108494159077279
+      Lobby Interior (3)_55: 8056183494220130427
+      Lobby Interior (3)_56: -3264862290635810934
+      Lobby Interior (3)_57: -7062841945305998635
+      Lobby Interior (3)_6: -8298481761764547869
+      Lobby Interior (3)_7: 7096674823689506404
+      Lobby Interior (3)_8: -7793049184158297658
+      Lobby Interior (3)_9: -7112421617722561480
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
