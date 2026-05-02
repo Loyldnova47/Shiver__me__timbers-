@@ -296,12 +296,12 @@ TextureImporter:
       name: Lobby Interior (3)_2
       rect:
         serializedVersion: 2
-        x: 1521
-        y: 8
-        width: 276
-        height: 217
+        x: 1516
+        y: 5
+        width: 282
+        height: 228
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -763,7 +763,7 @@ TextureImporter:
         width: 271
         height: 220
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
