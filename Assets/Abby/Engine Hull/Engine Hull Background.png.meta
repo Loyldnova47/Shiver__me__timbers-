@@ -1,10 +1,19 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Musa/Resources/Sprites/Item Resources/Chum Sprite .png.meta
+guid: 60110f98991370e46883237f773fed2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 566594487235650780
+    second: Chum Sprite _0
+========
 guid: d8826df96c20a9a46ba95927be4876d6
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 377415574426516127
     second: Engine Hull Background_0
+>>>>>>>> main:Assets/Abby/Engine Hull/Engine Hull Background.png.meta
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,6 +109,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
+<<<<<<<< HEAD:Assets/Musa/Resources/Sprites/Item Resources/Chum Sprite .png.meta
+      name: Chum Sprite _0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 244
+        width: 98
+        height: 132
+========
       name: Engine Hull Background_0
       rect:
         serializedVersion: 2
@@ -107,6 +125,7 @@ TextureImporter:
         y: 0
         width: 1920
         height: 1080
+>>>>>>>> main:Assets/Abby/Engine Hull/Engine Hull Background.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +134,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
+<<<<<<<< HEAD:Assets/Musa/Resources/Sprites/Item Resources/Chum Sprite .png.meta
+      spriteID: cd420672fa2fcd700800000000000000
+      internalID: 566594487235650780
+========
       spriteID: f9a746e1779dc3500800000000000000
       internalID: 377415574426516127
+>>>>>>>> main:Assets/Abby/Engine Hull/Engine Hull Background.png.meta
       vertices: []
       indices: 
       edges: []
@@ -135,7 +159,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+<<<<<<<< HEAD:Assets/Musa/Resources/Sprites/Item Resources/Chum Sprite .png.meta
+      Chum Sprite _0: 566594487235650780
+========
       Engine Hull Background_0: 377415574426516127
+>>>>>>>> main:Assets/Abby/Engine Hull/Engine Hull Background.png.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
