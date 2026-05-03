@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Editor.meta
 guid: 3a14384e1b7f94043bfba51fbc0f35d4
+========
+guid: 66b1e4271af0d75449d19d9382c5e8e2
+>>>>>>>> main:Assets/_Recovery.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
