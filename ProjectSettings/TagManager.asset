@@ -12,6 +12,8 @@ TagManager:
   - Seaweed1
   - Enemy1
   - Enemy2
+  - PPlayer
+  - Damage
   layers:
   - Default
   - TransparentFX
