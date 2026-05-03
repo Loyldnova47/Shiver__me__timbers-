@@ -207,8 +207,6 @@ Transform:
   m_Children:
   - {fileID: 1613000743}
   m_Father: {fileID: 975274059}
-  m_Children: []
-  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &505384265
 GameObject:
@@ -797,8 +795,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Shiver me Timbers'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f9842294bfdbd40459bf2072a4140aa5, type: 2}
-  m_sharedMaterial: {fileID: -1375612320535478270, guid: f9842294bfdbd40459bf2072a4140aa5, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: cbb9709be780eed4f9666511fd34f2b8, type: 2}
+  m_sharedMaterial: {fileID: -1375612320535478270, guid: cbb9709be780eed4f9666511fd34f2b8, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -934,8 +932,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Press Start
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f9842294bfdbd40459bf2072a4140aa5, type: 2}
-  m_sharedMaterial: {fileID: -1375612320535478270, guid: f9842294bfdbd40459bf2072a4140aa5, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: cbb9709be780eed4f9666511fd34f2b8, type: 2}
+  m_sharedMaterial: {fileID: -1375612320535478270, guid: cbb9709be780eed4f9666511fd34f2b8, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
