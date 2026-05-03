@@ -25,6 +25,8 @@ public class PPlayerHealth : MonoBehaviour
         if (health <= 0)
         {
             Destroy(gameObject); //If the damage takes the player down to zero (or below), then the player will be destroyed 
+
+            Object.FindAnyObjectByType<GameManager>().TriggerGameOver();
         }
     }
 }
