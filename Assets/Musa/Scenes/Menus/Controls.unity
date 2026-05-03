@@ -894,15 +894,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: Controls
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 14d8807970f1556438c0f0c9736880d5, type: 2}
-  m_sharedMaterial: {fileID: -2010535806438398847, guid: 14d8807970f1556438c0f0c9736880d5, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: cbb9709be780eed4f9666511fd34f2b8, type: 2}
+  m_sharedMaterial: {fileID: -1375612320535478270, guid: cbb9709be780eed4f9666511fd34f2b8, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4291613000
+  m_fontColor: {r: 0.282353, g: 0.8196079, b: 0.8000001, a: 1}
   m_enableVertexGradient: 1
   m_colorMode: 3
   m_fontColorGradient:
