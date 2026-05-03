@@ -6,7 +6,7 @@ public class Controls : MonoBehaviour
 {
     public void ChangeScene(string Controls)
     {
-        SceneManager.LoadScene(Controls);
+        SceneManager.LoadScene("Controls");
     }
 
 }

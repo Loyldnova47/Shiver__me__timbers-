@@ -6,7 +6,7 @@ public class SettingsMenu : MonoBehaviour
 {
     public void ChangeScene(string SettingsMenu)
     {
-        SceneManager.LoadScene(SettingsMenu);
+        SceneManager.LoadScene("Settings Menu");
     }
 
 }
