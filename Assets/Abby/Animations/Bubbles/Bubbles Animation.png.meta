@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 9862f0ca92913234f824b601398d83f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4375640460515534696
+    second: Bubbles Animation_0
+  - first:
+      213: -8188539762851017658
+    second: Bubbles Animation_1
+  - first:
+      213: -5806565073155728192
+    second: Bubbles Animation_2
+  - first:
+      213: -2809575087999691011
+    second: Bubbles Animation_3
+  - first:
+      213: 7764502262714206706
+    second: Bubbles Animation_4
+  - first:
+      213: -468328015324981566
+    second: Bubbles Animation_5
+  - first:
+      213: -7605739860194090794
+    second: Bubbles Animation_6
+  - first:
+      213: -3588931978400192393
+    second: Bubbles Animation_7
+  - first:
+      213: -660282796760205641
+    second: Bubbles Animation_8
+  - first:
+      213: -5835564498475362475
+    second: Bubbles Animation_9
+  - first:
+      213: 4044045121074081920
+    second: Bubbles Animation_10
+  - first:
+      213: -1606913945029641768
+    second: Bubbles Animation_11
+  - first:
+      213: 8809956391002456075
+    second: Bubbles Animation_12
+  - first:
+      213: 3237726164183945320
+    second: Bubbles Animation_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bubbles Animation_0
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 568
+        width: 243
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867ead1d0d569bc30800000000000000
+      internalID: 4375640460515534696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubbles Animation_3
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 568
+        width: 243
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6ddfdd7526209d0800000000000000
+      internalID: -2809575087999691011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubbles Animation_6
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 570
+        width: 244
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d02a13e4ebf27690800000000000000
+      internalID: -7605739860194090794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubbles Animation_8
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 570
+        width: 241
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b67ecf6b4436d6f0800000000000000
+      internalID: -660282796760205641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cf7a06e1a0e27ef4a8599b138bda9c91
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bubbles Animation_0: 4375640460515534696
+      Bubbles Animation_1: -8188539762851017658
+      Bubbles Animation_10: 4044045121074081920
+      Bubbles Animation_11: -1606913945029641768
+      Bubbles Animation_12: 8809956391002456075
+      Bubbles Animation_13: 3237726164183945320
+      Bubbles Animation_2: -5806565073155728192
+      Bubbles Animation_3: -2809575087999691011
+      Bubbles Animation_4: 7764502262714206706
+      Bubbles Animation_5: -468328015324981566
+      Bubbles Animation_6: -7605739860194090794
+      Bubbles Animation_7: -3588931978400192393
+      Bubbles Animation_8: -660282796760205641
+      Bubbles Animation_9: -5835564498475362475
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
