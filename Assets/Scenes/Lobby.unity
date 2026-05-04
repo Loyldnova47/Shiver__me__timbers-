@@ -398,6 +398,120 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 75b9a194fc7d496438705472ea40c2c7, type: 3}
+--- !u!1001 &1025781037339060772
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3276732598704968216, guid: e2505664d95cecc4a81561469ea3e225, type: 3}
+      propertyPath: m_Name
+      value: 'Customer Shark Female '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7305905524117954783, guid: e2505664d95cecc4a81561469ea3e225, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.1045
+      objectReference: {fileID: 0}
+    - target: {fileID: 7305905524117954783, guid: e2505664d95cecc4a81561469ea3e225, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.8837
+      objectReference: {fileID: 0}
+    - target: {fileID: 7305905524117954783, guid: e2505664d95cecc4a81561469ea3e225, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7305905524117954783, guid: e2505664d95cecc4a81561469ea3e225, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7305905524117954783, guid: e2505664d95cecc4a81561469ea3e225, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7305905524117954783, guid: e2505664d95cecc4a81561469ea3e225, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7305905524117954783, guid: e2505664d95cecc4a81561469ea3e225, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7305905524117954783, guid: e2505664d95cecc4a81561469ea3e225, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7305905524117954783, guid: e2505664d95cecc4a81561469ea3e225, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7305905524117954783, guid: e2505664d95cecc4a81561469ea3e225, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e2505664d95cecc4a81561469ea3e225, type: 3}
+--- !u!1001 &2208169421157866571
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3860439185822392308, guid: 2e51c07b505ebd54c8c51b4632fc4f18, type: 3}
+      propertyPath: m_Name
+      value: 'Customer Shark Male '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5953656518198456787, guid: 2e51c07b505ebd54c8c51b4632fc4f18, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.101
+      objectReference: {fileID: 0}
+    - target: {fileID: 5953656518198456787, guid: 2e51c07b505ebd54c8c51b4632fc4f18, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.8285
+      objectReference: {fileID: 0}
+    - target: {fileID: 5953656518198456787, guid: 2e51c07b505ebd54c8c51b4632fc4f18, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5953656518198456787, guid: 2e51c07b505ebd54c8c51b4632fc4f18, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5953656518198456787, guid: 2e51c07b505ebd54c8c51b4632fc4f18, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5953656518198456787, guid: 2e51c07b505ebd54c8c51b4632fc4f18, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5953656518198456787, guid: 2e51c07b505ebd54c8c51b4632fc4f18, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5953656518198456787, guid: 2e51c07b505ebd54c8c51b4632fc4f18, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5953656518198456787, guid: 2e51c07b505ebd54c8c51b4632fc4f18, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5953656518198456787, guid: 2e51c07b505ebd54c8c51b4632fc4f18, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e51c07b505ebd54c8c51b4632fc4f18, type: 3}
 --- !u!1001 &2474711600934676037
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -463,6 +577,63 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b1723402c028bb842b9061b25a279af4, type: 3}
+--- !u!1001 &4328213236273226961
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 686169434256571834, guid: 9de475dabfb0ec9448cde0b2053d2442, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.2999
+      objectReference: {fileID: 0}
+    - target: {fileID: 686169434256571834, guid: 9de475dabfb0ec9448cde0b2053d2442, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.8465
+      objectReference: {fileID: 0}
+    - target: {fileID: 686169434256571834, guid: 9de475dabfb0ec9448cde0b2053d2442, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 686169434256571834, guid: 9de475dabfb0ec9448cde0b2053d2442, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 686169434256571834, guid: 9de475dabfb0ec9448cde0b2053d2442, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 686169434256571834, guid: 9de475dabfb0ec9448cde0b2053d2442, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 686169434256571834, guid: 9de475dabfb0ec9448cde0b2053d2442, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 686169434256571834, guid: 9de475dabfb0ec9448cde0b2053d2442, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 686169434256571834, guid: 9de475dabfb0ec9448cde0b2053d2442, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 686169434256571834, guid: 9de475dabfb0ec9448cde0b2053d2442, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5892052139996742347, guid: 9de475dabfb0ec9448cde0b2053d2442, type: 3}
+      propertyPath: m_Name
+      value: 'Worker Shark '
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9de475dabfb0ec9448cde0b2053d2442, type: 3}
 --- !u!1001 &4542073430983226260
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -720,3 +891,6 @@ SceneRoots:
   - {fileID: 5770322802260945196}
   - {fileID: 1363674969}
   - {fileID: 1487206927}
+  - {fileID: 1025781037339060772}
+  - {fileID: 2208169421157866571}
+  - {fileID: 4328213236273226961}
