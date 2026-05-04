@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 1c2cd9f34aa7cfc48bb28db527734d10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2184279363875633306
+    second: Worker Shark Animation Sprite Sheet (1)_0
+  - first:
+      213: -7148954677084350792
+    second: Worker Shark Animation Sprite Sheet (1)_1
+  - first:
+      213: -3789846770568773398
+    second: Worker Shark Animation Sprite Sheet (1)_2
+  - first:
+      213: 3192566722900159060
+    second: Worker Shark Animation Sprite Sheet (1)_3
+  - first:
+      213: -5763289612729800249
+    second: Worker Shark Animation Sprite Sheet (1)_4
+  - first:
+      213: 3525925405502303362
+    second: Worker Shark Animation Sprite Sheet (1)_5
+  - first:
+      213: 7320050086104432442
+    second: Worker Shark Animation Sprite Sheet (1)_6
+  - first:
+      213: -7789520355485330718
+    second: Worker Shark Animation Sprite Sheet (1)_7
+  - first:
+      213: -8123177795456757833
+    second: Worker Shark Animation Sprite Sheet (1)_8
+  - first:
+      213: -3339744645329079815
+    second: Worker Shark Animation Sprite Sheet (1)_9
+  - first:
+      213: 629190142910122353
+    second: Worker Shark Animation Sprite Sheet (1)_10
+  - first:
+      213: 8765143853219771064
+    second: Worker Shark Animation Sprite Sheet (1)_11
+  - first:
+      213: 4018477377529388416
+    second: Worker Shark Animation Sprite Sheet (1)_12
+  - first:
+      213: 4515302634740930300
+    second: Worker Shark Animation Sprite Sheet (1)_13
+  - first:
+      213: 4210794956570778076
+    second: Worker Shark Animation Sprite Sheet (1)_14
+  - first:
+      213: -8691071431650739342
+    second: Worker Shark Animation Sprite Sheet (1)_15
+  - first:
+      213: -7379621284662336417
+    second: Worker Shark Animation Sprite Sheet (1)_16
+  - first:
+      213: 1012275796531822220
+    second: Worker Shark Animation Sprite Sheet (1)_17
+  - first:
+      213: -871714167635958689
+    second: Worker Shark Animation Sprite Sheet (1)_18
+  - first:
+      213: 1681632046690917843
+    second: Worker Shark Animation Sprite Sheet (1)_19
+  - first:
+      213: 3043833571013252756
+    second: Worker Shark Animation Sprite Sheet (1)_20
+  - first:
+      213: -2514855921683137513
+    second: Worker Shark Animation Sprite Sheet (1)_21
+  - first:
+      213: 213222053266953430
+    second: Worker Shark Animation Sprite Sheet (1)_22
+  - first:
+      213: -1883881665857546631
+    second: Worker Shark Animation Sprite Sheet (1)_23
+  - first:
+      213: -4132795732000113888
+    second: Worker Shark Animation Sprite Sheet (1)_24
+  - first:
+      213: 585919258132426244
+    second: Worker Shark Animation Sprite Sheet (1)_25
+  - first:
+      213: 474168586204920478
+    second: Worker Shark Animation Sprite Sheet (1)_26
+  - first:
+      213: 6690597733799406802
+    second: Worker Shark Animation Sprite Sheet (1)_27
+  - first:
+      213: -3287224577270287047
+    second: Worker Shark Animation Sprite Sheet (1)_28
+  - first:
+      213: 6590573664175729865
+    second: Worker Shark Animation Sprite Sheet (1)_29
+  - first:
+      213: 2297547873690832400
+    second: Worker Shark Animation Sprite Sheet (1)_30
+  - first:
+      213: 7999897350414005785
+    second: Worker Shark Animation Sprite Sheet (1)_31
+  - first:
+      213: -7580978756024449003
+    second: Worker Shark Animation Sprite Sheet (1)_32
+  - first:
+      213: -925129071762812168
+    second: Worker Shark Animation Sprite Sheet (1)_33
+  - first:
+      213: 2750806846829832597
+    second: Worker Shark Animation Sprite Sheet (1)_34
+  - first:
+      213: -6156783143299494527
+    second: Worker Shark Animation Sprite Sheet (1)_35
+  - first:
+      213: -8852160815664695478
+    second: Worker Shark Animation Sprite Sheet (1)_36
+  - first:
+      213: 3691484087203894258
+    second: Worker Shark Animation Sprite Sheet (1)_37
+  - first:
+      213: -1210504612356114335
+    second: Worker Shark Animation Sprite Sheet (1)_38
+  - first:
+      213: -1255459441869657292
+    second: Worker Shark Animation Sprite Sheet (1)_39
+  - first:
+      213: 2120934832996124343
+    second: Worker Shark Animation Sprite Sheet (1)_40
+  - first:
+      213: -475734652646443574
+    second: Worker Shark Animation Sprite Sheet (1)_41
+  - first:
+      213: -607438637931739187
+    second: Worker Shark Animation Sprite Sheet (1)_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2433
+        width: 271
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6670af9cd71efa1e0800000000000000
+      internalID: -2184279363875633306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2427
+        width: 270
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b61505199fc9cc90800000000000000
+      internalID: -7148954677084350792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_2
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2427
+        width: 271
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0461f0172c76bc0800000000000000
+      internalID: -3789846770568773398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_3
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 2419
+        width: 270
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a623005864e4c20800000000000000
+      internalID: 3192566722900159060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 2425
+        width: 271
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9aa87e1aea400b0800000000000000
+      internalID: -5763289612729800249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 2419
+        width: 265
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c6d73a97a9ee030800000000000000
+      internalID: 3525925405502303362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 2422
+        width: 265
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f725025ca069560800000000000000
+      internalID: 7320050086104432442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1818
+        width: 202
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e25f90e18016e390800000000000000
+      internalID: -7789520355485330718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1819
+        width: 197
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf857e55dca44f80800000000000000
+      internalID: -8123177795456757833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_9
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1843
+        width: 184
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1b5a690f7d6a1d0800000000000000
+      internalID: -3339744645329079815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2079
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179c554f9155bb800800000000000000
+      internalID: 629190142910122353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_11
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1826
+        width: 189
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2fc5015eb04a970800000000000000
+      internalID: 8765143853219771064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_12
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 2080
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d159152ef74c730800000000000000
+      internalID: 4018477377529388416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_13
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 2087
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf65e1db2d399ae30800000000000000
+      internalID: 4515302634740930300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_14
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1820
+        width: 181
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9586804bfbf6a30800000000000000
+      internalID: 4210794956570778076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2081
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b79e6849c136780800000000000000
+      internalID: -8691071431650739342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 2087
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f542ace5a81569990800000000000000
+      internalID: -7379621284662336417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1818
+        width: 201
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e310349735c0e00800000000000000
+      internalID: 1012275796531822220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1303
+        width: 207
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f542264459c07e3f0800000000000000
+      internalID: -871714167635958689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1597
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dddce1df6b565710800000000000000
+      internalID: 1681632046690917843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1313
+        width: 203
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49657a3818edd3a20800000000000000
+      internalID: 3043833571013252756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_21
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1327
+        width: 191
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cf9ce0ddf691dd0800000000000000
+      internalID: -2514855921683137513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_22
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1312
+        width: 196
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d49147e35485f200800000000000000
+      internalID: 213222053266953430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_23
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1305
+        width: 191
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97690bb2b9b1bd5e0800000000000000
+      internalID: -1883881665857546631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_24
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1303
+        width: 210
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bf1e0ad2c55a6c0800000000000000
+      internalID: -4132795732000113888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_25
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1558
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e2b00067a912800800000000000000
+      internalID: 585919258132426244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_26
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1558
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ab46021d5949600800000000000000
+      internalID: 474168586204920478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_27
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1559
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dca52ac037c9dc50800000000000000
+      internalID: 6690597733799406802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_28
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1564
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935fed6d9ae6162d0800000000000000
+      internalID: -3287224577270287047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 732
+        width: 263
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc2d3744db667b50800000000000000
+      internalID: 6590573664175729865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 731
+        width: 264
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ecbc14e9782ef10800000000000000
+      internalID: 2297547873690832400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_31
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 738
+        width: 263
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916f3034148550f60800000000000000
+      internalID: 7999897350414005785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_32
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 735
+        width: 263
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5184165bcf3fac690800000000000000
+      internalID: -7580978756024449003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_33
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 737
+        width: 263
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2d032c2084923f0800000000000000
+      internalID: -925129071762812168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 728
+        width: 262
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5992107b044dc2620800000000000000
+      internalID: 2750806846829832597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_35
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 727
+        width: 260
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d4588e956be8aa0800000000000000
+      internalID: -6156783143299494527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_36
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 155
+        width: 220
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a477caf83aec62580800000000000000
+      internalID: -8852160815664695478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_37
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 151
+        width: 220
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f39bcf0839ca3330800000000000000
+      internalID: 3691484087203894258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_38
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 150
+        width: 234
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168ba85f77c633fe0800000000000000
+      internalID: -1210504612356114335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_39
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 148
+        width: 201
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43be2711a46b39ee0800000000000000
+      internalID: -1255459441869657292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_40
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 153
+        width: 237
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b68c705ef21f6d10800000000000000
+      internalID: 2120934832996124343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_41
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 290
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac53aad9ad9d569f0800000000000000
+      internalID: -475734652646443574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark Animation Sprite Sheet (1)_42
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 242
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc74b33f6c1f197f0800000000000000
+      internalID: -607438637931739187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Worker Shark Animation Sprite Sheet (1)_0: -2184279363875633306
+      Worker Shark Animation Sprite Sheet (1)_1: -7148954677084350792
+      Worker Shark Animation Sprite Sheet (1)_10: 629190142910122353
+      Worker Shark Animation Sprite Sheet (1)_11: 8765143853219771064
+      Worker Shark Animation Sprite Sheet (1)_12: 4018477377529388416
+      Worker Shark Animation Sprite Sheet (1)_13: 4515302634740930300
+      Worker Shark Animation Sprite Sheet (1)_14: 4210794956570778076
+      Worker Shark Animation Sprite Sheet (1)_15: -8691071431650739342
+      Worker Shark Animation Sprite Sheet (1)_16: -7379621284662336417
+      Worker Shark Animation Sprite Sheet (1)_17: 1012275796531822220
+      Worker Shark Animation Sprite Sheet (1)_18: -871714167635958689
+      Worker Shark Animation Sprite Sheet (1)_19: 1681632046690917843
+      Worker Shark Animation Sprite Sheet (1)_2: -3789846770568773398
+      Worker Shark Animation Sprite Sheet (1)_20: 3043833571013252756
+      Worker Shark Animation Sprite Sheet (1)_21: -2514855921683137513
+      Worker Shark Animation Sprite Sheet (1)_22: 213222053266953430
+      Worker Shark Animation Sprite Sheet (1)_23: -1883881665857546631
+      Worker Shark Animation Sprite Sheet (1)_24: -4132795732000113888
+      Worker Shark Animation Sprite Sheet (1)_25: 585919258132426244
+      Worker Shark Animation Sprite Sheet (1)_26: 474168586204920478
+      Worker Shark Animation Sprite Sheet (1)_27: 6690597733799406802
+      Worker Shark Animation Sprite Sheet (1)_28: -3287224577270287047
+      Worker Shark Animation Sprite Sheet (1)_29: 6590573664175729865
+      Worker Shark Animation Sprite Sheet (1)_3: 3192566722900159060
+      Worker Shark Animation Sprite Sheet (1)_30: 2297547873690832400
+      Worker Shark Animation Sprite Sheet (1)_31: 7999897350414005785
+      Worker Shark Animation Sprite Sheet (1)_32: -7580978756024449003
+      Worker Shark Animation Sprite Sheet (1)_33: -925129071762812168
+      Worker Shark Animation Sprite Sheet (1)_34: 2750806846829832597
+      Worker Shark Animation Sprite Sheet (1)_35: -6156783143299494527
+      Worker Shark Animation Sprite Sheet (1)_36: -8852160815664695478
+      Worker Shark Animation Sprite Sheet (1)_37: 3691484087203894258
+      Worker Shark Animation Sprite Sheet (1)_38: -1210504612356114335
+      Worker Shark Animation Sprite Sheet (1)_39: -1255459441869657292
+      Worker Shark Animation Sprite Sheet (1)_4: -5763289612729800249
+      Worker Shark Animation Sprite Sheet (1)_40: 2120934832996124343
+      Worker Shark Animation Sprite Sheet (1)_41: -475734652646443574
+      Worker Shark Animation Sprite Sheet (1)_42: -607438637931739187
+      Worker Shark Animation Sprite Sheet (1)_5: 3525925405502303362
+      Worker Shark Animation Sprite Sheet (1)_6: 7320050086104432442
+      Worker Shark Animation Sprite Sheet (1)_7: -7789520355485330718
+      Worker Shark Animation Sprite Sheet (1)_8: -8123177795456757833
+      Worker Shark Animation Sprite Sheet (1)_9: -3339744645329079815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
