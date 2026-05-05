@@ -9,7 +9,7 @@ public class LevelMove_Ref : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         // Check if the object has the tag "Player" OR "Quill"
-        if (collision.CompareTag("Player") || collision.CompareTag("Quill"))
+        if (collision.CompareTag("PPlayer") || collision.CompareTag("Quill"))
         {
             Debug.Log("Level Complete! Loading scene index: " + sceneBuildIndex);
             
