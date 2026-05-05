@@ -21,6 +21,7 @@ public class PPlayerHealth : MonoBehaviour
     {
         health -= amount;
         healthSlider.value = health;
+       
 
         if (health <= 0)
         {
