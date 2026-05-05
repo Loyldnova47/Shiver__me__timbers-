@@ -15,6 +15,7 @@ TagManager:
   - PPlayer
   - Damage
   - SoundManager
+  - GameMusic
   layers:
   - Default
   - TransparentFX
