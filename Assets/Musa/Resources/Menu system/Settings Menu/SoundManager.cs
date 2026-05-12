@@ -9,11 +9,11 @@ public class SSoundManager : MonoBehaviour
 
     void Start()
     {
-        if (PlayerPrefs.HasKey("soundVolume"))
+        if (PlayerPrefs.HasKey("musicVolume"))
             LoadVolume();
         else
         {
-            PlayerPrefs.SetFloat("soundVolume", 0.5f);
+            PlayerPrefs.SetFloat("musicVolume", 0.5f);
             LoadVolume();
         }
         
@@ -27,12 +27,12 @@ public class SSoundManager : MonoBehaviour
 
     public void SaveVolume()
     {
-        PlayerPrefs.SetFloat("soundVolume", VolumeSlider.value);
+        PlayerPrefs.SetFloat("musicVolume", VolumeSlider.value);
        
     }
 
     public void LoadVolume()
     {
-       VolumeSlider.value = PlayerPrefs.GetFloat("soundVolume");
+       VolumeSlider.value = PlayerPrefs.GetFloat("musicVolume");
     }
 }
