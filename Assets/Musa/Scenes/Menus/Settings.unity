@@ -1702,6 +1702,10 @@ PrefabInstance:
       value: MusicBG
       objectReference: {fileID: 0}
     - target: {fileID: 5630338824886895488, guid: 1d73308c38c0576439e4ca9d2654a251, type: 3}
+      propertyPath: Mute
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5630338824886895488, guid: 1d73308c38c0576439e4ca9d2654a251, type: 3}
       propertyPath: m_Volume
       value: 0.01
       objectReference: {fileID: 0}
@@ -2343,6 +2347,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5630338824886895488, guid: 1d73308c38c0576439e4ca9d2654a251, type: 3}
+      propertyPath: Mute
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5630338824886895488, guid: 1d73308c38c0576439e4ca9d2654a251, type: 3}
       propertyPath: m_Volume
       value: 0.05
       objectReference: {fileID: 0}
@@ -2583,6 +2591,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1326861389141394024, guid: d71087e1bb61745489052e0509665ac0, type: 3}
+      propertyPath: Mute
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1892304460540023393, guid: d71087e1bb61745489052e0509665ac0, type: 3}
       propertyPath: m_Name
       value: Audio Manager
@@ -2590,6 +2602,10 @@ PrefabInstance:
     - target: {fileID: 1892304460540023393, guid: d71087e1bb61745489052e0509665ac0, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4732291982039608591, guid: d71087e1bb61745489052e0509665ac0, type: 3}
+      propertyPath: Mute
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -55,7 +55,7 @@ using UnityEngine;
         //Move the player
         transform.position += moveDirection.normalized * moveSpeed * Time.deltaTime;
 
-        AudioManager.Instance.PlaySFX("Quills_movement_SFX");
+        
     }
  }
     
