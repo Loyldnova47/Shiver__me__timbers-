@@ -17,6 +17,7 @@ public class GameManager : MonoBehaviour
     {
         gameOverScreen.SetActive(true);
         Time.timeScale = 0;
+        AudioManager.Instance.PlaySFX("Alphix-game-over-417465");
     }
 
     public void RestartGame()
