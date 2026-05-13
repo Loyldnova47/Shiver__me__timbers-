@@ -25,12 +25,12 @@ public class MusicChanger : MonoBehaviour
     } 
 
     private GameObject musicManager;
-    public string Hold_it_in;
+    public string MusicToStop;
 
     void Start()
     {
         musicManager = GameObject.Find("AudioManager");
-        AudioManager.Instance.StopMusic(Hold_it_in);
+        AudioManager.Instance.StopMusic(MusicToStop);
         AudioManager.Instance.PlayMusic("Level 1");
     }
 }
