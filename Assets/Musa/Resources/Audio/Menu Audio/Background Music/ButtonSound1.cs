@@ -12,10 +12,10 @@ public class ButtonSound1 : MonoBehaviour
     private IEnumerator WaitAndLoadScene(float clipLength)
     {
         yield return new WaitForSeconds(clipLength);
-        while (LocalizationManager.instance != null && !LocalizationManager. instance.GetIsReady())
+        /*while (LocalizationManager.instance != null && !LocalizationManager.instance.GetIsReady())
         {
             yield return new WaitForEndOfFrame();
-        }
+        }*/
         SceneManager.LoadScene("MainMenu");
     }
 
