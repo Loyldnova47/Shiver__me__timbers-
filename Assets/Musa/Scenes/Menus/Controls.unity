@@ -385,6 +385,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b34427239682d4da45e93e3a356d73, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ExitController
+  buttonSo: {fileID: 11400000, guid: 208974d61eca0ea48a6c11b496b5ac98, type: 2}
 --- !u!1 &922027553
 GameObject:
   m_ObjectHideFlags: 0
