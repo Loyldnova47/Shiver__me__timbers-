@@ -1,6 +1,7 @@
-using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class SoundMMManager : MonoBehaviour
 {
@@ -10,9 +11,15 @@ public class SoundMMManager : MonoBehaviour
 
     public GameObject audioSourceObject;
 
+    public GameObject audioSourceObject2;
+
     public SoundSo backgroundSo;
 
+    public SoundSo foregroundSo;
+
     public static SoundMMManager Instance;
+
+    private bool hasLandedInGameScene = false;
 
     private void Awake()
     {
@@ -28,7 +35,8 @@ public class SoundMMManager : MonoBehaviour
 
         SetSounds();
         PlaySound(backgroundSo);
-       
+        PlaySound(foregroundSo);
+
     }
 
     public void SetSounds()
@@ -58,6 +66,34 @@ public class SoundMMManager : MonoBehaviour
 
                 return;
             }
+        }
+    }
+
+    void OnEnable()
+    {
+
+        // Subscribe to the scene Loaded event
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+    void OnDisable()
+    {
+        // Unsubscribe to prevent memory leaks 
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        // Check if this is the next scene (replace "NextSceneName")
+        if (scene.name == "GameScene (Main)")
+        {
+            // Stop the sound
+            SoundMMManager.Instance.gameObject.SetActive(false);
+        }
+
+        else if (scene.name == "Menus")
+        {
+            SoundMMManager.Instance.gameObject.SetActive(true);
         }
     }
 }
