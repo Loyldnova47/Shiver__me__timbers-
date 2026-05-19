@@ -1221,7 +1221,19 @@ PrefabInstance:
       value: Re-able sound
       objectReference: {fileID: 0}
     - target: {fileID: 7659264870186392927, guid: d4ec262cb71cd2d458927974db064db6, type: 3}
+      propertyPath: targetObject
+      value: 
+      objectReference: {fileID: 1050302592875356642, guid: 5298efce77c79fa4d847b98851f1e9d6, type: 3}
+    - target: {fileID: 7659264870186392927, guid: d4ec262cb71cd2d458927974db064db6, type: 3}
+      propertyPath: SoundMMManager
+      value: 
+      objectReference: {fileID: 1050302592875356642, guid: 5298efce77c79fa4d847b98851f1e9d6, type: 3}
+    - target: {fileID: 7659264870186392927, guid: d4ec262cb71cd2d458927974db064db6, type: 3}
       propertyPath: soundMMManager
+      value: 
+      objectReference: {fileID: 1050302592875356642, guid: 5298efce77c79fa4d847b98851f1e9d6, type: 3}
+    - target: {fileID: 7659264870186392927, guid: d4ec262cb71cd2d458927974db064db6, type: 3}
+      propertyPath: SoundMMManagerPrefab
       value: 
       objectReference: {fileID: 1050302592875356642, guid: 5298efce77c79fa4d847b98851f1e9d6, type: 3}
     m_RemovedComponents: []

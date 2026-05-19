@@ -1,17 +1,17 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
-public class Re_enable: MonoBehaviour
+public class Re_enable : MonoBehaviour
 {
-    public GameObject soundMMManager;
-
-    
-
-    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    public GameObject targetObject; // The object to re-enable
+    private void Start()
     {
-        if (scene.name == "Menus")
+        if (targetObject != null)
         {
-            SoundMMManager.Instance.gameObject.SetActive(true);
+            targetObject.SetActive(true); // Re-enable the target object
+        }
+        else
+        {
+            Debug.LogWarning("Target object is not assigned.");
         }
     }
 }

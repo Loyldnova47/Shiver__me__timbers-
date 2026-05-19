@@ -48,4 +48,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 058756377ac170943b3c275e88411e3f, type: 2}
   - {fileID: 11400000, guid: 208974d61eca0ea48a6c11b496b5ac98, type: 2}
   audioSourceObject: {fileID: 5528265864179660063, guid: 35c681317162d0a4dafebb64456c43ca, type: 3}
+  audioSourceObject2: {fileID: 5528265864179660063, guid: 35c681317162d0a4dafebb64456c43ca, type: 3}
   backgroundSo: {fileID: 11400000, guid: 058756377ac170943b3c275e88411e3f, type: 2}
+  foregroundSo: {fileID: 11400000, guid: 30c328af242324e419d2b19bd3231865, type: 2}
+  Re_enable_sound: {fileID: 0}

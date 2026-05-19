@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -17,10 +18,26 @@ public class SoundMMManager : MonoBehaviour
 
     public SoundSo foregroundSo;
 
+    public GameObject Re_enable_sound;
+
     public static SoundMMManager Instance;
 
     private bool hasLandedInGameScene = false;
 
+    private void Update()
+    {
+        if (SceneManager.GetActiveScene().name == "GameScene (Main)" && !hasLandedInGameScene)
+        {
+            hasLandedInGameScene = true;
+            SoundMMManager.Instance.gameObject.SetActive(false);
+
+        }
+        else if (SceneManager.GetActiveScene().name != "GameScene (Main)" && hasLandedInGameScene)
+        {
+            hasLandedInGameScene = false;
+            SoundMMManager.Instance.gameObject.SetActive(true);
+        }
+    }
     private void Awake()
     {
         if (Instance == null)
@@ -84,16 +101,21 @@ public class SoundMMManager : MonoBehaviour
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
+
+        if (scene.name == "Main Menu")
+        {
+            SoundMMManager.Instance.gameObject.SetActive(true);
+        }
+
+
         // Check if this is the next scene (replace "NextSceneName")
-        if (scene.name == "GameScene (Main)")
+        else if (scene.name == "GameScene (Main)")
         {
             // Stop the sound
             SoundMMManager.Instance.gameObject.SetActive(false);
         }
 
-        else if (scene.name == "Menus")
-        {
-            SoundMMManager.Instance.gameObject.SetActive(true);
-        }
     }
+
+   
 }

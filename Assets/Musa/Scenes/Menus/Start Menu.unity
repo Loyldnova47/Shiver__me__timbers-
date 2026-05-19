@@ -180,6 +180,11 @@ Transform:
   - {fileID: 1613000743}
   m_Father: {fileID: 975274059}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &339610732 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5093598639199907816, guid: d4ec262cb71cd2d458927974db064db6, type: 3}
+  m_PrefabInstance: {fileID: 8998126245044126227}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &505384265
 GameObject:
   m_ObjectHideFlags: 0
@@ -1150,12 +1155,20 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 30c328af242324e419d2b19bd3231865, type: 2}
     - target: {fileID: 898588050689524622, guid: 5298efce77c79fa4d847b98851f1e9d6, type: 3}
+      propertyPath: Re_enable_sound
+      value: 
+      objectReference: {fileID: 339610732}
+    - target: {fileID: 898588050689524622, guid: 5298efce77c79fa4d847b98851f1e9d6, type: 3}
       propertyPath: audioSourceObject2
       value: 
       objectReference: {fileID: 1244829231430947981}
     - target: {fileID: 1050302592875356642, guid: 5298efce77c79fa4d847b98851f1e9d6, type: 3}
       propertyPath: m_Name
       value: 'SoundMMManager '
+      objectReference: {fileID: 0}
+    - target: {fileID: 1050302592875356642, guid: 5298efce77c79fa4d847b98851f1e9d6, type: 3}
+      propertyPath: m_TagString
+      value: GameMusic
       objectReference: {fileID: 0}
     - target: {fileID: 2219888862088119497, guid: 5298efce77c79fa4d847b98851f1e9d6, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1541,10 +1554,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5093598639199907816, guid: d4ec262cb71cd2d458927974db064db6, type: 3}
       propertyPath: m_Name
-      value: Re-able sound
+      value: Re_enable sound
       objectReference: {fileID: 0}
     - target: {fileID: 7659264870186392927, guid: d4ec262cb71cd2d458927974db064db6, type: 3}
+      propertyPath: SoundMMManager
+      value: 
+      objectReference: {fileID: 1244829231430947981}
+    - target: {fileID: 7659264870186392927, guid: d4ec262cb71cd2d458927974db064db6, type: 3}
       propertyPath: soundMMManager
+      value: 
+      objectReference: {fileID: 1244829231430947981}
+    - target: {fileID: 7659264870186392927, guid: d4ec262cb71cd2d458927974db064db6, type: 3}
+      propertyPath: SoundMMManagerPrefab
       value: 
       objectReference: {fileID: 1244829231430947981}
     m_RemovedComponents: []

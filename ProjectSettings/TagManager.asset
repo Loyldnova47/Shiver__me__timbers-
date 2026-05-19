@@ -16,6 +16,7 @@ TagManager:
   - Damage
   - SoundManager
   - GameMusic
+  - 'SoundMMManager '
   layers:
   - Default
   - TransparentFX
