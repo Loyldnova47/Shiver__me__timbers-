@@ -1,17 +1,50 @@
+using NUnit.Framework;
 using UnityEngine;
-
+using System.Collections.Generic;
+using UnityEditor;
+using System;
+using UnityEngine.SceneManagement;
 public class Re_enable : MonoBehaviour
 {
-    public GameObject targetObject; // The object to re-enable
-    private void Start()
+
+    [SerializeField] GameObject _soundMMManagerParent;
+    [SerializeField] GameObject _soundMMManagerChild;
+    private Scene scene;
+
+    public SoundMMManager soundManager;
+
+    List <UnityEngine.Object> GetSceneObjectsNonGeneric()
     {
-        if (targetObject != null)
+        List <UnityEngine.Object> objectsInScene = new List<UnityEngine.Object>();
+        foreach (SoundMMManager go in SoundMMManager.FindObjectsByType<SoundMMManager>(FindObjectsInactive.Include, FindObjectsSortMode.None))
         {
-            targetObject.SetActive(true); // Re-enable the target object
+            SoundMMManager cGO = go as SoundMMManager;
+            if (cGO != null && !EditorUtility.IsPersistent(cGO.transform.root.gameObject) && !(go.hideFlags == HideFlags.NotEditable || go.hideFlags == HideFlags.HideAndDontSave))
+            {
+                objectsInScene.Add(go);
+            }
         }
-        else
+        return objectsInScene; 
+    }
+
+    void Update()
+    {
+        if (soundManager == null || !soundManager.gameObject.activeInHierarchy) 
         {
-            Debug.LogWarning("Target object is not assigned.");
+           // Debug.Log("SoundMMManger is inactive");
+        }
+
+        // Check if this is the next scene (replace "NextSceneName")
+        if (scene.name == "Main Menu")
+        {
+            if (soundManager != null)
+            {
+                Debug.Log(_soundMMManagerParent.activeSelf);
+                // Start the sound
+                soundManager.gameObject.SetActive(true);
+                Debug.Log(_soundMMManagerParent.activeSelf);
+            }
         }
     }
+
 }

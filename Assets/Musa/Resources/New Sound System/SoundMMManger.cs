@@ -1,11 +1,15 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class SoundMMManager : MonoBehaviour
 {
+
+    public SoundMMManager scriptReference;
+
     public List<SoundSo> allSounds = new List<SoundSo>();
 
     public Dictionary<string, AudioSource> soundDictionary = new Dictionary<string, AudioSource>();
@@ -101,21 +105,12 @@ public class SoundMMManager : MonoBehaviour
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-
-        if (scene.name == "Main Menu")
-        {
-            SoundMMManager.Instance.gameObject.SetActive(true);
-        }
-
-
+        
         // Check if this is the next scene (replace "NextSceneName")
-        else if (scene.name == "GameScene (Main)")
+        if (scene.name == "GameScene (Main)")
         {
             // Stop the sound
             SoundMMManager.Instance.gameObject.SetActive(false);
         }
-
     }
-
-   
 }

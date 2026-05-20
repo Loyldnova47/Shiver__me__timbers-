@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class StopSoundMMManager : MonoBehaviour
 {
-    private bool hasLandedInGameScene = false;
+    //private bool hasLandedInGameScene = false;
     void OnEnable()
     {
        
