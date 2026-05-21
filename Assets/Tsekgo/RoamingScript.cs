@@ -7,7 +7,7 @@ public class RoamingScript : MonoBehaviour
     public Transform Quill;
     public float moveSpeed = 3f;
     public float sightRange = 10f;
-    public float touchRange = 0.5f;
+    public float touchRange;
     public float roamRange = 3f;
     public float roamWaitTime = 2f;
 
@@ -27,6 +27,9 @@ public class RoamingScript : MonoBehaviour
 
     // Variable to store the current velocity for movement
     private Vector2 currentVelocity;
+
+    // Speed at which the NPC rotates to face the player
+    [SerializeField] private float rotationSpeed = 5f;
 
 
     //
@@ -121,8 +124,13 @@ public class RoamingScript : MonoBehaviour
         Vector2 direction = ((Vector2)Quill.position - rb.position).normalized;
         Vector2 avoid = GetWallAvoidance();
 
-
         currentVelocity = (direction * moveSpeed + avoid).normalized * moveSpeed;
+
+        // Rotate to face the player smoothly
+        float angle = Mathf.Atan2(currentVelocity.y, currentVelocity.x) * Mathf.Rad2Deg;
+        rb.rotation = angle;
+
+        
     }
 
 
@@ -150,8 +158,9 @@ public class RoamingScript : MonoBehaviour
         Vector2 direction = (roamTarget - rb.position).normalized;
         Vector2 avoid = GetWallAvoidance();
 
-
-        currentVelocity = (direction * (moveSpeed * 0.5f) + avoid).normalized * (moveSpeed * 0.5f);
+        Vector2 targetVelocity = (direction + avoid).normalized * (moveSpeed * 0.5f);
+        currentVelocity = Vector2.Lerp(currentVelocity, targetVelocity, Time.deltaTime * 3f);
+        // currentVelocity = (direction * (moveSpeed * 0.5f) + avoid).normalized * (moveSpeed * 0.5f);
 
 
         // If the NPC is close enough to the roam target, reset the roaming state to pick a new target after waiting
