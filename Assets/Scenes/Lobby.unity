@@ -127,6 +127,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 144040242629779462, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Top Exit Statue
+      objectReference: {fileID: 0}
+    - target: {fileID: 495136530078514334, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Bottom Right Rectangle Table 1 '
+      objectReference: {fileID: 0}
+    - target: {fileID: 512126332578651415, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Bottom Left Bar '
+      objectReference: {fileID: 0}
+    - target: {fileID: 516574486735312410, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Exit '
+      objectReference: {fileID: 0}
     - target: {fileID: 524419482566609569, guid: d656f3df155671142b93da3906397c43, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.9566728
@@ -147,13 +163,213 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 902019523935873697, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Top Left Statue
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037202948151553753, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Top Left Rectangle Table  2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201666099195193209, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Top Right Single Couch 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1313688203674600533, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Bottom Right Single Couch 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1331606003024908150, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Top Right Single Couch 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1598680939268263100, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Top Single Couch 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821221479579555706, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Bottom Right Single Couch 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1978083700708577732, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Bottom Single Couch 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2298553063746192952, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Top Right Single Couch 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2299036313598950913, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Bottom Left Double Couches '
+      objectReference: {fileID: 0}
+    - target: {fileID: 2556935157081513481, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Bottom SideCupboard '
+      objectReference: {fileID: 0}
+    - target: {fileID: 2624969865810421412, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Bottom Right Couch '
+      objectReference: {fileID: 0}
+    - target: {fileID: 2730890474695934957, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Bottom Right Rectangle Table 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2922721116785876701, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Bottom Right Single Couch 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2959396272092937813, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Top Left Rectangle Table 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3257359606424007116, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_Bottom Right Bar '
+      objectReference: {fileID: 0}
+    - target: {fileID: 3321972972602907751, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Bottom Single Couch 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3514740076769561417, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Bottom Right Single Couch 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3803195969332496072, guid: d656f3df155671142b93da3906397c43, type: 3}
       propertyPath: m_Name
       value: 'Lobby -Interior '
       objectReference: {fileID: 0}
+    - target: {fileID: 3914767601749131115, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Top Right StairCase '
+      objectReference: {fileID: 0}
+    - target: {fileID: 4108731701244195111, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Top Left Rectangle Table 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4496131678898948831, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Bottom Right Single Couch 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4511676823855318011, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Bottom Right Circle Table '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5106668011149301514, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Top Single Couch 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5203314346060781710, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Top Single Couch 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5301335103346990423, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Top Right Rectangle Table 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5362940607819338568, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Top Left Couch '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5370297722986185033, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Bottom Right Single Couch 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5616962019290264231, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Top Right Couch
+      objectReference: {fileID: 0}
+    - target: {fileID: 5727682822827985306, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Bottom Left Circle Table '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5781962825505325924, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Top Left Double Couches
+      objectReference: {fileID: 0}
+    - target: {fileID: 5909222190563204901, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Bottom Left Couch '
+      objectReference: {fileID: 0}
+    - target: {fileID: 6065265196623941371, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Bottom Right Bar Statue '
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480522237176881910, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Top Right Double Couches
+      objectReference: {fileID: 0}
+    - target: {fileID: 6702636578232952218, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Lobby 2_ New Lobby_ Top Right Bar '
+      objectReference: {fileID: 0}
+    - target: {fileID: 6811370831123002178, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Bottom Exit Statue '
+      objectReference: {fileID: 0}
+    - target: {fileID: 6948521541644220343, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Top Right Single Couch 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7091120966176617759, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Top Right Circle Table '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7142066217740801758, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Reception Desk
+      objectReference: {fileID: 0}
+    - target: {fileID: 7155279220916170393, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Top Right Single Couch 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7287105479790877806, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Bottom Single Couch 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7445139733393672953, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Bottom Single Couch 4 '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7682398814498154052, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Top Right Bar Statue '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7819270302944847230, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Reception Desk Seat '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7881070652372191048, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Bottom Left Rectange Table 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7933219245213568306, guid: d656f3df155671142b93da3906397c43, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8213530419910401920, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Bottom Left Statue
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339701948637332140, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Top Right Rectangle Table 2 '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8672300967208976138, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Bottom RIght Double Couches '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8684255508932750994, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Bottom Right Staircase '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8813747358468279292, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Top Left Circle Table '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8859339012782079067, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Top Right Single Couch 1
       objectReference: {fileID: 0}
     - target: {fileID: 8945458955243362144, guid: d656f3df155671142b93da3906397c43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -195,9 +411,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8968358592511711081, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Top Side Cupboard '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8990938641958373375, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: Level 2_ New Lobby_ Top Single Couch 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 9124954558879204381, guid: d656f3df155671142b93da3906397c43, type: 3}
+      propertyPath: m_Name
+      value: 'Level 2_ New Lobby_ Top Left Bar '
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 7034370081500669637, guid: d656f3df155671142b93da3906397c43, type: 3}
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 8403945190588829348, guid: d656f3df155671142b93da3906397c43, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d656f3df155671142b93da3906397c43, type: 3}
