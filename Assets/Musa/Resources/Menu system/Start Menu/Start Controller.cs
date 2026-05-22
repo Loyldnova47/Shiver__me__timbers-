@@ -1,17 +1,24 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class StartController : MonoBehaviour
 {
-    public AudioClip[] ButtonSound;
-    public void ChangeScene(string MainMenu)
+    //Populate these in the inspector
+    public GameObject MainMenuHolder;
+
+    public void ToggleState()
     {
-        SSSoundManager.Instance.PlayMusicEffect(SSSoundManager.Instance.EffectSource2.clip);
-        SceneManager.LoadScene(MainMenu);
+       bool currentstate = MainMenuHolder.activeSelf;
+       MainMenuHolder.SetActive(!currentstate);
+
     }
 
-    private void Awake()
+    public GameObject PlayMenuHolder;
+
+    public void ToggleState1()
     {
-        DontDestroyOnLoad(gameObject);
+        bool state = PlayMenuHolder.activeSelf;
+        PlayMenuHolder.SetActive(state);
     }
 }
