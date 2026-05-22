@@ -30,21 +30,37 @@ public class SoundMMManager : MonoBehaviour
 
     private void Update()
     {
-        if (SceneManager.GetActiveScene().name == "GameScene (Main)" && !hasLandedInGameScene)
-        {
-            hasLandedInGameScene = true;
-            SoundMMManager.Instance.gameObject.SetActive(false);
+        /* if (SceneManager.GetActiveScene().name == "GameScene (Main)" && !hasLandedInGameScene)
+         {
+             hasLandedInGameScene = true;
+             SoundMMManager.Instance.gameObject.SetActive(false);
 
-        }
-        else if (SceneManager.GetActiveScene().name != "GameScene (Main)" && hasLandedInGameScene)
+         }*/
+        /*if (SceneManager.GetActiveScene().name != "GameScene (Main)" && hasLandedInGameScene)
         {
             hasLandedInGameScene = false;
             SoundMMManager.Instance.gameObject.SetActive(true);
-        }
+        }*/
+
+        /*if (SceneManager.GetActiveScene().name == "Main Menu")
+        {
+            SoundMMManager.Instance.gameObject.SetActive(true);
+        }*/
+       
+        
+            if (SceneManager.GetActiveScene().buildIndex == 1)
+            {
+                Debug.Log("We are in scene 1");
+                
+            }
+
+            Debug.Log(SceneManager.GetActiveScene().name);
+
+        
     }
     private void Awake()
     {
-        if (Instance == null)
+        /*if (Instance == null)
         {
             Instance = this;
             DontDestroyOnLoad(target: this);
@@ -52,7 +68,7 @@ public class SoundMMManager : MonoBehaviour
         else
         {
             Destroy(gameObject);
-        }
+        }*/
 
         SetSounds();
         PlaySound(backgroundSo);
@@ -105,9 +121,15 @@ public class SoundMMManager : MonoBehaviour
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        
+
         // Check if this is the next scene (replace "NextSceneName")
-        if (scene.name == "GameScene (Main)")
+        
+        if (scene.name == "Play Menu")
+        {
+            SoundMMManager.Instance.gameObject.SetActive(true);
+        }
+
+        else if (scene.name == "GameScene (Main)")
         {
             // Stop the sound
             SoundMMManager.Instance.gameObject.SetActive(false);

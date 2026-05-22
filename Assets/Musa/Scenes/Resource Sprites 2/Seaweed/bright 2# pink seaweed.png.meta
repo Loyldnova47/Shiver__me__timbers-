@@ -1,22 +1,13 @@
 fileFormatVersion: 2
-guid: 663304d8aed329a4f9bc35774228792c
+guid: b50d15e4bf1f91c41af1c1bfb3725e54
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5667190689457216026
-    second: Seaweed Sprite_0
+      213: -5504962389131457444
+    second: bright 2# pink seaweed_0
   - first:
-      213: -4833224355565284488
-    second: Seaweed Sprite_1
-  - first:
-      213: -4690748900083271206
-    second: Seaweed Sprite_2
-  - first:
-      213: -5223145243043586456
-    second: Seaweed Sprite_3
-  - first:
-      213: 33570554307520009
-    second: Seaweed Sprite_4
+      213: -6788881038841338328
+    second: bright 2# pink seaweed_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -112,111 +103,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Seaweed Sprite_0
+      name: bright 2# pink seaweed_0
       rect:
         serializedVersion: 2
-        x: 790
-        y: 1397
-        width: 7
-        height: 5
+        x: 179
+        y: 1001
+        width: 921
+        height: 1
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ca7f23c822c68e345b448138d5812d66
-      internalID: -5667190689457216026
+      spriteID: c5c0fe5afd17a93b0800000000000000
+      internalID: -5504962389131457444
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Seaweed Sprite_1
+      name: bright 2# pink seaweed_1
       rect:
         serializedVersion: 2
-        x: 1354
-        y: 1395
-        width: 12
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 21
+        y: 211
+        width: 1079
+        height: 658
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 20c7175ad5d4d1a48a37cf7419a9b49f
-      internalID: -4833224355565284488
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Seaweed Sprite_2
-      rect:
-        serializedVersion: 2
-        x: 706
-        y: 935
-        width: 574
-        height: 384
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 84766c0bbc4b3e04286fa7f924315e87
-      internalID: -4690748900083271206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Seaweed Sprite_3
-      rect:
-        serializedVersion: 2
-        x: 291
-        y: 218
-        width: 358
-        height: 355
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7c2d9473462d1cd4ab6102a132b45dbe
-      internalID: -5223145243043586456
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Seaweed Sprite_4
-      rect:
-        serializedVersion: 2
-        x: 1290
-        y: 236
-        width: 650
-        height: 453
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 437910daf4db2aa409541ef70cdc9c27
-      internalID: 33570554307520009
+      spriteID: 8262a790aac09c1a0800000000000000
+      internalID: -6788881038841338328
       vertices: []
       indices: 
       edges: []
@@ -225,7 +150,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 58478630b4a423340a36cbbb19dfdb20
+    spriteID: c84c8dae9b2b58f44b79b46669c3a504
     internalID: 0
     vertices: []
     indices: 
@@ -233,17 +158,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceOnImport
-        value: True
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      Seaweed Sprite_0: -5667190689457216026
-      Seaweed Sprite_1: -4833224355565284488
-      Seaweed Sprite_2: -4690748900083271206
-      Seaweed Sprite_3: -5223145243043586456
-      Seaweed Sprite_4: 33570554307520009
+      bright 2# pink seaweed_0: -5504962389131457444
+      bright 2# pink seaweed_1: -6788881038841338328
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
