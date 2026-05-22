@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: cd8c9536290155c47b345c918902f79f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6375877311809707622
+    second: Head Chef (Great White Shark) Sprite Sheet_0
+  - first:
+      213: -5741868205187282738
+    second: Head Chef (Great White Shark) Sprite Sheet_1
+  - first:
+      213: 1581342003531822010
+    second: Head Chef (Great White Shark) Sprite Sheet_2
+  - first:
+      213: -4924827508913582994
+    second: Head Chef (Great White Shark) Sprite Sheet_3
+  - first:
+      213: 2017387955008483376
+    second: Head Chef (Great White Shark) Sprite Sheet_4
+  - first:
+      213: -5687940618283501215
+    second: Head Chef (Great White Shark) Sprite Sheet_5
+  - first:
+      213: -5022241889502007609
+    second: Head Chef (Great White Shark) Sprite Sheet_6
+  - first:
+      213: -4371219161345414023
+    second: Head Chef (Great White Shark) Sprite Sheet_7
+  - first:
+      213: 7744288720225958491
+    second: Head Chef (Great White Shark) Sprite Sheet_8
+  - first:
+      213: -5202008235667658705
+    second: Head Chef (Great White Shark) Sprite Sheet_9
+  - first:
+      213: 8586516039734732633
+    second: Head Chef (Great White Shark) Sprite Sheet_10
+  - first:
+      213: -7635518121963600383
+    second: Head Chef (Great White Shark) Sprite Sheet_11
+  - first:
+      213: 3906263841589937332
+    second: Head Chef (Great White Shark) Sprite Sheet_12
+  - first:
+      213: -555126653153452931
+    second: Head Chef (Great White Shark) Sprite Sheet_13
+  - first:
+      213: 8636710364644026059
+    second: Head Chef (Great White Shark) Sprite Sheet_14
+  - first:
+      213: 8605268058813791154
+    second: Head Chef (Great White Shark) Sprite Sheet_15
+  - first:
+      213: 4047966984999177405
+    second: Head Chef (Great White Shark) Sprite Sheet_16
+  - first:
+      213: -5169013578743414401
+    second: Head Chef (Great White Shark) Sprite Sheet_17
+  - first:
+      213: -4747945118288555637
+    second: Head Chef (Great White Shark) Sprite Sheet_18
+  - first:
+      213: -393825902914887245
+    second: Head Chef (Great White Shark) Sprite Sheet_19
+  - first:
+      213: -7925981479344855802
+    second: Head Chef (Great White Shark) Sprite Sheet_20
+  - first:
+      213: 5334284826444810272
+    second: Head Chef (Great White Shark) Sprite Sheet_21
+  - first:
+      213: -1019280856154054380
+    second: Head Chef (Great White Shark) Sprite Sheet_22
+  - first:
+      213: -9129683287246159448
+    second: Head Chef (Great White Shark) Sprite Sheet_23
+  - first:
+      213: -8497695897848683147
+    second: Head Chef (Great White Shark) Sprite Sheet_24
+  - first:
+      213: -8554098978620058153
+    second: Head Chef (Great White Shark) Sprite Sheet_25
+  - first:
+      213: -1272630666688436953
+    second: Head Chef (Great White Shark) Sprite Sheet_26
+  - first:
+      213: -7135238546900630791
+    second: Head Chef (Great White Shark) Sprite Sheet_27
+  - first:
+      213: -6761331213214653781
+    second: Head Chef (Great White Shark) Sprite Sheet_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2375
+        width: 264
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a912c12ad555487a0800000000000000
+      internalID: -6375877311809707622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2375
+        width: 265
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8c3b20a49c050b0800000000000000
+      internalID: -5741868205187282738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 2377
+        width: 265
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab33be48c2e02f510800000000000000
+      internalID: 1581342003531822010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 2380
+        width: 252
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c4227397f77abb0800000000000000
+      internalID: -4924827508913582994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2388
+        width: 259
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030be6018a33ffb10800000000000000
+      internalID: 2017387955008483376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2387
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16932b7c4206011b0800000000000000
+      internalID: -5687940618283501215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 2384
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce65284c996d4ab0800000000000000
+      internalID: -5022241889502007609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 2386
+        width: 254
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c20ac155f4653c0800000000000000
+      internalID: -4371219161345414023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 2387
+        width: 255
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5af12f5f8d397b60800000000000000
+      internalID: 7744288720225958491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 2385
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f286f523211cec7b0800000000000000
+      internalID: -5202008235667658705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1819
+        width: 262
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957259648de692770800000000000000
+      internalID: 8586516039734732633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1820
+        width: 262
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1064d4809b0390690800000000000000
+      internalID: -7635518121963600383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1820
+        width: 262
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4cbe48446d53630800000000000000
+      internalID: 3906263841589937332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1823
+        width: 262
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cdf69004bcb48f0800000000000000
+      internalID: -555126653153452931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1823
+        width: 262
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6aa804152cbd770800000000000000
+      internalID: 8636710364644026059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1820
+        width: 268
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb7c92f4bd0c6770800000000000000
+      internalID: 8605268058813791154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1251
+        width: 261
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc826b96844d2830800000000000000
+      internalID: 4047966984999177405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1254
+        width: 262
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7104d76989f348b0800000000000000
+      internalID: -5169013578743414401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1256
+        width: 262
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b815c531219eb1eb0800000000000000
+      internalID: -4747945118288555637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1257
+        width: 262
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b129698d69d88af0800000000000000
+      internalID: -393825902914887245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1253
+        width: 252
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605235396d1410290800000000000000
+      internalID: -7925981479344855802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1254
+        width: 253
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028cff299cf270a40800000000000000
+      internalID: 5334284826444810272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 651
+        width: 247
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411e4923679cad1f0800000000000000
+      internalID: -1019280856154054380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 644
+        width: 248
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a14fdfdb69dc4180800000000000000
+      internalID: -9129683287246159448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 643
+        width: 240
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5756f678a9e121a80800000000000000
+      internalID: -8497695897848683147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 641
+        width: 240
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5d1ddec4cb94980800000000000000
+      internalID: -8554098978620058153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 636
+        width: 240
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72564cdb625b65ee0800000000000000
+      internalID: -1272630666688436953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 638
+        width: 233
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f24050885a8afc90800000000000000
+      internalID: -7135238546900630791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Chef (Great White Shark) Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 637
+        width: 233
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2649ba51dea22a0800000000000000
+      internalID: -6761331213214653781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Head Chef (Great White Shark) Sprite Sheet_0: -6375877311809707622
+      Head Chef (Great White Shark) Sprite Sheet_1: -5741868205187282738
+      Head Chef (Great White Shark) Sprite Sheet_10: 8586516039734732633
+      Head Chef (Great White Shark) Sprite Sheet_11: -7635518121963600383
+      Head Chef (Great White Shark) Sprite Sheet_12: 3906263841589937332
+      Head Chef (Great White Shark) Sprite Sheet_13: -555126653153452931
+      Head Chef (Great White Shark) Sprite Sheet_14: 8636710364644026059
+      Head Chef (Great White Shark) Sprite Sheet_15: 8605268058813791154
+      Head Chef (Great White Shark) Sprite Sheet_16: 4047966984999177405
+      Head Chef (Great White Shark) Sprite Sheet_17: -5169013578743414401
+      Head Chef (Great White Shark) Sprite Sheet_18: -4747945118288555637
+      Head Chef (Great White Shark) Sprite Sheet_19: -393825902914887245
+      Head Chef (Great White Shark) Sprite Sheet_2: 1581342003531822010
+      Head Chef (Great White Shark) Sprite Sheet_20: -7925981479344855802
+      Head Chef (Great White Shark) Sprite Sheet_21: 5334284826444810272
+      Head Chef (Great White Shark) Sprite Sheet_22: -1019280856154054380
+      Head Chef (Great White Shark) Sprite Sheet_23: -9129683287246159448
+      Head Chef (Great White Shark) Sprite Sheet_24: -8497695897848683147
+      Head Chef (Great White Shark) Sprite Sheet_25: -8554098978620058153
+      Head Chef (Great White Shark) Sprite Sheet_26: -1272630666688436953
+      Head Chef (Great White Shark) Sprite Sheet_27: -7135238546900630791
+      Head Chef (Great White Shark) Sprite Sheet_28: -6761331213214653781
+      Head Chef (Great White Shark) Sprite Sheet_3: -4924827508913582994
+      Head Chef (Great White Shark) Sprite Sheet_4: 2017387955008483376
+      Head Chef (Great White Shark) Sprite Sheet_5: -5687940618283501215
+      Head Chef (Great White Shark) Sprite Sheet_6: -5022241889502007609
+      Head Chef (Great White Shark) Sprite Sheet_7: -4371219161345414023
+      Head Chef (Great White Shark) Sprite Sheet_8: 7744288720225958491
+      Head Chef (Great White Shark) Sprite Sheet_9: -5202008235667658705
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
