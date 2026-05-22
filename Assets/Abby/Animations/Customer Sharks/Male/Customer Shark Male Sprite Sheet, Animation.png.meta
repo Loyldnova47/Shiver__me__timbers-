@@ -261,7 +261,7 @@ TextureImporter:
         width: 238
         height: 442
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -283,7 +283,7 @@ TextureImporter:
         width: 239
         height: 444
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -305,7 +305,7 @@ TextureImporter:
         width: 239
         height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -327,7 +327,7 @@ TextureImporter:
         width: 240
         height: 456
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -349,7 +349,7 @@ TextureImporter:
         width: 240
         height: 445
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -363,28 +363,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_5
-      rect:
-        serializedVersion: 2
-        x: 1403
-        y: 2615
-        width: 41
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cfca4c849a4beec20800000000000000
-      internalID: 3237723821289286908
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Customer Shark Male Sprite Sheet, Animation_6
       rect:
         serializedVersion: 2
@@ -393,7 +371,7 @@ TextureImporter:
         width: 240
         height: 437
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -415,7 +393,7 @@ TextureImporter:
         width: 240
         height: 437
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -429,28 +407,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_8
-      rect:
-        serializedVersion: 2
-        x: 1982
-        y: 2614
-        width: 48
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 55c7e024781ee9c80800000000000000
-      internalID: -8313959891034276779
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Customer Shark Male Sprite Sheet, Animation_9
       rect:
         serializedVersion: 2
@@ -459,7 +415,7 @@ TextureImporter:
         width: 298
         height: 461
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -481,7 +437,7 @@ TextureImporter:
         width: 280
         height: 459
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -499,11 +455,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 680
-        y: 1825
-        width: 257
-        height: 456
+        y: 1823
+        width: 252
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -520,12 +476,12 @@ TextureImporter:
       name: Customer Shark Male Sprite Sheet, Animation_12
       rect:
         serializedVersion: 2
-        x: 932
-        y: 1827
-        width: 269
-        height: 455
+        x: 935
+        y: 1825
+        width: 266
+        height: 457
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -547,7 +503,7 @@ TextureImporter:
         width: 280
         height: 460
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -569,7 +525,7 @@ TextureImporter:
         width: 295
         height: 457
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -583,160 +539,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_15
-      rect:
-        serializedVersion: 2
-        x: 1594
-        y: 2275
-        width: 17
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5702eab6ea0b86b00800000000000000
-      internalID: 822101195172487285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_16
-      rect:
-        serializedVersion: 2
-        x: 307
-        y: 1815
-        width: 11
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 17b987438be30b4d0800000000000000
-      internalID: -3120925580892529807
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_17
-      rect:
-        serializedVersion: 2
-        x: 610
-        y: 1818
-        width: 11
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 24ce5970f6aa76410800000000000000
-      internalID: 1470331197205113922
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_18
-      rect:
-        serializedVersion: 2
-        x: 887
-        y: 1820
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d3d7c4257b099dd60800000000000000
-      internalID: 7915516937114516797
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_19
-      rect:
-        serializedVersion: 2
-        x: 1142
-        y: 1822
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d1b8d968a54999190800000000000000
-      internalID: -7955164150246831331
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_20
-      rect:
-        serializedVersion: 2
-        x: 1442
-        y: 1818
-        width: 11
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b816b4993aebcd880800000000000000
-      internalID: -8584777179814207093
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_21
-      rect:
-        serializedVersion: 2
-        x: 1746
-        y: 1815
-        width: 12
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fffc70d4f82b1b950800000000000000
-      internalID: 6463143268795797503
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Customer Shark Male Sprite Sheet, Animation_22
       rect:
         serializedVersion: 2
@@ -745,7 +547,7 @@ TextureImporter:
         width: 298
         height: 465
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -759,28 +561,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_23
-      rect:
-        serializedVersion: 2
-        x: 316
-        y: 1672
-        width: 18
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7c453f28fab7eabd0800000000000000
-      internalID: -2617018339709201209
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Customer Shark Male Sprite Sheet, Animation_24
       rect:
         serializedVersion: 2
@@ -789,7 +569,7 @@ TextureImporter:
         width: 281
         height: 464
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -803,28 +583,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_25
-      rect:
-        serializedVersion: 2
-        x: 601
-        y: 1672
-        width: 18
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b5a1a068f54b434b0800000000000000
-      internalID: -5461542125729867173
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Customer Shark Male Sprite Sheet, Animation_26
       rect:
         serializedVersion: 2
@@ -833,7 +591,7 @@ TextureImporter:
         width: 268
         height: 470
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -855,7 +613,7 @@ TextureImporter:
         width: 267
         height: 460
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -869,28 +627,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_28
-      rect:
-        serializedVersion: 2
-        x: 1161
-        y: 1673
-        width: 15
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c442c04df465bf1d0800000000000000
-      internalID: -3315961799768267700
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Customer Shark Male Sprite Sheet, Animation_29
       rect:
         serializedVersion: 2
@@ -899,7 +635,7 @@ TextureImporter:
         width: 276
         height: 464
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -921,7 +657,7 @@ TextureImporter:
         width: 292
         height: 466
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -935,182 +671,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_31
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 1494
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3bfdfe660c736ac00800000000000000
-      internalID: 911477274089349043
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_32
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 1277
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 94d82fbd8e2eaa7e0800000000000000
-      internalID: -1753339615156990647
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_33
-      rect:
-        serializedVersion: 2
-        x: 699
-        y: 1247
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cca9a4ec10e6e2050800000000000000
-      internalID: 5777676325997943500
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_34
-      rect:
-        serializedVersion: 2
-        x: 171
-        y: 1204
-        width: 10
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f987c722e6b4819e0800000000000000
-      internalID: -1650486327034218337
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_35
-      rect:
-        serializedVersion: 2
-        x: 457
-        y: 1208
-        width: 10
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dc838caf7ce1c9440800000000000000
-      internalID: 4943860335200712909
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_36
-      rect:
-        serializedVersion: 2
-        x: 1016
-        y: 1209
-        width: 10
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e8f57ca6ebb795070800000000000000
-      internalID: 8095637862940630926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_37
-      rect:
-        serializedVersion: 2
-        x: 1301
-        y: 1212
-        width: 9
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e1439c3913bd8c6e0800000000000000
-      internalID: -1816961443664677858
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_38
-      rect:
-        serializedVersion: 2
-        x: 1595
-        y: 1211
-        width: 11
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a3e44739d961f9440800000000000000
-      internalID: 4944695781915643450
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Customer Shark Male Sprite Sheet, Animation_39
       rect:
         serializedVersion: 2
@@ -1119,7 +679,7 @@ TextureImporter:
         width: 236
         height: 435
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1141,7 +701,7 @@ TextureImporter:
         width: 235
         height: 437
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1163,7 +723,7 @@ TextureImporter:
         width: 235
         height: 444
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1185,7 +745,7 @@ TextureImporter:
         width: 235
         height: 447
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1207,7 +767,7 @@ TextureImporter:
         width: 241
         height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1229,7 +789,7 @@ TextureImporter:
         width: 243
         height: 462
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1251,7 +811,7 @@ TextureImporter:
         width: 248
         height: 455
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1273,7 +833,7 @@ TextureImporter:
         width: 279
         height: 468
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1295,7 +855,7 @@ TextureImporter:
         width: 290
         height: 461
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1309,28 +869,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_48
-      rect:
-        serializedVersion: 2
-        x: 658
-        y: 95
-        width: 11
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 16a9698380d567190800000000000000
-      internalID: -7965076601067627935
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Customer Shark Male Sprite Sheet, Animation_49
       rect:
         serializedVersion: 2
@@ -1339,7 +877,7 @@ TextureImporter:
         width: 280
         height: 474
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1352,55 +890,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_50
-      rect:
-        serializedVersion: 2
-        x: 318
-        y: 78
-        width: 10
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 311eb253588e3ec00800000000000000
-      internalID: 928841606988816659
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Customer Shark Male Sprite Sheet, Animation_51
-      rect:
-        serializedVersion: 2
-        x: 1016
-        y: 74
-        width: 11
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cd069dbe3c6cdf240800000000000000
-      internalID: 4827232920388853980
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8932921990cea9843b5c5c2e2a3d9eb5
     internalID: 0
     vertices: []
     indices: 
