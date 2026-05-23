@@ -691,6 +691,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1192049701}
+        m_TargetAssemblyTypeName: Exit, Assembly-CSharp
+        m_MethodName: OnExitClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &142965052
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1037,6 +1049,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 371533151}
+  - {fileID: 1192049700}
   - {fileID: 1992087510}
   - {fileID: 2063566645}
   - {fileID: 30123435}
@@ -1353,107 +1366,55 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 416875555}
   m_CullTransparentMesh: 1
---- !u!1 &433113134
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 433113136}
-  - component: {fileID: 433113135}
-  - component: {fileID: 433113137}
-  - component: {fileID: 433113138}
-  - component: {fileID: 433113139}
-  - component: {fileID: 433113140}
-  m_Layer: 0
-  m_Name: Toggler
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &433113135
+--- !u!114 &433113135 stripped
 MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 7281356143102719425, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+  m_PrefabInstance: {fileID: 935440759246210206}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 433113134}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0aed501e87e18844981bb18545b09f66, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::StartController
-  MainMenuHolder: {fileID: 245184089}
---- !u!4 &433113136
+--- !u!4 &433113136 stripped
 Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 663829562431192820, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+  m_PrefabInstance: {fileID: 935440759246210206}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 433113134}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.68652, y: -0.4369, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 301752862}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &433113137
+--- !u!114 &433113137 stripped
 MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 4762910697666784802, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+  m_PrefabInstance: {fileID: 935440759246210206}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 433113134}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4ae1ee0a0cc54074bac364668ef49fb7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayMenuController
-  PlayMenuHolder: {fileID: 867336384}
---- !u!114 &433113138
+--- !u!114 &433113139 stripped
 MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 7049098761051732191, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+  m_PrefabInstance: {fileID: 935440759246210206}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 433113134}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 863bf848788395d4e8e62830799fe790, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SettingsController
-  SettingsHolder: {fileID: 1843050815}
---- !u!114 &433113139
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 433113134}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 684c23acd22ee4845b7d26a87e25c066, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ControlsController
-  ControlsHolder: {fileID: 112596710}
---- !u!114 &433113140
+--- !u!114 &433113140 stripped
 MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 4464343380519952425, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+  m_PrefabInstance: {fileID: 935440759246210206}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 433113134}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0a2daffcf6611404e8189a9f416b971d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SettingstoMain
-  SettingsHolder: {fileID: 1843050815}
 --- !u!1 &462693723
 GameObject:
   m_ObjectHideFlags: 0
@@ -4289,6 +4250,51 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1180822111}
   m_CullTransparentMesh: 1
+--- !u!1 &1192049699
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1192049700}
+  - component: {fileID: 1192049701}
+  m_Layer: 0
+  m_Name: Exit
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1192049700
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1192049699}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 301752862}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1192049701
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1192049699}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8da7b6c614b9704bb35051c7323d668, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Exit
+  exitButton: {fileID: 142965051}
 --- !u!1 &1232921173
 GameObject:
   m_ObjectHideFlags: 0
@@ -8335,6 +8341,83 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5162475140850223442, guid: 4f5497b0b7a0ae149bce8252e5f2b003, type: 3}
   m_PrefabInstance: {fileID: 3893991515014183947}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &935440759246210206
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 301752862}
+    m_Modifications:
+    - target: {fileID: 474537948013419745, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+      propertyPath: m_Name
+      value: Toggler
+      objectReference: {fileID: 0}
+    - target: {fileID: 663829562431192820, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.68652
+      objectReference: {fileID: 0}
+    - target: {fileID: 663829562431192820, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.4369
+      objectReference: {fileID: 0}
+    - target: {fileID: 663829562431192820, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 663829562431192820, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 663829562431192820, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 663829562431192820, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 663829562431192820, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 663829562431192820, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 663829562431192820, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 663829562431192820, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4464343380519952425, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+      propertyPath: SettingsHolder
+      value: 
+      objectReference: {fileID: 1843050815}
+    - target: {fileID: 4762910697666784802, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+      propertyPath: PlayMenuHolder
+      value: 
+      objectReference: {fileID: 867336384}
+    - target: {fileID: 7049098761051732191, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+      propertyPath: ControlsHolder
+      value: 
+      objectReference: {fileID: 112596710}
+    - target: {fileID: 7281356143102719425, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+      propertyPath: MainMenuHolder
+      value: 
+      objectReference: {fileID: 245184089}
+    - target: {fileID: 7371691270866105298, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
+      propertyPath: SettingsHolder
+      value: 
+      objectReference: {fileID: 1843050815}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd13bc5da96542f43bb709bf41295ebd, type: 3}
 --- !u!1001 &1570473512827826821
 PrefabInstance:
   m_ObjectHideFlags: 0

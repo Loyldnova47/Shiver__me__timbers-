@@ -13,6 +13,8 @@ using UnityEngine;
     bool isSwimming = false;
     private Vector3 originalScale;
 
+    public AudioSource audioSource;
+    public AudioClip moveSound;
     
 
     void Start()
@@ -24,8 +26,10 @@ using UnityEngine;
     }
 
     void Update()
+
     {
         Vector3 moveDirection = Vector3.zero;
+
          if (Input.GetKey(KeyCode.W))
          {
            moveDirection.y += 1;
@@ -55,7 +59,27 @@ using UnityEngine;
         //Move the player
         transform.position += moveDirection.normalized * moveSpeed * Time.deltaTime;
 
-        
+        if (moveDirection.magnitude > 0.01f)
+        {
+           if (!audioSource.isPlaying)
+            {
+                audioSource.clip = moveSound;
+                audioSource.loop = true; // Enables looping
+                audioSource.Play();
+            }
+        }
+
+        else
+        {
+            if (audioSource.isPlaying)
+            {
+                audioSource.Stop();
+                audioSource.loop = false; //Disables looping
+            }
+        }
     }
+
+    
+    
  }
     

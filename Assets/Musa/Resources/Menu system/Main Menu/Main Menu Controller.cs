@@ -6,7 +6,7 @@ public class MainMenuController : MonoBehaviour
 {
     public void ChangeScene(string PlayMenu)
     {
-        SceneManager.LoadScene("Play Menu");
+        SceneManager.LoadScene("Start Menu");
     }
      
     

@@ -59,6 +59,12 @@ public class QuillHiding : MonoBehaviour
             // Store original position before hiding
             originalPosition = transform.position;
 
+
+            if (movementScript.audioSource != null && movementScript.audioSource.isPlaying)
+            {
+               movementScript.audioSource.Stop();   
+            }
+
             // Disable movement and physics so nothing fights the position change
             movementScript.enabled = false;
             rb.bodyType = RigidbodyType2D.Kinematic;
@@ -73,7 +79,12 @@ public class QuillHiding : MonoBehaviour
 
             isHiding = true;
             Debug.Log("Hiding!");
+
+            
+
+            
         }
+
     }
 
     void Unhide()
