@@ -1,0 +1,1041 @@
+fileFormatVersion: 2
+guid: 3724fa49d09101347a5dd89a02c15e45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6301048122810220316
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_0
+  - first:
+      213: 3491219523479445988
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_1
+  - first:
+      213: -1829146725588479289
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_2
+  - first:
+      213: -8612492324661285847
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_3
+  - first:
+      213: 353426802628174761
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_4
+  - first:
+      213: 9163340195074582264
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_5
+  - first:
+      213: 6767270786177649207
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_6
+  - first:
+      213: 7912485219869707386
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_7
+  - first:
+      213: -9170033343402581577
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_8
+  - first:
+      213: 6825036819822899398
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_9
+  - first:
+      213: 7963847311503190426
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_10
+  - first:
+      213: -3895424495496498585
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_11
+  - first:
+      213: -8650036673336437223
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_12
+  - first:
+      213: 7413608597539175980
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_13
+  - first:
+      213: 6539863428793982242
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_14
+  - first:
+      213: 8901469134753219610
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_15
+  - first:
+      213: 7227026864614702732
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_16
+  - first:
+      213: 2340701973021861840
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_17
+  - first:
+      213: -8422622066909452960
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_18
+  - first:
+      213: -3638035420156303053
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_19
+  - first:
+      213: 2782437606382715222
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_20
+  - first:
+      213: -7955423313429142124
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_21
+  - first:
+      213: -6195881159583386509
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_22
+  - first:
+      213: 4366349928222600464
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_23
+  - first:
+      213: 3511078876005325333
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_24
+  - first:
+      213: -9174250893598473143
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_25
+  - first:
+      213: 6553031934589804849
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_26
+  - first:
+      213: -335674121393396879
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_27
+  - first:
+      213: 6317971135805437391
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_28
+  - first:
+      213: 7741503810638667139
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_29
+  - first:
+      213: -7350169225355316516
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_30
+  - first:
+      213: -1461533307708024308
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_31
+  - first:
+      213: -3193539789404824220
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_32
+  - first:
+      213: 4030322713364168371
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_33
+  - first:
+      213: -3624956569786145167
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_34
+  - first:
+      213: -3185264723036996887
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_35
+  - first:
+      213: 1700422356915941456
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_36
+  - first:
+      213: 4651076535645467265
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_37
+  - first:
+      213: -6134928139074952462
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_38
+  - first:
+      213: -8098673845790151941
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_39
+  - first:
+      213: -2056349207222576683
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_40
+  - first:
+      213: 7711690192580471991
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_41
+  - first:
+      213: 7795118863206272354
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_42
+  - first:
+      213: 497264250082325995
+    second: Sous Chef (Hammerhead Shark) Sprite Sheet_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2293
+        width: 225
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fbeb022e1d17750800000000000000
+      internalID: 6301048122810220316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2291
+        width: 204
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1a6e9c8ad437030800000000000000
+      internalID: 3491219523479445988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2288
+        width: 203
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2da3b8eb09d96e0800000000000000
+      internalID: -1829146725588479289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 2288
+        width: 203
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c29c59cd74a7880800000000000000
+      internalID: -8612492324661285847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 2293
+        width: 203
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a321c0fdcf97e400800000000000000
+      internalID: 353426802628174761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 2284
+        width: 199
+        height: 497
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6aa73ab59ba2f70800000000000000
+      internalID: 9163340195074582264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 2284
+        width: 200
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a4ffcecec2aed50800000000000000
+      internalID: 6767270786177649207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 2284
+        width: 231
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cccd4a26bcecd60800000000000000
+      internalID: 7912485219869707386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1662
+        width: 326
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b16004524f7db080800000000000000
+      internalID: -9170033343402581577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1664
+        width: 275
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c07188b3d667be50800000000000000
+      internalID: 6825036819822899398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1659
+        width: 265
+        height: 517
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99e89f7fe4458e60800000000000000
+      internalID: 7963847311503190426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1632
+        width: 265
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76273986f0ca0f9c0800000000000000
+      internalID: -3895424495496498585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1647
+        width: 250
+        height: 541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9161ea7b975e4f780800000000000000
+      internalID: -8650036673336437223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1115
+        width: 312
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eba109dbd62e660800000000000000
+      internalID: 7413608597539175980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1116
+        width: 284
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d55d8832342ca50800000000000000
+      internalID: 6539863428793982242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1116
+        width: 268
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14c11c140f588b70800000000000000
+      internalID: 8901469134753219610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1116
+        width: 267
+        height: 483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7260bfa08db7020800000000000000
+      internalID: 2340701973021861840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1120
+        width: 251
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065ee78ead5dc1b80800000000000000
+      internalID: -8422622066909452960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1119
+        width: 266
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3396b4d7f0a138dc0800000000000000
+      internalID: -3638035420156303053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1117
+        width: 293
+        height: 483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6514122d2443d9620800000000000000
+      internalID: 2782437606382715222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 573
+        width: 311
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495e13565a8a89190800000000000000
+      internalID: -7955423313429142124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 575
+        width: 282
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01da2c43024689c30800000000000000
+      internalID: 4366349928222600464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 575
+        width: 266
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51adcae92abd9b030800000000000000
+      internalID: 3511078876005325333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 577
+        width: 267
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131240733db01fa50800000000000000
+      internalID: 6553031934589804849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 568
+        width: 251
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1732e024a22775bf0800000000000000
+      internalID: -335674121393396879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 570
+        width: 265
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5bad22641fda750800000000000000
+      internalID: 6317971135805437391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 567
+        width: 293
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d537413b85f6b60800000000000000
+      internalID: 7741503810638667139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 35
+        width: 218
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a59ae333797bbe0800000000000000
+      internalID: -1461533307708024308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 38
+        width: 208
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be724c77259ee730800000000000000
+      internalID: 4030322713364168371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 44
+        width: 208
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eafbc35c9aabc3d0800000000000000
+      internalID: -3185264723036996887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 42
+        width: 208
+        height: 464
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1827d4a7771fb8040800000000000000
+      internalID: 4651076535645467265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 37
+        width: 214
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa6eedbb0bbb9f80800000000000000
+      internalID: -8098673845790151941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 42
+        width: 207
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc6f923f5d650b60800000000000000
+      internalID: 7711690192580471991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sous Chef (Hammerhead Shark) Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 37
+        width: 214
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d4b574e43dd2c60800000000000000
+      internalID: 7795118863206272354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f13c376fa629f0c46a0d532cad71988e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sous Chef (Hammerhead Shark) Sprite Sheet_0: 6301048122810220316
+      Sous Chef (Hammerhead Shark) Sprite Sheet_1: 3491219523479445988
+      Sous Chef (Hammerhead Shark) Sprite Sheet_10: 7963847311503190426
+      Sous Chef (Hammerhead Shark) Sprite Sheet_11: -3895424495496498585
+      Sous Chef (Hammerhead Shark) Sprite Sheet_12: -8650036673336437223
+      Sous Chef (Hammerhead Shark) Sprite Sheet_13: 7413608597539175980
+      Sous Chef (Hammerhead Shark) Sprite Sheet_14: 6539863428793982242
+      Sous Chef (Hammerhead Shark) Sprite Sheet_15: 8901469134753219610
+      Sous Chef (Hammerhead Shark) Sprite Sheet_16: 7227026864614702732
+      Sous Chef (Hammerhead Shark) Sprite Sheet_17: 2340701973021861840
+      Sous Chef (Hammerhead Shark) Sprite Sheet_18: -8422622066909452960
+      Sous Chef (Hammerhead Shark) Sprite Sheet_19: -3638035420156303053
+      Sous Chef (Hammerhead Shark) Sprite Sheet_2: -1829146725588479289
+      Sous Chef (Hammerhead Shark) Sprite Sheet_20: 2782437606382715222
+      Sous Chef (Hammerhead Shark) Sprite Sheet_21: -7955423313429142124
+      Sous Chef (Hammerhead Shark) Sprite Sheet_22: -6195881159583386509
+      Sous Chef (Hammerhead Shark) Sprite Sheet_23: 4366349928222600464
+      Sous Chef (Hammerhead Shark) Sprite Sheet_24: 3511078876005325333
+      Sous Chef (Hammerhead Shark) Sprite Sheet_25: -9174250893598473143
+      Sous Chef (Hammerhead Shark) Sprite Sheet_26: 6553031934589804849
+      Sous Chef (Hammerhead Shark) Sprite Sheet_27: -335674121393396879
+      Sous Chef (Hammerhead Shark) Sprite Sheet_28: 6317971135805437391
+      Sous Chef (Hammerhead Shark) Sprite Sheet_29: 7741503810638667139
+      Sous Chef (Hammerhead Shark) Sprite Sheet_3: -8612492324661285847
+      Sous Chef (Hammerhead Shark) Sprite Sheet_30: -7350169225355316516
+      Sous Chef (Hammerhead Shark) Sprite Sheet_31: -1461533307708024308
+      Sous Chef (Hammerhead Shark) Sprite Sheet_32: -3193539789404824220
+      Sous Chef (Hammerhead Shark) Sprite Sheet_33: 4030322713364168371
+      Sous Chef (Hammerhead Shark) Sprite Sheet_34: -3624956569786145167
+      Sous Chef (Hammerhead Shark) Sprite Sheet_35: -3185264723036996887
+      Sous Chef (Hammerhead Shark) Sprite Sheet_36: 1700422356915941456
+      Sous Chef (Hammerhead Shark) Sprite Sheet_37: 4651076535645467265
+      Sous Chef (Hammerhead Shark) Sprite Sheet_38: -6134928139074952462
+      Sous Chef (Hammerhead Shark) Sprite Sheet_39: -8098673845790151941
+      Sous Chef (Hammerhead Shark) Sprite Sheet_4: 353426802628174761
+      Sous Chef (Hammerhead Shark) Sprite Sheet_40: -2056349207222576683
+      Sous Chef (Hammerhead Shark) Sprite Sheet_41: 7711690192580471991
+      Sous Chef (Hammerhead Shark) Sprite Sheet_42: 7795118863206272354
+      Sous Chef (Hammerhead Shark) Sprite Sheet_43: 497264250082325995
+      Sous Chef (Hammerhead Shark) Sprite Sheet_5: 9163340195074582264
+      Sous Chef (Hammerhead Shark) Sprite Sheet_6: 6767270786177649207
+      Sous Chef (Hammerhead Shark) Sprite Sheet_7: 7912485219869707386
+      Sous Chef (Hammerhead Shark) Sprite Sheet_8: -9170033343402581577
+      Sous Chef (Hammerhead Shark) Sprite Sheet_9: 6825036819822899398
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
