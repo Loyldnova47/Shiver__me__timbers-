@@ -30,7 +30,7 @@ public class GameManager : MonoBehaviour
     }
     public void QuitGame()
     {
-        SceneManager.LoadScene("Main Menu");
+        SceneManager.LoadScene("Start Menu");
         Time.timeScale = 1;
     }
 
