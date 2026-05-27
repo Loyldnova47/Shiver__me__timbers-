@@ -139,10 +139,10 @@ TextureImporter:
       name: Speech_Thought Bubbles Sprite_0
       rect:
         serializedVersion: 2
-        x: 108
-        y: 371
-        width: 1697
-        height: 404
+        x: 101
+        y: 374
+        width: 1635
+        height: 394
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -157,11 +157,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Speech_Thought Bubbles Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 377
+        width: 1388
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cebdadd473c3a5d0800000000000000
+      internalID: -3052381215724290363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 6044449cb793fe74aaf04a937a040bdc
+    spriteID: ab0c63f103e405846ab7615f07c02b47
     internalID: 0
     vertices: []
     indices: 
