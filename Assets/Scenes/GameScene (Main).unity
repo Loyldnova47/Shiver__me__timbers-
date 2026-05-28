@@ -625,7 +625,7 @@ SpriteRenderer:
   m_Size: {x: 19.2, y: 10.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_SpriteSortPoint: 0
 --- !u!1 &116570461
 GameObject:
@@ -1319,7 +1319,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf62980153a573347bf91679a6038011, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelMove_Ref
-  sceneBuildIndex: 7
+  sceneBuildIndex: 4
 --- !u!224 &276357571 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 1849282451644974796, guid: 2711bcd6c9011894e801614b7ccd1c42, type: 3}
@@ -3142,7 +3142,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 3.02, y: 2.35}
+    oldSize: {x: 3, y: 2.33}
     newSize: {x: 9.839999, y: 6.580704}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -6313,7 +6313,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 3.02, y: 2.35}
+    oldSize: {x: 3, y: 2.33}
     newSize: {x: 9.839999, y: 6.580704}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
