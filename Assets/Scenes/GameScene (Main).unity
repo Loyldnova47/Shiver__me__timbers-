@@ -5425,11 +5425,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RoamingScript
   Quill: {fileID: 1403360848}
-  moveSpeed: 1.8
-  sightRange: 2
+  moveSpeed: 1
+  sightRange: 1.5
   touchRange: 0.5
-  roamRange: 3
-  roamWaitTime: 2
+  roamRange: 4
+  roamWaitTime: 1
   rotationSpeed: 5
 --- !u!60 &1084085909
 PolygonCollider2D:
