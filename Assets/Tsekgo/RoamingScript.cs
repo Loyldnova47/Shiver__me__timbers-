@@ -67,19 +67,30 @@ public class RoamingScript : MonoBehaviour
         }
 
         HandleStuckDetection();
+
+    }
+
+    private void FaceMovementDirection()
+    {
+        if (currentVelocity.sqrMagnitude > 0.01f)
+        {
+            float targetAngle = Mathf.Atan2(currentVelocity.y, currentVelocity.x) * Mathf.Rad2Deg;
+            float angle = Mathf.LerpAngle(rb.rotation, targetAngle, Time.deltaTime * rotationSpeed);
+            rb.rotation = angle;
+        }
     }
 
     private void FixedUpdate()
     {
         rb.linearVelocity = currentVelocity;
+        FaceMovementDirection();
     }
 
     private Vector2 GetWallAvoidance()
     {
         RaycastHit2D hit = Physics2D.CircleCast(
-            rb.position, 0.3f,
-            Vector2.zero, 0f,
-            LayerMask.GetMask("Obstacle"));
+        rb.position, 0.3f, Vector2.zero, 0f, 
+        LayerMask.GetMask("Obstacle"));
 
         if (hit.collider != null)
         {
@@ -96,12 +107,13 @@ public class RoamingScript : MonoBehaviour
         Vector2 avoid = GetWallAvoidance();
         currentVelocity = (direction * moveSpeed + avoid).normalized * moveSpeed;
 
-        float angle = Mathf.Atan2(currentVelocity.y, currentVelocity.x) * Mathf.Rad2Deg;
-        rb.rotation = angle;
+       
     }
+    
 
     private void Roam()
     {
+
         if (!hasRoamTarget)
         {
             roamTimer -= Time.deltaTime;
@@ -111,8 +123,10 @@ public class RoamingScript : MonoBehaviour
                 roamTarget = startPosition + randomOffset;
                 hasRoamTarget = true;
             }
+
             currentVelocity = Vector2.zero;
             return;
+
         }
 
         Vector2 direction = (roamTarget - rb.position).normalized;
@@ -153,6 +167,7 @@ public class RoamingScript : MonoBehaviour
         }
 
         lastPosition = rb.position;
+
     }
 
     private void OnTouchQuill()
