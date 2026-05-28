@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Musa/Scenes/Menus/Start Menu.unity
+    path: Assets/Scenes/The Game/Start Menu.unity
     guid: ebfd51a675aff8e458675388d068f547
   - enabled: 1
     path: Assets/Musa/Scenes/Menus/Pause Menu.unity
@@ -20,7 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Musa/Scenes/Level 2.unity
     guid: 828c88ea410727f41ad014aeae9318c8
-  - enabled: 0
+  - enabled: 1
+    path: Assets/Scenes/Restaurant.unity
+    guid: 0c5e4c0e67119b349abcd12bd2d2e676
+  - enabled: 1
     path: Assets/Musa/Scenes/Congratulations.unity
     guid: f9c753e91c53d5741ae37955d89e8fa4
   m_configObjects:
