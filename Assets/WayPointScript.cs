@@ -1,58 +1,122 @@
+using UnityEngine;
 
-﻿using UnityEngine;
-
-public class FollowThePath : MonoBehaviour 
+public class FollowThePath : MonoBehaviour
 {
+    [Header("Waypoints")]
+    [SerializeField] private Transform[] waypoints;
 
-    // Array of waypoints to walk from one to the next one
-    [SerializeField]
-    private Transform[] Waypoints;
+    [Header("Movement")]
+    [SerializeField] private float moveSpeed = 2f;
+    [SerializeField] private float chaseSpeed = 4f;
+    [SerializeField] private float rotationSpeed = 5f;
 
-    // Walk speed that can be set in Inspector
-    [SerializeField]
-    private float moveSpeed = 2f;
+    [Header("Detection")]
+    public float sightRange;
+    public float touchRange;
+    public Transform Quill;
 
-    // Index of current waypoint from which Enemy walks
-    // to the next one
+    private Rigidbody2D rb;
+    private Vector2 currentVelocity;
     private int waypointIndex = 0;
+    private int patrolDirection = 1;
 
-	// Use this for initialization
-	private void Start () 
+    private enum State { Patrolling, Chasing, Touching }
+    private State currentState = State.Patrolling;
+
+    private void Start()
     {
+        rb = GetComponent<Rigidbody2D>();
 
-        // Set position of Enemy as position of the first waypoint
-        transform.position = Waypoints[waypointIndex].transform.position;
-	}
-	
-	// Update is called once per frame
-	private void Update () 
+        if (waypoints.Length > 0)
+            transform.position = waypoints[0].position;
+    }
+
+    private void Update()
     {
-
-        // Move Enemy
-        Move();
-	}
-
-    // Method that actually make Enemy walk
-    private void Move()
-    {
-        // If Enemy didn't reach last waypoint it can move
-        // If enemy reached last waypoint then it stops
-        if (waypointIndex <= Waypoints.Length - 1)
+        if (Quill == null)
         {
-
-            // Move Enemy from current waypoint to the next one
-            // using MoveTowards method
-            transform.position = Vector2.MoveTowards(transform.position,
-               Waypoints[waypointIndex].transform.position,
-               moveSpeed * Time.deltaTime);
-
-            // If Enemy reaches position of waypoint he walked towards
-            // then waypointIndex is increased by 1
-            // and Enemy starts to walk to the next waypoint
-            if (transform.position == Waypoints[waypointIndex].transform.position)
-            {
-                waypointIndex += 1;
-            }
+            Debug.Log("Quill is NULL!");
+            return;
         }
+
+        float distanceToQuill = Vector2.Distance(transform.position, Quill.position);
+
+        if (distanceToQuill <= touchRange)
+        {
+            currentState = State.Touching;
+        }
+        else if (distanceToQuill <= sightRange)
+        {
+            currentState = State.Chasing;
+        }
+        else
+        {
+            currentState = State.Patrolling;
+        }
+
+        switch (currentState)
+        {
+            case State.Patrolling:
+                Patrol();
+                break;
+            case State.Chasing:
+                ChasePlayer();
+                break;
+            case State.Touching:
+                currentVelocity = Vector2.zero;
+                OnTouchQuill();
+                break;
+        }
+    }
+
+    private void FixedUpdate()
+    {
+        rb.linearVelocity = currentVelocity;
+        FaceMovementDirection();
+    }
+
+    private void Patrol()
+    {
+        if (waypoints.Length == 0) return;
+
+        Vector2 target = waypoints[waypointIndex].position;
+        Vector2 direction = (target - rb.position).normalized;
+        currentVelocity = direction * moveSpeed;
+
+        if (Vector2.Distance(rb.position, target) < 0.1f)
+            AdvanceWaypoint();
+    }
+
+    private void AdvanceWaypoint()
+    {
+        int next = waypointIndex + patrolDirection;
+
+        if (next >= waypoints.Length || next < 0)
+        {
+            patrolDirection *= -1;
+            next = waypointIndex + patrolDirection;
+        }
+
+        waypointIndex = next;
+    }
+
+    private void ChasePlayer()
+    {
+        Vector2 direction = ((Vector2)Quill.position - rb.position).normalized;
+        currentVelocity = direction * chaseSpeed;
+    }
+
+    private void FaceMovementDirection()
+    {
+        if (currentVelocity.sqrMagnitude > 0.01f)
+        {
+            float angle = Mathf.Atan2(currentVelocity.y, currentVelocity.x) * Mathf.Rad2Deg;
+            rb.rotation = Mathf.LerpAngle(rb.rotation, angle, Time.deltaTime * rotationSpeed);
+        }
+    }
+
+    private void OnTouchQuill()
+    {
+        Debug.Log("Touched Quill!");
     }
 }
