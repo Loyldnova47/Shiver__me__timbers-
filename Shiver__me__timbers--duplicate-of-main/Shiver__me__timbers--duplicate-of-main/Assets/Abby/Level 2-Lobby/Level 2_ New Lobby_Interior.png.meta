@@ -1,0 +1,1731 @@
+fileFormatVersion: 2
+guid: 585ff9ef465d82246b7c650390b30a8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5699177636813838306
+    second: Level 2_ New Lobby_Interior_0
+  - first:
+      213: 9000222027621550904
+    second: Level 2_ New Lobby_Interior_1
+  - first:
+      213: -9116295557555117644
+    second: Level 2_ New Lobby_Interior_2
+  - first:
+      213: 7483764553692364538
+    second: Level 2_ New Lobby_Interior_3
+  - first:
+      213: 1465529310927158043
+    second: Level 2_ New Lobby_Interior_4
+  - first:
+      213: -3406112254826440444
+    second: Level 2_ New Lobby_Interior_5
+  - first:
+      213: -1300092171157493423
+    second: Level 2_ New Lobby_Interior_6
+  - first:
+      213: -508218787627471280
+    second: Level 2_ New Lobby_Interior_7
+  - first:
+      213: 2533830242541148210
+    second: Level 2_ New Lobby_Interior_8
+  - first:
+      213: 2783055657102551377
+    second: Level 2_ New Lobby_Interior_9
+  - first:
+      213: 1063403937562363854
+    second: Level 2_ New Lobby_Interior_10
+  - first:
+      213: -7349224523700739385
+    second: Level 2_ New Lobby_Interior_11
+  - first:
+      213: -3289262178695700209
+    second: Level 2_ New Lobby_Interior_12
+  - first:
+      213: 3547000319583302865
+    second: Level 2_ New Lobby_Interior_13
+  - first:
+      213: -6371989029908932062
+    second: Level 2_ New Lobby_Interior_14
+  - first:
+      213: 4115580413123534651
+    second: Level 2_ New Lobby_Interior_15
+  - first:
+      213: 3435422665986863864
+    second: Level 2_ New Lobby_Interior_16
+  - first:
+      213: -5062070452862428370
+    second: Level 2_ New Lobby_Interior_17
+  - first:
+      213: -193931919285546099
+    second: Level 2_ New Lobby_Interior_18
+  - first:
+      213: 7035233536699104135
+    second: Level 2_ New Lobby_Interior_19
+  - first:
+      213: -2074840818357794070
+    second: Level 2_ New Lobby_Interior_20
+  - first:
+      213: -6252666439257622567
+    second: Level 2_ New Lobby_Interior_21
+  - first:
+      213: -5119369621917090231
+    second: Level 2_ New Lobby_Interior_22
+  - first:
+      213: -3052873568793143806
+    second: Level 2_ New Lobby_Interior_23
+  - first:
+      213: 5536856917110099006
+    second: Level 2_ New Lobby_Interior_24
+  - first:
+      213: -2859975273104704867
+    second: Level 2_ New Lobby_Interior_25
+  - first:
+      213: -2446032837518118820
+    second: Level 2_ New Lobby_Interior_26
+  - first:
+      213: -4891295565448662597
+    second: Level 2_ New Lobby_Interior_27
+  - first:
+      213: -6216324013017998440
+    second: Level 2_ New Lobby_Interior_28
+  - first:
+      213: -1500612002635478404
+    second: Level 2_ New Lobby_Interior_29
+  - first:
+      213: -6611106829733332005
+    second: Level 2_ New Lobby_Interior_30
+  - first:
+      213: 5250242346029007103
+    second: Level 2_ New Lobby_Interior_31
+  - first:
+      213: 7963593241638646366
+    second: Level 2_ New Lobby_Interior_32
+  - first:
+      213: -8308981501494313128
+    second: Level 2_ New Lobby_Interior_33
+  - first:
+      213: -2235853886672103063
+    second: Level 2_ New Lobby_Interior_34
+  - first:
+      213: -3437845618662672334
+    second: Level 2_ New Lobby_Interior_35
+  - first:
+      213: 5409258522870835160
+    second: Level 2_ New Lobby_Interior_36
+  - first:
+      213: -2069177775001887326
+    second: Level 2_ New Lobby_Interior_37
+  - first:
+      213: -5714404970352914778
+    second: Level 2_ New Lobby_Interior_38
+  - first:
+      213: -7928720488944525129
+    second: Level 2_ New Lobby_Interior_39
+  - first:
+      213: 2206141097207805218
+    second: Level 2_ New Lobby_Interior_40
+  - first:
+      213: 3425420181944555757
+    second: Level 2_ New Lobby_Interior_41
+  - first:
+      213: 6311285586892425039
+    second: Level 2_ New Lobby_Interior_42
+  - first:
+      213: 8967508829578034377
+    second: Level 2_ New Lobby_Interior_43
+  - first:
+      213: -1514270986478978386
+    second: Level 2_ New Lobby_Interior_44
+  - first:
+      213: 2693910667202787957
+    second: Level 2_ New Lobby_Interior_45
+  - first:
+      213: 2845079671059126891
+    second: Level 2_ New Lobby_Interior_46
+  - first:
+      213: -9084031856262715826
+    second: Level 2_ New Lobby_Interior_47
+  - first:
+      213: -5056283181739564969
+    second: Level 2_ New Lobby_Interior_48
+  - first:
+      213: -1586052015896334561
+    second: Level 2_ New Lobby_Interior_49
+  - first:
+      213: 6444865628721788288
+    second: Level 2_ New Lobby_Interior_50
+  - first:
+      213: 6303731371445134250
+    second: Level 2_ New Lobby_Interior_51
+  - first:
+      213: -8321945019449528981
+    second: Level 2_ New Lobby_Interior_52
+  - first:
+      213: 5662615549359084436
+    second: Level 2_ New Lobby_Interior_53
+  - first:
+      213: 728762876377174781
+    second: Level 2_ New Lobby_Interior_54
+  - first:
+      213: 4562206946646242615
+    second: Level 2_ New Lobby_Interior_55
+  - first:
+      213: -7223373907158182652
+    second: Level 2_ New Lobby_Interior_56
+  - first:
+      213: 7732254290918784347
+    second: Level 2_ New Lobby_Interior_57
+  - first:
+      213: -186206184737696895
+    second: Level 2_ New Lobby_Interior_58
+  - first:
+      213: 2513475016984070431
+    second: Level 2_ New Lobby_Interior_59
+  - first:
+      213: -4005077225175877123
+    second: Level 2_ New Lobby_Interior_60
+  - first:
+      213: 6050935994153034380
+    second: Level 2_ New Lobby_Interior_61
+  - first:
+      213: -2476668245048963659
+    second: Level 2_ New Lobby_Interior_62
+  - first:
+      213: -1836592809567360371
+    second: Level 2_ New Lobby_Interior_63
+  - first:
+      213: -1878609886586784542
+    second: Level 2_ New Lobby_Interior_64
+  - first:
+      213: 4220811244460438310
+    second: Level 2_ New Lobby_Interior_65
+  - first:
+      213: 1697934709456142671
+    second: Level 2_ New Lobby_Interior_66
+  - first:
+      213: 1472742478002918921
+    second: Level 2_ New Lobby_Interior_67
+  - first:
+      213: 3368929496521719334
+    second: Level 2_ New Lobby_Interior_68
+  - first:
+      213: 3414792880679889265
+    second: Level 2_ New Lobby_Interior_69
+  - first:
+      213: 3139036142215232
+    second: Level 2_ New Lobby_Interior_70
+  - first:
+      213: 5464023241050366991
+    second: Level 2_ New Lobby_Interior_71
+  - first:
+      213: -5940012259825449396
+    second: Level 2_ New Lobby_Interior_72
+  - first:
+      213: -8328631021508656713
+    second: Level 2_ New Lobby_Interior_73
+  - first:
+      213: 6771757910011230850
+    second: Level 2_ New Lobby_Interior_74
+  - first:
+      213: 6491960066880287624
+    second: Level 2_ New Lobby_Interior_75
+  - first:
+      213: 735436686176650190
+    second: Level 2_ New Lobby_Interior_76
+  - first:
+      213: -8209476988803657996
+    second: Level 2_ New Lobby_Interior_77
+  - first:
+      213: 3553950117129851307
+    second: Level 2_ New Lobby_Interior_78
+  - first:
+      213: -36373834367823925
+    second: Level 2_ New Lobby_Interior_79
+  - first:
+      213: -175537647287086550
+    second: Level 2_ New Lobby_Interior_80
+  - first:
+      213: -4296503496510782319
+    second: Level 2_ New Lobby_Interior_81
+  - first:
+      213: -2780754260894244256
+    second: Level 2_ New Lobby_Interior_82
+  - first:
+      213: -5664338731509034263
+    second: Level 2_ New Lobby_Interior_83
+  - first:
+      213: 7594438586655690191
+    second: Level 2_ New Lobby_Interior_84
+  - first:
+      213: -2119500577993576026
+    second: Level 2_ New Lobby_Interior_85
+  - first:
+      213: -5313857885573208564
+    second: Level 2_ New Lobby_Interior_86
+  - first:
+      213: -3633335145908371228
+    second: Level 2_ New Lobby_Interior_87
+  - first:
+      213: 5773667085198624035
+    second: Level 2_ New Lobby_Interior_88
+  - first:
+      213: 3536239571455961847
+    second: Level 2_ New Lobby_Interior_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_0
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 989
+        width: 253
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7932a7ddb871f40800000000000000
+      internalID: 5699177636813838306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_1
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 922
+        width: 254
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b4708bf3637ec70800000000000000
+      internalID: 9000222027621550904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_2
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 982
+        width: 87
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1a4789d796c7180800000000000000
+      internalID: -9116295557555117644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 946
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0127b9c9713a52d0800000000000000
+      internalID: -3289262178695700209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_13
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 914
+        width: 130
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4b5f27ff9793130800000000000000
+      internalID: 3547000319583302865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_14
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 912
+        width: 130
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a979fccb52297a0800000000000000
+      internalID: -6371989029908932062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_15
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 946
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f98c8949a7d1930800000000000000
+      internalID: 4115580413123534651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_23
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 652
+        width: 26
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206d7ebf9a302a5d0800000000000000
+      internalID: -3052873568793143806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 735
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c0384d70ed6dc40800000000000000
+      internalID: 5536856917110099006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_25
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 755
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a713454a35f48d0800000000000000
+      internalID: -2859975273104704867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_26
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 755
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50baca0812fd0ed0800000000000000
+      internalID: -2446032837518118820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_27
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 754
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb13df13990ae1cb0800000000000000
+      internalID: -4891295565448662597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_28
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 607
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bd453ee3e2bb9a0800000000000000
+      internalID: -6216324013017998440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_30
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 757
+        width: 85
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbf5919d51a044a0800000000000000
+      internalID: -6611106829733332005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_31
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 729
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0c5c3c89b9cd840800000000000000
+      internalID: 5250242346029007103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_32
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 728
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52b29f3cdd548e60800000000000000
+      internalID: 7963593241638646366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_33
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 750
+        width: 85
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fb326e85190bc80800000000000000
+      internalID: -8308981501494313128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_35
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 667
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2387af2df915a40d0800000000000000
+      internalID: -3437845618662672334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_36
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 668
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d768f197fb811b40800000000000000
+      internalID: 5409258522870835160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_37
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 670
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad11efc6cdc843e0800000000000000
+      internalID: -2069177775001887326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 666
+        width: 132
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae4367a4fa52b0b0800000000000000
+      internalID: -5714404970352914778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_39
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 620
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0a91539b687f190800000000000000
+      internalID: -7928720488944525129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_40
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 619
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2253677a3a9cd9e10800000000000000
+      internalID: 2206141097207805218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_41
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 660
+        width: 131
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8524fb189898f20800000000000000
+      internalID: 3425420181944555757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_42
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 363
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4704ca7dc0369750800000000000000
+      internalID: 6311285586892425039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_43
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 151
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc7d23c4cdf27c70800000000000000
+      internalID: 8967508829578034377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_44
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 473
+        width: 78
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa7d3d8f8a3cfae0800000000000000
+      internalID: -1514270986478978386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 635
+        width: 86
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57af1479a71b26520800000000000000
+      internalID: 2693910667202787957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_46
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 632
+        width: 86
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a1a2f03e0cb7720800000000000000
+      internalID: 2845079671059126891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_47
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 415
+        width: 32
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46e02fe7290fe180800000000000000
+      internalID: -9084031856262715826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_48
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 853
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750a1ac4c3974d9b0800000000000000
+      internalID: -5056283181739564969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_49
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 520
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fe43548163df9e0800000000000000
+      internalID: -1586052015896334561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_50
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 405
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08536199423c07950800000000000000
+      internalID: 6444865628721788288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_51
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 403
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa32972a84a5b7750800000000000000
+      internalID: 6303731371445134250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_53
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 401
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493d62f17d6a59e40800000000000000
+      internalID: 5662615549359084436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_55
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 400
+        width: 87
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7353baedb07305f30800000000000000
+      internalID: 4562206946646242615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_56
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 387
+        width: 94
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405d208d3bb61cb90800000000000000
+      internalID: -7223373907158182652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_57
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 388
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d34337f4c7e4b60800000000000000
+      internalID: 7732254290918784347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_58
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 393
+        width: 87
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1839ab726767a6df0800000000000000
+      internalID: -186206184737696895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_59
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 224
+        width: 24
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1987230638a1e220800000000000000
+      internalID: 2513475016984070431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_62
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 319
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdcd536a5b11add0800000000000000
+      internalID: -2476668245048963659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_63
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 318
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a63b4029c1386e0800000000000000
+      internalID: -1836592809567360371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_64
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 319
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4357ee246dde5e0800000000000000
+      internalID: -1878609886586784542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_65
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 304
+        width: 135
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623f90ac675539a30800000000000000
+      internalID: 4220811244460438310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_66
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 278
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4180f84f96409710800000000000000
+      internalID: 1697934709456142671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_67
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 280
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9061ef61b7b307410800000000000000
+      internalID: 1472742478002918921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_68
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 297
+        width: 132
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e33891787d0ce20800000000000000
+      internalID: 3368929496521719334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_71
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 228
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f042947203c14db40800000000000000
+      internalID: 5464023241050366991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_72
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 274
+        width: 86
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4683ab3256d09da0800000000000000
+      internalID: -5940012259825449396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_74
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 266
+        width: 85
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a392bd0fd1afd50800000000000000
+      internalID: 6771757910011230850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_82
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 106
+        width: 134
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062aeb79bb6c869d0800000000000000
+      internalID: -2780754260894244256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_83
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 105
+        width: 135
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2dae44fe93461b0800000000000000
+      internalID: -5664338731509034263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_85
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 78
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1357334750692e0800000000000000
+      internalID: -2119500577993576026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_86
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 79
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06208738626146b0800000000000000
+      internalID: -5313857885573208564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_87
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 45
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0803e5fecc39dc0800000000000000
+      internalID: -3633335145908371228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_88
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 0
+        width: 253
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32501a0bf9f202050800000000000000
+      internalID: 5773667085198624035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2_ New Lobby_Interior_89
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 52
+        width: 254
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7faef49872f331130800000000000000
+      internalID: 3536239571455961847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6e226659f15093942ad634e268bac468
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Level 2_ New Lobby_Interior_0: 5699177636813838306
+      Level 2_ New Lobby_Interior_1: 9000222027621550904
+      Level 2_ New Lobby_Interior_10: 1063403937562363854
+      Level 2_ New Lobby_Interior_11: -7349224523700739385
+      Level 2_ New Lobby_Interior_12: -3289262178695700209
+      Level 2_ New Lobby_Interior_13: 3547000319583302865
+      Level 2_ New Lobby_Interior_14: -6371989029908932062
+      Level 2_ New Lobby_Interior_15: 4115580413123534651
+      Level 2_ New Lobby_Interior_16: 3435422665986863864
+      Level 2_ New Lobby_Interior_17: -5062070452862428370
+      Level 2_ New Lobby_Interior_18: -193931919285546099
+      Level 2_ New Lobby_Interior_19: 7035233536699104135
+      Level 2_ New Lobby_Interior_2: -9116295557555117644
+      Level 2_ New Lobby_Interior_20: -2074840818357794070
+      Level 2_ New Lobby_Interior_21: -6252666439257622567
+      Level 2_ New Lobby_Interior_22: -5119369621917090231
+      Level 2_ New Lobby_Interior_23: -3052873568793143806
+      Level 2_ New Lobby_Interior_24: 5536856917110099006
+      Level 2_ New Lobby_Interior_25: -2859975273104704867
+      Level 2_ New Lobby_Interior_26: -2446032837518118820
+      Level 2_ New Lobby_Interior_27: -4891295565448662597
+      Level 2_ New Lobby_Interior_28: -6216324013017998440
+      Level 2_ New Lobby_Interior_29: -1500612002635478404
+      Level 2_ New Lobby_Interior_3: 7483764553692364538
+      Level 2_ New Lobby_Interior_30: -6611106829733332005
+      Level 2_ New Lobby_Interior_31: 5250242346029007103
+      Level 2_ New Lobby_Interior_32: 7963593241638646366
+      Level 2_ New Lobby_Interior_33: -8308981501494313128
+      Level 2_ New Lobby_Interior_34: -2235853886672103063
+      Level 2_ New Lobby_Interior_35: -3437845618662672334
+      Level 2_ New Lobby_Interior_36: 5409258522870835160
+      Level 2_ New Lobby_Interior_37: -2069177775001887326
+      Level 2_ New Lobby_Interior_38: -5714404970352914778
+      Level 2_ New Lobby_Interior_39: -7928720488944525129
+      Level 2_ New Lobby_Interior_4: 1465529310927158043
+      Level 2_ New Lobby_Interior_40: 2206141097207805218
+      Level 2_ New Lobby_Interior_41: 3425420181944555757
+      Level 2_ New Lobby_Interior_42: 6311285586892425039
+      Level 2_ New Lobby_Interior_43: 8967508829578034377
+      Level 2_ New Lobby_Interior_44: -1514270986478978386
+      Level 2_ New Lobby_Interior_45: 2693910667202787957
+      Level 2_ New Lobby_Interior_46: 2845079671059126891
+      Level 2_ New Lobby_Interior_47: -9084031856262715826
+      Level 2_ New Lobby_Interior_48: -5056283181739564969
+      Level 2_ New Lobby_Interior_49: -1586052015896334561
+      Level 2_ New Lobby_Interior_5: -3406112254826440444
+      Level 2_ New Lobby_Interior_50: 6444865628721788288
+      Level 2_ New Lobby_Interior_51: 6303731371445134250
+      Level 2_ New Lobby_Interior_52: -8321945019449528981
+      Level 2_ New Lobby_Interior_53: 5662615549359084436
+      Level 2_ New Lobby_Interior_54: 728762876377174781
+      Level 2_ New Lobby_Interior_55: 4562206946646242615
+      Level 2_ New Lobby_Interior_56: -7223373907158182652
+      Level 2_ New Lobby_Interior_57: 7732254290918784347
+      Level 2_ New Lobby_Interior_58: -186206184737696895
+      Level 2_ New Lobby_Interior_59: 2513475016984070431
+      Level 2_ New Lobby_Interior_6: -1300092171157493423
+      Level 2_ New Lobby_Interior_60: -4005077225175877123
+      Level 2_ New Lobby_Interior_61: 6050935994153034380
+      Level 2_ New Lobby_Interior_62: -2476668245048963659
+      Level 2_ New Lobby_Interior_63: -1836592809567360371
+      Level 2_ New Lobby_Interior_64: -1878609886586784542
+      Level 2_ New Lobby_Interior_65: 4220811244460438310
+      Level 2_ New Lobby_Interior_66: 1697934709456142671
+      Level 2_ New Lobby_Interior_67: 1472742478002918921
+      Level 2_ New Lobby_Interior_68: 3368929496521719334
+      Level 2_ New Lobby_Interior_69: 3414792880679889265
+      Level 2_ New Lobby_Interior_7: -508218787627471280
+      Level 2_ New Lobby_Interior_70: 3139036142215232
+      Level 2_ New Lobby_Interior_71: 5464023241050366991
+      Level 2_ New Lobby_Interior_72: -5940012259825449396
+      Level 2_ New Lobby_Interior_73: -8328631021508656713
+      Level 2_ New Lobby_Interior_74: 6771757910011230850
+      Level 2_ New Lobby_Interior_75: 6491960066880287624
+      Level 2_ New Lobby_Interior_76: 735436686176650190
+      Level 2_ New Lobby_Interior_77: -8209476988803657996
+      Level 2_ New Lobby_Interior_78: 3553950117129851307
+      Level 2_ New Lobby_Interior_79: -36373834367823925
+      Level 2_ New Lobby_Interior_8: 2533830242541148210
+      Level 2_ New Lobby_Interior_80: -175537647287086550
+      Level 2_ New Lobby_Interior_81: -4296503496510782319
+      Level 2_ New Lobby_Interior_82: -2780754260894244256
+      Level 2_ New Lobby_Interior_83: -5664338731509034263
+      Level 2_ New Lobby_Interior_84: 7594438586655690191
+      Level 2_ New Lobby_Interior_85: -2119500577993576026
+      Level 2_ New Lobby_Interior_86: -5313857885573208564
+      Level 2_ New Lobby_Interior_87: -3633335145908371228
+      Level 2_ New Lobby_Interior_88: 5773667085198624035
+      Level 2_ New Lobby_Interior_89: 3536239571455961847
+      Level 2_ New Lobby_Interior_9: 2783055657102551377
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
