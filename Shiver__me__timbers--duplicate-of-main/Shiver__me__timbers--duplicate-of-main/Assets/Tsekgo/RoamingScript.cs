@@ -55,7 +55,7 @@ public class RoamingScript : MonoBehaviour
         // If Quill is not found, log a warning and exit the method to prevent errors
         if (Quill == null)
         {
-            //Debug.LogError("Quill is NOT assigned in Inspector!");
+            Debug.LogError("Quill is NOT assigned in Inspector!");
             return;
         }
 

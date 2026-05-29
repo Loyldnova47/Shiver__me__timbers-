@@ -1,17 +1,11 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.UI;
 
 public class StartController : MonoBehaviour
 {
-    //Populate these in the inspector
-    public GameObject MainMenuHolder;
-
-    public void ToggleState()
+    public void ChangeScene(string MainMenu)
     {
-       bool currentstate = MainMenuHolder.activeSelf;
-       MainMenuHolder.SetActive(!currentstate);
-
+        SceneManager.LoadScene(MainMenu);
     }
-    
+   
 }

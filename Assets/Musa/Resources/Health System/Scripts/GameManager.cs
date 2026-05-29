@@ -17,6 +17,7 @@ public class GameManager : MonoBehaviour
     {
         gameOverScreen.SetActive(true);
         Time.timeScale = 0;
+       
     }
 
     public void RestartGame()
@@ -29,7 +30,7 @@ public class GameManager : MonoBehaviour
     }
     public void QuitGame()
     {
-        SceneManager.LoadScene("Main Menu");
+        SceneManager.LoadScene("Start Menu");
         Time.timeScale = 1;
     }
 

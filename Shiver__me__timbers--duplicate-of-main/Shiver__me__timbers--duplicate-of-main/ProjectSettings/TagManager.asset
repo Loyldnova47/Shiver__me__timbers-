@@ -14,9 +14,6 @@ TagManager:
   - Enemy2
   - PPlayer
   - Damage
-  - SoundManager
-  - GameMusic
-  - Level 2
   layers:
   - Default
   - TransparentFX

@@ -21,7 +21,7 @@ public class PPlayerHealth : MonoBehaviour
     {
         health -= amount;
         healthSlider.value = health;
-    
+
         if (health <= 0)
         {
             Destroy(gameObject); //If the damage takes the player down to zero (or below), then the player will be destroyed 

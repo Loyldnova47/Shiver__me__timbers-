@@ -14,7 +14,9 @@ TagManager:
   - Enemy2
   - PPlayer
   - Damage
-  - Waypoint
+  - SoundManager
+  - GameMusic
+  - Level 2
   layers:
   - Default
   - TransparentFX
@@ -23,7 +25,7 @@ TagManager:
   - Water
   - UI
   - Background
-  - 
+  - 'Interior '
   - 
   - 
   - 

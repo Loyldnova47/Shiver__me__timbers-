@@ -73,7 +73,12 @@ public class QuillHiding : MonoBehaviour
 
             isHiding = true;
             Debug.Log("Hiding!");
+
+            
+
+            
         }
+
     }
 
     void Unhide()

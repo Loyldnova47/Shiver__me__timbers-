@@ -35,7 +35,7 @@ public class RoamingScript : MonoBehaviour
     {
         if (Quill == null)
         {
-            Debug.LogError("Quill is NOT assigned in Inspector!");
+            //Debug.LogError("Quill is NOT assigned in Inspector!");
             return;
         }
 

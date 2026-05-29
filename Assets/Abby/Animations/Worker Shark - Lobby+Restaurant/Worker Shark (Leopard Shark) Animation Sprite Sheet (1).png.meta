@@ -1,0 +1,980 @@
+fileFormatVersion: 2
+guid: fdf12416b4b9bba4c810592890e699ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -805891895496895615
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_0
+  - first:
+      213: -8753872608584921533
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_1
+  - first:
+      213: -3426299039285052140
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_2
+  - first:
+      213: 8754458672889174976
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_3
+  - first:
+      213: 361225118065462892
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_4
+  - first:
+      213: -2105658806522458562
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_5
+  - first:
+      213: 5962410697881635338
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_6
+  - first:
+      213: -86776446088380483
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_7
+  - first:
+      213: 7235775406108976093
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_8
+  - first:
+      213: -5703055205062361852
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_9
+  - first:
+      213: 4594472909244335178
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_10
+  - first:
+      213: -8800425928184227705
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_11
+  - first:
+      213: -2942363502246678790
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_12
+  - first:
+      213: -7697234719462632575
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_13
+  - first:
+      213: -3646706735439837679
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_14
+  - first:
+      213: 5559672116517354180
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_15
+  - first:
+      213: 9189565225077454549
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_16
+  - first:
+      213: 7851697716690460132
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_17
+  - first:
+      213: -4489976101871200724
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_18
+  - first:
+      213: -8296189283686118667
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_19
+  - first:
+      213: 6917330986788173488
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_20
+  - first:
+      213: -2794790165318655150
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_21
+  - first:
+      213: 9206052808549120868
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_22
+  - first:
+      213: -7645285158831869129
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_23
+  - first:
+      213: 6885706650850866284
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_24
+  - first:
+      213: 4759598122638168352
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_25
+  - first:
+      213: -7157011484266123533
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_26
+  - first:
+      213: 8795828337857001514
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_27
+  - first:
+      213: 5751873019594108051
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_28
+  - first:
+      213: 4204621829176823760
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_29
+  - first:
+      213: 9170497135589540112
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_30
+  - first:
+      213: 2858356552928606588
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_31
+  - first:
+      213: -4710748801713058813
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_32
+  - first:
+      213: -8968488588432629783
+    second: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2355
+        width: 220
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1839a814795e0d4f0800000000000000
+      internalID: -805891895496895615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2355
+        width: 214
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e06441e3ff38680800000000000000
+      internalID: -8753872608584921533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_2
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2356
+        width: 208
+        height: 505
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41df6255d275370d0800000000000000
+      internalID: -3426299039285052140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 656
+        width: 266
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb9566a7c51e7970800000000000000
+      internalID: 8754458672889174976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_4
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2356
+        width: 210
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e8d3eb454530500800000000000000
+      internalID: 361225118065462892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2357
+        width: 204
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e4e03c87237c2e0800000000000000
+      internalID: -2105658806522458562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 2355
+        width: 220
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a493480fcbeb250800000000000000
+      internalID: 5962410697881635338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1773
+        width: 263
+        height: 527
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbff7043845bbcef0800000000000000
+      internalID: -86776446088380483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_8
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1770
+        width: 268
+        height: 531
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd322a32563aa6460800000000000000
+      internalID: 7235775406108976093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1770
+        width: 264
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40db0dfc18daad0b0800000000000000
+      internalID: -5703055205062361852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_10
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1770
+        width: 265
+        height: 531
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a440aa5b4c8d2cf30800000000000000
+      internalID: 4594472909244335178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1768
+        width: 278
+        height: 531
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7881176be3b9ed580800000000000000
+      internalID: -8800425928184227705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1760
+        width: 299
+        height: 537
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe2388ebff9a27d0800000000000000
+      internalID: -2942363502246678790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1760
+        width: 269
+        height: 538
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11685129b8b446dc0800000000000000
+      internalID: -3646706735439837679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1228
+        width: 214
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca39a4655ce72d40800000000000000
+      internalID: 5559672116517354180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_16
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1230
+        width: 197
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6360142e4e78f70800000000000000
+      internalID: 9189565225077454549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_17
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1230
+        width: 200
+        height: 505
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed94172975d6fc60800000000000000
+      internalID: 7851697716690460132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_18
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1230
+        width: 199
+        height: 505
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2659f5368660b1c0800000000000000
+      internalID: -4489976101871200724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 654
+        width: 292
+        height: 519
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa8c743dc30edc80800000000000000
+      internalID: -8296189283686118667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_20
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1230
+        width: 205
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6bf4502eb4fff50800000000000000
+      internalID: 6917330986788173488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1228
+        width: 212
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2532d6ee629e639d0800000000000000
+      internalID: -2794790165318655150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_22
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 655
+        width: 268
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bbe0de04872cf70800000000000000
+      internalID: 9206052808549120868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_23
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 655
+        width: 268
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733b24d87ad76e590800000000000000
+      internalID: -7645285158831869129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_24
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 652
+        width: 281
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64b28787b1fe8f50800000000000000
+      internalID: 6885706650850866284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_25
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 654
+        width: 255
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021d67d664d7d0240800000000000000
+      internalID: 4759598122638168352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 105
+        width: 206
+        height: 535
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe2dea79ff2dac90800000000000000
+      internalID: -7157011484266123533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_27
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 109
+        width: 216
+        height: 533
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28f74f554f011a70800000000000000
+      internalID: 8795828337857001514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_28
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 109
+        width: 194
+        height: 532
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c6f0e5902c2df40800000000000000
+      internalID: 5751873019594108051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_29
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 111
+        width: 216
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df00fec641d95a30800000000000000
+      internalID: 4204621829176823760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_30
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 114
+        width: 211
+        height: 527
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0114d84be86244f70800000000000000
+      internalID: 9170497135589540112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_31
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 116
+        width: 214
+        height: 526
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7938b2042ceaa720800000000000000
+      internalID: 2858356552928606588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_32
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 119
+        width: 204
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ccbc76cee00aeb0800000000000000
+      internalID: -4710748801713058813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 655
+        width: 268
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e3c407929de72498f9e022289f0dd9
+      internalID: 791318083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 168b241c4beb6c944924b4e5f13cbc96
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_0: -805891895496895615
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_1: -8753872608584921533
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_10: 4594472909244335178
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_11: -8800425928184227705
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_12: -2942363502246678790
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_13: -7697234719462632575
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_14: -3646706735439837679
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_15: 5559672116517354180
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_16: 9189565225077454549
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_17: 7851697716690460132
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_18: -4489976101871200724
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_19: -8296189283686118667
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_2: -3426299039285052140
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_20: 6917330986788173488
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_21: -2794790165318655150
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_22: 9206052808549120868
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_23: -7645285158831869129
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_24: 6885706650850866284
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_25: 4759598122638168352
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_26: -7157011484266123533
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_27: 8795828337857001514
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_28: 5751873019594108051
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_29: 4204621829176823760
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_3: 8754458672889174976
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_30: 9170497135589540112
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_31: 2858356552928606588
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_32: -4710748801713058813
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_33: -8968488588432629783
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_34: 791318083
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_4: 361225118065462892
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_5: -2105658806522458562
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_6: 5962410697881635338
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_7: -86776446088380483
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_8: 7235775406108976093
+      Worker Shark (Leopard Shark) Animation Sprite Sheet (1)_9: -5703055205062361852
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
