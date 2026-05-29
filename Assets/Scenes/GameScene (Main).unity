@@ -3102,11 +3102,12 @@ MonoBehaviour:
   - {fileID: 521905407}
   - {fileID: 927473551}
   moveSpeed: 1
-  chaseSpeed: 4
+  chaseSpeed: 1.5
   rotationSpeed: 5
-  sightRange: 2
+  sightRange: 1
   touchRange: 0.5
   Quill: {fileID: 1403360848}
+  chaseBreakDistance: 1.2
 --- !u!60 &604927660
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -3932,11 +3933,12 @@ MonoBehaviour:
   - {fileID: 228115187}
   - {fileID: 2052789849}
   moveSpeed: 1
-  chaseSpeed: 4
+  chaseSpeed: 1.5
   rotationSpeed: 5
-  sightRange: 2
+  sightRange: 1
   touchRange: 0.5
   Quill: {fileID: 1403360848}
+  chaseBreakDistance: 1.2
 --- !u!60 &687075625
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -5668,11 +5670,12 @@ MonoBehaviour:
   - {fileID: 850909679}
   - {fileID: 1215139295}
   moveSpeed: 1
-  chaseSpeed: 4
+  chaseSpeed: 1.5
   rotationSpeed: 5
-  sightRange: 2
+  sightRange: 1
   touchRange: 0.5
   Quill: {fileID: 1403360848}
+  chaseBreakDistance: 1.2
 --- !u!60 &954678723
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -6787,12 +6790,13 @@ MonoBehaviour:
   waypoints:
   - {fileID: 64685154}
   - {fileID: 297154853}
-  moveSpeed: 0.5
-  chaseSpeed: 2
+  moveSpeed: 1
+  chaseSpeed: 1.5
   rotationSpeed: 5
-  sightRange: 2
+  sightRange: 1
   touchRange: 0.5
   Quill: {fileID: 1403360848}
+  chaseBreakDistance: 1.2
 --- !u!95 &1084085911
 Animator:
   serializedVersion: 7
@@ -9121,7 +9125,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1063859595125706724, guid: f280562dc863f2944a8dff5b2e2b2598, type: 3}
       propertyPath: moveSpeed
-      value: 1.5
+      value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1063859595125706724, guid: f280562dc863f2944a8dff5b2e2b2598, type: 3}
+      propertyPath: rotationSpeed
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4537020419844446272, guid: f280562dc863f2944a8dff5b2e2b2598, type: 3}
       propertyPath: m_SortingOrder
