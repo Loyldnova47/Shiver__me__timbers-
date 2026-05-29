@@ -6,7 +6,7 @@ namespace DialogueSystem
 {
     public class DialogueBaseClass : MonoBehaviour
     {
-        protected IEnumerator WriteText(string input, Text textHolder, Color textColor, Font textFont, float delay)
+        protected IEnumerator WriteText(string input, Text textHolder, Color textColor, Font textFont, float delay, AudioClip sound)
         {
             textHolder.color = textColor;
             textHolder.font = textFont;
@@ -14,7 +14,7 @@ namespace DialogueSystem
             {
                 textHolder.text += input[i];
                 //play letter sound
-               
+                SSoundMManager.instance.PlaySound(sound);
                 yield return new WaitForSeconds(delay);
             }
         }
