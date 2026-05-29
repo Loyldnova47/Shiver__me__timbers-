@@ -193,6 +193,63 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1941173156507041671, guid: 90728316dbeaac44fadaf145c298fb13, type: 3}
   m_PrefabInstance: {fileID: 86282888}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &279146623
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7171100305843435416, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171100305843435416, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171100305843435416, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171100305843435416, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171100305843435416, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171100305843435416, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171100305843435416, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171100305843435416, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171100305843435416, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171100305843435416, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8157596824912150083, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_Name
+      value: 'Lobby + Restaurant - Worker Shark '
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
 --- !u!1001 &306348026
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -428,6 +485,63 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b09d20c231779dc4a95a343aca79b372, type: 3}
+--- !u!1001 &1283035382
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7171100305843435416, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171100305843435416, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171100305843435416, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171100305843435416, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171100305843435416, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171100305843435416, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171100305843435416, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171100305843435416, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171100305843435416, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171100305843435416, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8157596824912150083, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
+      propertyPath: m_Name
+      value: Lobby + Restaurant - Worker Shark  (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 30606d336008dbb4dbf2e7a9ff0d4ed0, type: 3}
 --- !u!114 &1680370721 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 4524451782776434384, guid: 4f85991581c04e34cb05574bc2a7f49d, type: 3}
@@ -1057,5 +1171,7 @@ SceneRoots:
   - {fileID: 2163827127599495316}
   - {fileID: 7755234402317723994}
   - {fileID: 4274230264055465793}
+  - {fileID: 279146623}
+  - {fileID: 1283035382}
   - {fileID: 86282888}
   - {fileID: 1096299234}
