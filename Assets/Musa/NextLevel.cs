@@ -1,18 +1,22 @@
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class LevelMove_Ref : MonoBehaviour
 {
     [SerializeField] private GameObject quillPrefab;
+    public Animator animator;
     public int sceneBuildIndex;
     public string playerTag = "PPlayer";
 
     private void Start()
     {
-      /*  if (quillPrefab != null)
-        {
-            Instantiate(quillPrefab, transform.position, Quaternion.identity);
-        }*/
+        /*  if (quillPrefab != null)
+          {
+              Instantiate(quillPrefab, transform.position, Quaternion.identity);
+          }*/
+       
+        
     }
 
     // 2D Physics Trigger
@@ -35,6 +39,7 @@ public class LevelMove_Ref : MonoBehaviour
         {
             Debug.LogWarning($"Tag did not match. Object has tag '{collision.tag}', expected '{playerTag}'");
         }
+
     }
 
     private void TriggerSceneLoad()

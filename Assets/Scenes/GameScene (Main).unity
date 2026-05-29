@@ -6569,6 +6569,11 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!95 &1977099467 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 3076730659488099082, guid: 4f85991581c04e34cb05574bc2a7f49d, type: 3}
+  m_PrefabInstance: {fileID: 7748798207420520718}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1993780431
 GameObject:
   m_ObjectHideFlags: 0
@@ -7379,14 +7384,50 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3841896246149311489, guid: 4f85991581c04e34cb05574bc2a7f49d, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3841896246149311489, guid: 4f85991581c04e34cb05574bc2a7f49d, type: 3}
+      propertyPath: m_ReferenceResolution.x
+      value: 1980
+      objectReference: {fileID: 0}
+    - target: {fileID: 3841896246149311489, guid: 4f85991581c04e34cb05574bc2a7f49d, type: 3}
+      propertyPath: m_ReferenceResolution.y
+      value: 1080
+      objectReference: {fileID: 0}
     - target: {fileID: 6451409543578376565, guid: 4f85991581c04e34cb05574bc2a7f49d, type: 3}
       propertyPath: m_Name
       value: PersistenceData
       objectReference: {fileID: 0}
-    - target: {fileID: 6451409543578376565, guid: 4f85991581c04e34cb05574bc2a7f49d, type: 3}
-      propertyPath: m_IsActive
+    - target: {fileID: 7233292356337798240, guid: 4f85991581c04e34cb05574bc2a7f49d, type: 3}
+      propertyPath: m_UiScaleMode
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7233292356337798240, guid: 4f85991581c04e34cb05574bc2a7f49d, type: 3}
+      propertyPath: m_ReferenceResolution.x
+      value: 1920
+      objectReference: {fileID: 0}
+    - target: {fileID: 7233292356337798240, guid: 4f85991581c04e34cb05574bc2a7f49d, type: 3}
+      propertyPath: m_ReferenceResolution.y
+      value: 1080
+      objectReference: {fileID: 0}
+    - target: {fileID: 7953810569634199205, guid: 4f85991581c04e34cb05574bc2a7f49d, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7953810569634199205, guid: 4f85991581c04e34cb05574bc2a7f49d, type: 3}
+      propertyPath: m_ReferenceResolution.x
+      value: 1980
+      objectReference: {fileID: 0}
+    - target: {fileID: 7953810569634199205, guid: 4f85991581c04e34cb05574bc2a7f49d, type: 3}
+      propertyPath: m_ReferenceResolution.y
+      value: 1080
+      objectReference: {fileID: 0}
+    - target: {fileID: 8313388084398355739, guid: 4f85991581c04e34cb05574bc2a7f49d, type: 3}
+      propertyPath: animator
+      value: 
+      objectReference: {fileID: 1977099467}
     - target: {fileID: 8313388084398355739, guid: 4f85991581c04e34cb05574bc2a7f49d, type: 3}
       propertyPath: quillPrefab
       value: 
