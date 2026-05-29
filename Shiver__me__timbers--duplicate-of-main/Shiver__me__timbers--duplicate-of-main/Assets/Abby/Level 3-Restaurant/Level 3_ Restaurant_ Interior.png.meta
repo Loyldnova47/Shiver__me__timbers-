@@ -1,0 +1,1730 @@
+fileFormatVersion: 2
+guid: d67165c8803dc1c4cbfa9ffe8de03709
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1504083143338183627
+    second: Level 3_ Restaurant_ Interior_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_0
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 934
+        width: 345
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb435f56a39fd410800000000000000
+      internalID: 1504083143338183627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_1
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 952
+        width: 272
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a98a4ce6b23e346a99b69534f17613
+      internalID: 686931469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_2
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 861
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd19ca0cc30bbe342af41d24cc528d1b
+      internalID: -1579785919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_3
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1012
+        width: 271
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f47fc37985fbbd4a9835aeddcd03339
+      internalID: -1899021738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_4
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 861
+        width: 56
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6949b65ee72aec43b0cf08f51650e31
+      internalID: -717534073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_5
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 860
+        width: 203
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b8739ff594dc7479c43eb6453fc071
+      internalID: -1005656014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_6
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 616
+        width: 50
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805d80a8c1895cd4397c70e98b1832d6
+      internalID: -1480061389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_7
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 605
+        width: 26
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de01467f097b5ed4982629b6cf2297f4
+      internalID: -680602848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_8
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 223
+        width: 49
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5143edd2b061464796c1770aa141f26
+      internalID: -411864596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_9
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 395
+        width: 29
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f771f54bc3b7545bd05bc8bc10021f
+      internalID: -343628785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_10
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 223
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee48cd18c4edf04a9ddd3f3187da5e9
+      internalID: -1859745369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_11
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 235
+        width: 39
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70405473f3aeec4f8007c2b30bb3049
+      internalID: -1012634875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_12
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 388
+        width: 58
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539db6e7f847ade4eac318c214c42660
+      internalID: -1263180503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_13
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 574
+        width: 37
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3515c246a16da47820d87b75ddb5d2
+      internalID: 1746156803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_14
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 770
+        width: 81
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1cbe51983222642adcf183e1c57db1
+      internalID: -1710852576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_15
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 193
+        width: 94
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929c94898cc9bb84284debe47fe7fa70
+      internalID: 1706214152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_16
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 56
+        width: 42
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f3fe2491985174780c8d96cee66cfa
+      internalID: -1705907667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_17
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 27
+        width: 545
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c474fb9d4484a45a83060b9bceceff
+      internalID: 512502835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_18
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 56
+        width: 40
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae11f84f965fa64a8986a591a878151
+      internalID: -137854741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_19
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 191
+        width: 301
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879317f305a32c442b4e209ede0ec8e2
+      internalID: 617557183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_20
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 154
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b62069bd2895c49a11fb4e40a82ad8
+      internalID: 296500240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_21
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 311
+        width: 163
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229b8d41c1692014d81e324da686f6fe
+      internalID: 1266264429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_22
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 317
+        width: 139
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a5ecbc40dbcd7479ac48abdafe3d7b
+      internalID: 1687398270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_23
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 309
+        width: 161
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058304ed61a04df4381f1c11a684e400
+      internalID: -100127869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_24
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 310
+        width: 137
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a399cd06912b5934bae507f23af2b8e4
+      internalID: -229604777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_25
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 24
+        width: 337
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1587f5ba7fe2a4998c7ef1dbcd0809
+      internalID: 1119832300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_26
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 26
+        width: 266
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a13287d54daf14387e07e6a6c89ee4
+      internalID: -841578724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_27
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 591
+        width: 266
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d1da203b80dfb40ae0c3b7e22db0a9
+      internalID: -1190943825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_28
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 535
+        width: 298
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fa9e11bd1f81943ae4e16be001c1fb
+      internalID: 1959265500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_29
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 503
+        width: 266
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acf345ce8fe29f4487e2f85f8570c90
+      internalID: -1012847155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_30
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 503
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f96eb8b8bf3a2e4fb63df630f69f3a5
+      internalID: -1579178212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_31
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 508
+        width: 74
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cadf56e7ffe9e4fac12217301e6454
+      internalID: -1917900722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 537
+        width: 300
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb958708a1325d469960206755f3316
+      internalID: 1491128144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_33
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 594
+        width: 265
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ea5d4f5a7540642988c8922d29bd9c
+      internalID: 955841825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_34
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 508
+        width: 264
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2400aa406ec736a4e9f6749a693c82d8
+      internalID: 336440956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_35
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 722
+        width: 137
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7491e9b3ecc5f0d41921316d5b76fe76
+      internalID: -146441355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_36
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 724
+        width: 163
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7417207cd15854c98badb42a1d06a1
+      internalID: -1985990066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_37
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 727
+        width: 138
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fd7d1b89f8d0f4a9deb54f98abb3d7
+      internalID: 1465851565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_38
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 723
+        width: 162
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe71503071662eb45aa72f8b4b0982e8
+      internalID: 464524473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 669
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e293c3de4b6556428abfa4cc4fa043e
+      internalID: -1666612837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_40
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 736
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92591496ab5e1f4b8c013ead9f8ec3a
+      internalID: 2112472510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 299
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e36a3fd57cc4b4980c03820436f62b
+      internalID: 1687388475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_42
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 324
+        width: 50
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4318f7f3ab5d0ec4e87f4aff72008556
+      internalID: -1713178289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_43
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 958
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c38b3ec214dc9a48b0682cd244564d0
+      internalID: 574598445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_44
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 915
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9885fd1d94026be41a21cd55fa311158
+      internalID: 1126025446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_45
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 869
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e967db124aec7e6468999ad54db8da5d
+      internalID: -317601960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_46
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 915
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c2b79e3b2fe1d4e86fcf4216cb7560
+      internalID: 1588794474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_47
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 916
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaab3cb7a4c28f641a92d3192e2d9d68
+      internalID: -2124731081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_48
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 164
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7170225abf6de204d8de84db5c542ba1
+      internalID: -1269199428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_49
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 118
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572acc6588ee8904089ba6fcd1a7d919
+      internalID: 436881404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_50
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 76
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15cd9101970f294a973aad7f033120b
+      internalID: -644344205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_51
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 117
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae29d3d9626de7b4294d319f109fdba1
+      internalID: -1499402705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_52
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 121
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94071ab55379b04b9dc9a43c8fd6502
+      internalID: -1690849719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_53
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1053
+        width: 572
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9136353b9b3cb4d88a05490f508f7c
+      internalID: 2067066692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_54
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 17
+        width: 15
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dbd659ef864b44599f7778a8646fab
+      internalID: -1640221935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_55
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 14
+        width: 542
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd577ba7843d7d42aa365934976ad26
+      internalID: 1438933184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_57
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 9
+        width: 936
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde5e034fa0d3764d8256ca7d583a3b1
+      internalID: 143321348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_58
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1049
+        width: 919
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fe175a6f7483c4eaee677be1ab63d2
+      internalID: -116918392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_60
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 951
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed2b2fcdcf2931459bf54b9b48eec8b
+      internalID: 1936699522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_61
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 103
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6489a640cf05b49b26d26f66e7a42e
+      internalID: -2136824796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 126
+        width: 17
+        height: 830
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefc9e54d360e1045a57569808ed99eb
+      internalID: 792422914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_63
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 956
+        width: 122
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2007d544a3486674bb97c3c86a477b09
+      internalID: 116104825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 125
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8e8cfc31affa9449253424a4a69760
+      internalID: -1350210427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_65
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 126
+        width: 25
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15642158eb061ec488b9cc53d338b81a
+      internalID: 950297662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_66
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 25
+        width: 106
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2004869ffccc5b4faa10199023291be
+      internalID: 1188544594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_67
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1026
+        width: 103
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24c9ee917c42fb4c99855ac46711661
+      internalID: 1662054006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_68
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 856
+        width: 23
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dfada646393fd43bad7093b1be3dbb
+      internalID: -1294935515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_56
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 4
+        width: 300
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5841fc0dea0354141b783f3c243c4521
+      internalID: -508573272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_59
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 980
+        width: 267
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b673b13b798c6104e99845985c2a6426
+      internalID: 1483541515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3_ Restaurant_ Interior_69
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 435
+        width: 65
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e751f3a774f1b4ca25fc2f48d71532
+      internalID: 1991764728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 93345942a98619d4f9f34753d610a92d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Level 3_ Restaurant_ Interior_0: 1504083143338183627
+      Level 3_ Restaurant_ Interior_1: 686931469
+      Level 3_ Restaurant_ Interior_10: -1859745369
+      Level 3_ Restaurant_ Interior_11: -1012634875
+      Level 3_ Restaurant_ Interior_12: -1263180503
+      Level 3_ Restaurant_ Interior_13: 1746156803
+      Level 3_ Restaurant_ Interior_14: -1710852576
+      Level 3_ Restaurant_ Interior_15: 1706214152
+      Level 3_ Restaurant_ Interior_16: -1705907667
+      Level 3_ Restaurant_ Interior_17: 512502835
+      Level 3_ Restaurant_ Interior_18: -137854741
+      Level 3_ Restaurant_ Interior_19: 617557183
+      Level 3_ Restaurant_ Interior_2: -1579785919
+      Level 3_ Restaurant_ Interior_20: 296500240
+      Level 3_ Restaurant_ Interior_21: 1266264429
+      Level 3_ Restaurant_ Interior_22: 1687398270
+      Level 3_ Restaurant_ Interior_23: -100127869
+      Level 3_ Restaurant_ Interior_24: -229604777
+      Level 3_ Restaurant_ Interior_25: 1119832300
+      Level 3_ Restaurant_ Interior_26: -841578724
+      Level 3_ Restaurant_ Interior_27: -1190943825
+      Level 3_ Restaurant_ Interior_28: 1959265500
+      Level 3_ Restaurant_ Interior_29: -1012847155
+      Level 3_ Restaurant_ Interior_3: -1899021738
+      Level 3_ Restaurant_ Interior_30: -1579178212
+      Level 3_ Restaurant_ Interior_31: -1917900722
+      Level 3_ Restaurant_ Interior_32: 1491128144
+      Level 3_ Restaurant_ Interior_33: 955841825
+      Level 3_ Restaurant_ Interior_34: 336440956
+      Level 3_ Restaurant_ Interior_35: -146441355
+      Level 3_ Restaurant_ Interior_36: -1985990066
+      Level 3_ Restaurant_ Interior_37: 1465851565
+      Level 3_ Restaurant_ Interior_38: 464524473
+      Level 3_ Restaurant_ Interior_39: -1666612837
+      Level 3_ Restaurant_ Interior_4: -717534073
+      Level 3_ Restaurant_ Interior_40: 2112472510
+      Level 3_ Restaurant_ Interior_41: 1687388475
+      Level 3_ Restaurant_ Interior_42: -1713178289
+      Level 3_ Restaurant_ Interior_43: 574598445
+      Level 3_ Restaurant_ Interior_44: 1126025446
+      Level 3_ Restaurant_ Interior_45: -317601960
+      Level 3_ Restaurant_ Interior_46: 1588794474
+      Level 3_ Restaurant_ Interior_47: -2124731081
+      Level 3_ Restaurant_ Interior_48: -1269199428
+      Level 3_ Restaurant_ Interior_49: 436881404
+      Level 3_ Restaurant_ Interior_5: -1005656014
+      Level 3_ Restaurant_ Interior_50: -644344205
+      Level 3_ Restaurant_ Interior_51: -1499402705
+      Level 3_ Restaurant_ Interior_52: -1690849719
+      Level 3_ Restaurant_ Interior_53: 2067066692
+      Level 3_ Restaurant_ Interior_54: -1640221935
+      Level 3_ Restaurant_ Interior_55: 1438933184
+      Level 3_ Restaurant_ Interior_56: -508573272
+      Level 3_ Restaurant_ Interior_57: 143321348
+      Level 3_ Restaurant_ Interior_58: -116918392
+      Level 3_ Restaurant_ Interior_59: 1483541515
+      Level 3_ Restaurant_ Interior_6: -1480061389
+      Level 3_ Restaurant_ Interior_60: 1936699522
+      Level 3_ Restaurant_ Interior_61: -2136824796
+      Level 3_ Restaurant_ Interior_62: 792422914
+      Level 3_ Restaurant_ Interior_63: 116104825
+      Level 3_ Restaurant_ Interior_64: -1350210427
+      Level 3_ Restaurant_ Interior_65: 950297662
+      Level 3_ Restaurant_ Interior_66: 1188544594
+      Level 3_ Restaurant_ Interior_67: 1662054006
+      Level 3_ Restaurant_ Interior_68: -1294935515
+      Level 3_ Restaurant_ Interior_69: 1991764728
+      Level 3_ Restaurant_ Interior_7: -680602848
+      Level 3_ Restaurant_ Interior_8: -411864596
+      Level 3_ Restaurant_ Interior_9: -343628785
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
