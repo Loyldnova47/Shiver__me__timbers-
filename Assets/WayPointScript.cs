@@ -34,61 +34,50 @@ public class FollowThePath : MonoBehaviour
             transform.position = waypoints[0].position;
     }
 
-    private void Update()
+   private void Update()
+{
+    if (Quill == null)
     {
-        if (Quill == null)
-        {
-            Debug.Log("Quill is NULL!");
-            return;
-        }
-
-        float distanceToQuill = Vector2.Distance(transform.position, Quill.position);
-
-        // Determine the current state based on the distance to Quill
-        if (distanceToQuill <= touchRange)
-        {
-            currentState = State.Touching;
-        }
-        else if (distanceToQuill <= sightRange)
-        {
-            currentState = State.Chasing;
-        }
-        else
-        {
-            currentState = State.Patrolling;
-        }
-        // Execute behavior based on the current state
-        switch (currentState)
-        {
-            case State.Patrolling:
-                Patrol();
-                break;
-            case State.Chasing:
-                ChasePlayer();
-                break;
-            case State.Touching:
-                currentVelocity = Vector2.zero;
-                OnTouchQuill();
-                break;
-        }
-
-        if (distanceToQuill <= touchRange)
-        {
-            currentState = State. Touching;
-        }
-        else if (distanceToQuill <= sightRange && currentState != State.Chasing)
-        {
-            currentState = State.Chasing;
-        }
-        else if (currentState == State.Chasing && distanceToQuill >= chaseBreakDistance)
-        {
-            currentState = State.Patrolling;
-        }
-        else if (distanceToQuill > chaseBreakDistance && currentState == State.Chasing)
-        {
-            currentState = State.Patrolling;
-        }
+        Debug.Log("Quill is NULL!");
+        return;
     }
+
+    float distanceToQuill = Vector2.Distance(transform.position, Quill.position);
+    bool canSee = CanSeeQuill(distanceToQuill);
+
+    // State transitions
+    if (distanceToQuill <= touchRange)
+    {
+        currentState = State.Touching;
+    }
+    else if (canSee && currentState != State.Chasing)
+    {
+        currentState = State.Chasing;
+    }
+    else if (currentState == State.Chasing && (!canSee || distanceToQuill >= chaseBreakDistance))
+    {
+        currentState = State.Patrolling;
+    }
+    else if (currentState == State.Touching && distanceToQuill > touchRange)
+    {
+        currentState = State.Patrolling;
+    }
+
+    // Execute behavior
+    switch (currentState)
+    {
+        case State.Patrolling:
+            Patrol();
+            break;
+        case State.Chasing:
+            ChasePlayer();
+            break;
+        case State.Touching:
+            currentVelocity = Vector2.zero;
+            OnTouchQuill();
+            break;
+    }
+}
 
     private void FixedUpdate()
     {
@@ -131,5 +120,26 @@ public class FollowThePath : MonoBehaviour
     private void OnTouchQuill()
     {
         Debug.Log("Touched Quill!");
+    }
+
+    private bool CanSeeQuill(float distanceToQuill)
+    {
+        if (distanceToQuill > sightRange) return false;
+        
+        Vector2 directionToQuill = ((Vector2)Quill.position - rb.position).normalized;
+        RaycastHit2D hit = Physics2D.Raycast(
+            rb.position, 
+            directionToQuill,
+            sightRange,
+            LayerMask.GetMask("Seaweed")
+        );
+
+        if (hit.collider !=null)
+        {
+            Debug.DrawRay(rb.position, directionToQuill * sightRange, Color.red);
+            return false;
+        }
+        Debug.DrawRay(rb.position, directionToQuill * sightRange, Color.green);
+        return true;
     }
 }
