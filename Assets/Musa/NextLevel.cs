@@ -46,5 +46,6 @@ public class LevelMove_Ref : MonoBehaviour
     {
         Debug.Log($"Success! Loading scene index: {sceneBuildIndex}");
         SceneManager.LoadScene(sceneBuildIndex);
+        PlayerSaver.SaveLevel(sceneBuildIndex);
     }
 }

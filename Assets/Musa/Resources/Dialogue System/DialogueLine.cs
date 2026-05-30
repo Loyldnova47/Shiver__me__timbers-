@@ -18,6 +18,8 @@ namespace DialogueSystem
         [SerializeField] private float delay;
         [SerializeField] private float delayBetweenLines;
 
+
+
         [Header("Sound")]
         [SerializeField] private AudioClip sound;
 
@@ -36,7 +38,12 @@ namespace DialogueSystem
 
         private void Start()
         {
+            textHolder = GetComponent<Text>();
+            textHolder.text = "";
+
             StartCoroutine(WriteText(input, textHolder, textColor, textFont, delay, sound, delayBetweenLines));
+            ImageHolder.sprite = characterSprite;
+            ImageHolder.preserveAspect = true;
         }
     }
 }

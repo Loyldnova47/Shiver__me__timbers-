@@ -3,6 +3,7 @@ using UnityEngine;
 public class PauseMenu : MonoBehaviour
 {
     public GameObject Container;
+   
     void Update()
     {
         // this exercutes the pause menu from pressing the "esc" button
@@ -26,4 +27,12 @@ public class PauseMenu : MonoBehaviour
     }
 
     //This script was done with the assistance : https://www.youtube.com/watch?v=fspxIduosYQ&list=PLF0hyIu5ZqWIBYvj3QOLcvuNiU0akzal7&index=6
+
+    public void SavePlayerProgress(int levelToSave)
+    {
+        PlayerPrefs.SetInt("Level", levelToSave);
+
+        // Removed PlayerPrefs.Save() to prevent performance stutters
+        Debug.Log("Progress Saved! Level: " + levelToSave);
+    }
 }
