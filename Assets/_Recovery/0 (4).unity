@@ -1320,6 +1320,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelMove_Ref
   quillPrefab: {fileID: 0}
+  animator: {fileID: 0}
   sceneBuildIndex: 4
   playerTag: PPlayer
 --- !u!224 &276357571 stripped
@@ -9338,6 +9339,10 @@ MonoBehaviour:
   textColor: {r: 0, g: 0, b: 0, a: 1}
   textFont: {fileID: 12800000, guid: 812ec1342dad5b54e86b95ef5f4fb768, type: 3}
   delay: 0.08
+  delayBetweenLines: 0
+  sound: {fileID: 0}
+  characterSprite: {fileID: 0}
+  ImageHolder: {fileID: 0}
 --- !u!1 &2115390867
 GameObject:
   m_ObjectHideFlags: 0
