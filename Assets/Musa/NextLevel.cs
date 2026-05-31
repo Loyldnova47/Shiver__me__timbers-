@@ -1,3 +1,4 @@
+using System.Collections;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -9,43 +10,61 @@ public class LevelMove_Ref : MonoBehaviour
     public int sceneBuildIndex;
     public string playerTag = "PPlayer";
 
+    [Header("Delay Settings")]
+    [SerializeField] private float sceneLoadDelay = 2.0f;
+
     private void Start()
     {
         /*  if (quillPrefab != null)
           {
               Instantiate(quillPrefab, transform.position, Quaternion.identity);
           }*/
-       
-        
     }
 
-    // 2D Physics Trigger
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log($"2D Collision detected with: {collision.gameObject.name}");
+        if (!collision.CompareTag(playerTag)) return;
 
-        if (!collision.CompareTag(playerTag))
+        if (collision.CompareTag(playerTag))
         {
-            // If it's a tilemap, enemy, or anything else, STOP here and do nothing 
-            return;
+            SoundEffectManager.PlaySoundEffect("PlayerVictory");
+            Debug.Log("STEP 1: Sound played. Starting Coroutine...");
+
+            StartCoroutine(DelaySceneLoadRoutine());
+        }
+    }
+
+    private IEnumerator DelaySceneLoadRoutine()
+    {
+        Debug.Log("STEP 2: Coroutine successfully started.");
+
+        if (TryGetComponent<Collider2D>(out Collider2D myCollider))
+        {
+            myCollider.enabled = false;
         }
 
-        if (collision.tag == "PPlayer")
-        {
-            TriggerSceneLoad();
-            print("im colidig with player");
-        }
-        else
-        {
-            Debug.LogWarning($"Tag did not match. Object has tag '{collision.tag}', expected '{playerTag}'");
-        }
+        // Using Realtime to bypass potential Time.timeScale issues
+        yield return new WaitForSecondsRealtime(sceneLoadDelay);
 
+        Debug.Log("STEP 3: Delay finished. Calling TriggerSceneLoad...");
+        TriggerSceneLoad();
     }
 
     private void TriggerSceneLoad()
     {
-        Debug.Log($"Success! Loading scene index: {sceneBuildIndex}");
+        Debug.Log($"STEP 4: Attempting to load scene index: {sceneBuildIndex}");
+
+        // Wrapped in try/catch to reveal if PlayerSaver is crashing the script
+        try
+        {
+            PlayerSaver.SaveLevel(sceneBuildIndex);
+            Debug.Log("STEP 5: PlayerSaver executed successfully.");
+        }
+        catch (System.Exception e)
+        {
+            Debug.LogError($"CRASH in PlayerSaver: {e.Message}");
+        }
+
         SceneManager.LoadScene(sceneBuildIndex);
-        PlayerSaver.SaveLevel(sceneBuildIndex);
     }
 }

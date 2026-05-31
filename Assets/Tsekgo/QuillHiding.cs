@@ -36,6 +36,7 @@ public class QuillHiding : MonoBehaviour
                 PerformHide();
             else
                 Unhide();
+           
         }
     }
 
@@ -74,9 +75,9 @@ public class QuillHiding : MonoBehaviour
             isHiding = true;
             Debug.Log("Hiding!");
 
-            
 
-            
+            SoundEffectManager.PlaySoundEffect("PlayerHides");
+
         }
 
     }
@@ -93,5 +94,6 @@ public class QuillHiding : MonoBehaviour
         // Set hiding state to false
         isHiding = false;
         Debug.Log("Unhiding!");
+        SoundEffectManager.PlaySoundEffect("PlayerUnhides");
     }
 }

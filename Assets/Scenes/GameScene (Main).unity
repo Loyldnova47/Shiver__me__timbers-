@@ -871,17 +871,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SoundEffectLibrary
   soundEffectGroups:
-  - name: Colision
-    audioClips:
-    - {fileID: 8300000, guid: a8c366224fe3f2146b7da1046f9af1aa, type: 3}
   - name: PlayerHit
     audioClips:
     - {fileID: 8300000, guid: 85d490e53b808634582d3a90910b9d03, type: 3}
   - name: PlayerBump
     audioClips:
     - {fileID: 8300000, guid: a8c366224fe3f2146b7da1046f9af1aa, type: 3}
-  - name: PlayerBump
-    audioClips: []
+  - name: PlayerHides
+    audioClips:
+    - {fileID: 8300000, guid: 2d1cdee83a5cc434e877ccc5bba4f103, type: 3}
+  - name: PlayerUnhides
+    audioClips:
+    - {fileID: 8300000, guid: 2fe6b9492a82157498554039c93269be, type: 3}
+  - name: PlayerVictory
+    audioClips:
+    - {fileID: 8300000, guid: ea94dfd9e4c58ae4980a85d16ff2fc87, type: 3}
+  - name: PlayerDeath
+    audioClips:
+    - {fileID: 8300000, guid: 46b6257365e4a96429d3ff8d1788f695, type: 3}
 --- !u!114 &142964429
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4733,7 +4740,7 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1027422880}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
