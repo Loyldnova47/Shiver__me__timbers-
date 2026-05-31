@@ -760,7 +760,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: a8c366224fe3f2146b7da1046f9af1aa, type: 3}
+  m_Resource: {fileID: 8300000, guid: 2093c162b85159a4180f2e4737cb85d6, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -8852,6 +8852,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Quill
       objectReference: {fileID: 0}
+    - target: {fileID: 3522158876923892872, guid: 739d67a9cc9929c49af2ada2d3726e02, type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 142964426}
     - target: {fileID: 6036849259010473284, guid: 739d67a9cc9929c49af2ada2d3726e02, type: 3}
       propertyPath: healthSlider
       value: 

@@ -50,4 +50,16 @@ public class SoundEffectManager : MonoBehaviour
     {
         SetVolume(sfxSlider.value);
     }
+
+    IEnumerator PlaySoundEffectCoroutine(AudioClip audioClip, float volume = 1.0f)
+    {
+        AudioSource audioSource = gameObject.AddComponent<AudioSource>();
+        audioSource.clip = audioClip;
+        audioSource.volume = volume;
+        audioSource.Play();
+
+        yield return new WaitForSeconds(audioSource.clip.length * 2);
+
+        Destroy(audioSource);
+    }
 }

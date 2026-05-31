@@ -18,16 +18,27 @@ public class movement : MonoBehaviour
     //public AudioClip swimmingSound; // Assign this in the Inspector with your swimming sound effect
     //private AudioSource audioSource;
 
-
-
-
+    [Header("Audio Settings")]
+    public AudioSource audioSource;
+    public float minSpeed = 0f;
+    public float maxSpeed = 5f;
+    public float minVolume = 0.1f;
+    public float maxVolume = 0.8f;
+    public float minPitch = 0.8f;
+    public float maxPitch = 1.3f;
     void Start()
     {
-        Quill = GetComponent<Rigidbody2D>();
+        if (Quill == null) Quill = GetComponent<Rigidbody2D>();
         //Prevent rotation from physics interactions
         Quill.freezeRotation = true;
         originalScale = transform.localScale;
         targetRotation = transform.rotation;
+
+        if (audioSource != null)
+        {
+            audioSource.loop = true;
+            audioSource.playOnAwake = false;
+        }
     }
 
     void Update()
@@ -40,6 +51,7 @@ public class movement : MonoBehaviour
             targetRotation = Quaternion.Euler(0, 0, 0);
             // Set isSwimming bool to true 
             isSwimming = true;
+            SoundEffectManager.PlaySoundEffect("PlayerSwim");
 
         }
         if (Input.GetKey(KeyCode.S))
@@ -48,6 +60,7 @@ public class movement : MonoBehaviour
             targetRotation = Quaternion.Euler(0, 0, 180f);
             // Set isSwimming bool to true 
             isSwimming = true;
+            SoundEffectManager.PlaySoundEffect("PlayerSwim");
         }
         if (Input.GetKey(KeyCode.A))
         {
@@ -57,6 +70,7 @@ public class movement : MonoBehaviour
             isSwimming = true;
             //Flip the sprite to the left
             transform.localScale = new Vector3(-originalScale.x, originalScale.y, originalScale.z);
+            SoundEffectManager.PlaySoundEffect("PlayerSwim");
         }
         if (Input.GetKey(KeyCode.D))
         {
@@ -66,6 +80,7 @@ public class movement : MonoBehaviour
             isSwimming = true;
             //Flip the sprite to the right
             transform.localScale = new Vector3(originalScale.x, originalScale.y, originalScale.z);
+            SoundEffectManager.PlaySoundEffect("PlayerSwim");
         }
 
         transform.rotation = Quaternion.RotateTowards(transform.rotation, targetRotation, rotationSpeed * 360f * Time.deltaTime);
@@ -74,12 +89,12 @@ public class movement : MonoBehaviour
         {
             // If no movement keys are pressed, set isSwimming to false
             isSwimming = false;
+            SoundEffectManager.PlaySoundEffect("PlayerSwim");
         }
         //Move the player
         transform.position += moveDirection.normalized * moveSpeed * Time.deltaTime;
-    }
 
-  
+    } 
 }
 
     
