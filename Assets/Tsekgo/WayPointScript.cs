@@ -82,6 +82,7 @@ public class FollowThePath : MonoBehaviour
     private void FixedUpdate()
     {
         rb.linearVelocity = currentVelocity;
+        WallAvoidance();
         
     }
     //Patroling between waypoints in enlisted order, then reverse direction at the end of the list
@@ -141,5 +142,31 @@ public class FollowThePath : MonoBehaviour
         }
         Debug.DrawRay(rb.position, directionToQuill * sightRange, Color.green);
         return true;
+    }
+
+    private void WallAvoidance()
+    {
+        // Cast rays in multiple directions to detect obstacles and adjust movement accordingly
+        Vector2[] rayDirections = new Vector2[]
+        {
+            Vector2.up,
+            Vector2.down,
+            Vector2.left,
+            Vector2.right,
+            (Vector2.up + Vector2.right).normalized,
+            (Vector2.up + Vector2.left).normalized,
+            (Vector2.down + Vector2.right).normalized,
+            (Vector2.down + Vector2.left).normalized
+        };
+
+        foreach (var dir in rayDirections)
+        {
+            RaycastHit2D hit = Physics2D.Raycast(transform.position, dir, 1f, LayerMask.GetMask("Seaweed"));
+            if (hit.collider != null)
+            {
+                // If an obstacle is detected, steer away from it
+                currentVelocity += -dir * moveSpeed;
+            }
+        }
     }
 }
