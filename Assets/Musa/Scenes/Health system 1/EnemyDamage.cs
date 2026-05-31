@@ -23,6 +23,7 @@ public class EEnemyDamage : MonoBehaviour
          if (collision.gameObject.tag == "PPlayer")
          {
             pplayerHealth.TakeDamage(damage);
-         }
+            SoundEffectManager.PlaySoundEffect("PlayerHit");
+        }
     }
 }

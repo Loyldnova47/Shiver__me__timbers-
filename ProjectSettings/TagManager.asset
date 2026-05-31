@@ -17,6 +17,7 @@ TagManager:
   - SoundManager
   - GameMusic
   - Level 2
+  - Object
   layers:
   - Default
   - TransparentFX
