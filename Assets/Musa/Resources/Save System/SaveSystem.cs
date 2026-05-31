@@ -17,7 +17,7 @@ public static class SaveSystem
    }
 
    public static PlayerData LoadPlayer()
-    {
+   {
         string path = Application.persistentDataPath + "/player.save";
         if (File.Exists(path))
         {
@@ -34,5 +34,20 @@ public static class SaveSystem
             Debug.LogError("Save file not found in " + path);
             return null;
         }
-    }
+   }
+
+   public static void DeleteSave()
+   {
+        string path = Application.persistentDataPath + "/player.save";
+        if (File.Exists(path))
+        {
+            File.Delete(path);
+            Debug.Log("Save file deleted.");
+
+        }
+        else
+        {
+            Debug.LogWarning("No save file found to delete at " + path);
+        }
+   }
 }
