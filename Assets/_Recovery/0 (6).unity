@@ -754,11 +754,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1483152734858870601, guid: 2dd2bf09bd5f16544b9990a636676eae, type: 3}
       propertyPath: m_SortingOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 3506618329592363397, guid: 2dd2bf09bd5f16544b9990a636676eae, type: 3}
       propertyPath: m_Name
-      value: 'Pink Seaweed '
+      value: Seaweed1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3506618329592363397, guid: 2dd2bf09bd5f16544b9990a636676eae, type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 3506618329592363397, guid: 2dd2bf09bd5f16544b9990a636676eae, type: 3}
       propertyPath: m_TagString
@@ -815,8 +819,92 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3506618329592363397, guid: 2dd2bf09bd5f16544b9990a636676eae, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 193797171}
+    - targetCorrespondingSourceObject: {fileID: 3506618329592363397, guid: 2dd2bf09bd5f16544b9990a636676eae, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 193797170}
   m_SourcePrefab: {fileID: 100100000, guid: 2dd2bf09bd5f16544b9990a636676eae, type: 3}
+--- !u!1 &193797169 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3506618329592363397, guid: 2dd2bf09bd5f16544b9990a636676eae, type: 3}
+  m_PrefabInstance: {fileID: 193797168}
+  m_PrefabAsset: {fileID: 0}
+--- !u!61 &193797170
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 193797169}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 3, y: 2.33}
+    newSize: {x: 3.02, y: 2.35}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 3, y: 2.33}
+  m_EdgeRadius: 0
+--- !u!50 &193797171
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 193797169}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 7
 --- !u!1 &228839102 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4108731701244195111, guid: d656f3df155671142b93da3906397c43, type: 3}
@@ -1401,7 +1489,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7213388413049205587, guid: b09d20c231779dc4a95a343aca79b372, type: 3}
       propertyPath: m_Name
-      value: Green Seaweed  (1)
+      value: Seaweed1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7213388413049205587, guid: b09d20c231779dc4a95a343aca79b372, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7213388413049205587, guid: b09d20c231779dc4a95a343aca79b372, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7213388413049205587, guid: b09d20c231779dc4a95a343aca79b372, type: 3}
       propertyPath: m_TagString
@@ -1714,6 +1810,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 54991449529064438, guid: 90728316dbeaac44fadaf145c298fb13, type: 3}
+      propertyPath: hideDistance
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 841942643033484444, guid: 90728316dbeaac44fadaf145c298fb13, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -1730,6 +1830,10 @@ PrefabInstance:
       propertyPath: healthSlider
       value: 
       objectReference: {fileID: 1457885811}
+    - target: {fileID: 4309309205572316042, guid: 90728316dbeaac44fadaf145c298fb13, type: 3}
+      propertyPath: m_AnimatePhysics
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8352119724908755791, guid: 90728316dbeaac44fadaf145c298fb13, type: 3}
       propertyPath: m_Mass
       value: 0.0001
@@ -1786,7 +1890,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -88.386
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 9182518152195272165, guid: 90728316dbeaac44fadaf145c298fb13, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 9058599052841855964, guid: 90728316dbeaac44fadaf145c298fb13, type: 3}
@@ -3114,6 +3219,11 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!1 &761259947 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 956492576187291860, guid: 8848ca57fdf2ccf489548b30e6889a7a, type: 3}
+  m_PrefabInstance: {fileID: 857142767}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &764463501
 GameObject:
   m_ObjectHideFlags: 0
@@ -3573,7 +3683,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 956492576187291860, guid: 8848ca57fdf2ccf489548b30e6889a7a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2132858647}
   m_SourcePrefab: {fileID: 100100000, guid: 8848ca57fdf2ccf489548b30e6889a7a, type: 3}
 --- !u!1 &884052298 stripped
 GameObject:
@@ -3847,7 +3960,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7213388413049205587, guid: b09d20c231779dc4a95a343aca79b372, type: 3}
       propertyPath: m_Name
-      value: 'Green Seaweed '
+      value: Seaweed1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7213388413049205587, guid: b09d20c231779dc4a95a343aca79b372, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7213388413049205587, guid: b09d20c231779dc4a95a343aca79b372, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7213388413049205587, guid: b09d20c231779dc4a95a343aca79b372, type: 3}
       propertyPath: m_TagString
@@ -5112,7 +5233,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3506618329592363397, guid: 2dd2bf09bd5f16544b9990a636676eae, type: 3}
       propertyPath: m_Name
-      value: Pink Seaweed  (1)
+      value: Seaweed1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3506618329592363397, guid: 2dd2bf09bd5f16544b9990a636676eae, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3506618329592363397, guid: 2dd2bf09bd5f16544b9990a636676eae, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3506618329592363397, guid: 2dd2bf09bd5f16544b9990a636676eae, type: 3}
       propertyPath: m_TagString
@@ -7170,7 +7299,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3506618329592363397, guid: 2dd2bf09bd5f16544b9990a636676eae, type: 3}
       propertyPath: m_Name
-      value: Pink Seaweed  (2)
+      value: 'Seaweed1 '
+      objectReference: {fileID: 0}
+    - target: {fileID: 3506618329592363397, guid: 2dd2bf09bd5f16544b9990a636676eae, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3506618329592363397, guid: 2dd2bf09bd5f16544b9990a636676eae, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3506618329592363397, guid: 2dd2bf09bd5f16544b9990a636676eae, type: 3}
       propertyPath: m_TagString
@@ -8846,6 +8983,28 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6995340319827305896, guid: 8848ca57fdf2ccf489548b30e6889a7a, type: 3}
   m_PrefabInstance: {fileID: 857142767}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &2132858647
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 761259947}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 1
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
