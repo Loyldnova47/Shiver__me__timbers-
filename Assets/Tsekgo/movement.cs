@@ -15,6 +15,10 @@ public class movement : MonoBehaviour
     bool isSwimming = false;
     private Vector3 originalScale;
 
+    private float swimLock = 0f;
+
+   
+
     //public AudioClip swimmingSound; // Assign this in the Inspector with your swimming sound effect
     //private AudioSource audioSource;
 
@@ -47,7 +51,6 @@ public class movement : MonoBehaviour
             targetRotation = Quaternion.Euler(0, 0, 0);
             // Set isSwimming bool to true 
             isSwimming = true;
-            SoundEffectManager.PlaySoundEffect("PlayerSwim");
 
         }
         if (Input.GetKey(KeyCode.S))
@@ -56,7 +59,7 @@ public class movement : MonoBehaviour
             targetRotation = Quaternion.Euler(0, 0, 180f);
             // Set isSwimming bool to true 
             isSwimming = true;
-            SoundEffectManager.PlaySoundEffect("PlayerSwim");
+
         }
         if (Input.GetKey(KeyCode.A))
         {
@@ -66,7 +69,7 @@ public class movement : MonoBehaviour
             isSwimming = true;
             //Flip the sprite to the left
             transform.localScale = new Vector3(-originalScale.x, originalScale.y, originalScale.z);
-            SoundEffectManager.PlaySoundEffect("PlayerSwim");
+
         }
         if (Input.GetKey(KeyCode.D))
         {
@@ -76,7 +79,7 @@ public class movement : MonoBehaviour
             isSwimming = true;
             //Flip the sprite to the right
             transform.localScale = new Vector3(originalScale.x, originalScale.y, originalScale.z);
-            SoundEffectManager.PlaySoundEffect("PlayerSwim");
+
         }
 
         transform.rotation = Quaternion.RotateTowards(transform.rotation, targetRotation, rotationSpeed * 360f * Time.deltaTime);
@@ -85,13 +88,30 @@ public class movement : MonoBehaviour
         {
             // If no movement keys are pressed, set isSwimming to false
             isSwimming = false;
-            SoundEffectManager.PlaySoundEffect("PlayerSwim");
+
         }
         //Move the player
         transform.position += moveDirection.normalized * moveSpeed * Time.deltaTime;
 
-    } 
+        bool isMoving = moveDirection != Vector3.zero;
 
+        if (isMoving)
+        {
+            swimLock -= Time.deltaTime;
+
+            if (swimLock <= 0f)
+            {
+                SoundEffectManager.PlaySoundEffect("PlayerSwim");
+
+                // reset lock (THIS controls spacing)
+                swimLock = Random.Range(0.6f, 1.2f);
+            }
+        }
+        else
+        {
+            swimLock = 0f;
+        }
+    }
 
 }
 
