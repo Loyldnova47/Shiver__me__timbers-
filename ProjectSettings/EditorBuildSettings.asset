@@ -17,15 +17,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Musa/Scenes/Menus/Main Menu.unity
     guid: 262f5d434a96d9b4dbd8ce692cc0bf6e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Musa/Scenes/Level 2.unity
     guid: 828c88ea410727f41ad014aeae9318c8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Restaurant.unity
     guid: 0c5e4c0e67119b349abcd12bd2d2e676
   - enabled: 1
     path: Assets/Musa/Scenes/Congratulations.unity
     guid: f9c753e91c53d5741ae37955d89e8fa4
+  - enabled: 1
+    path: Assets/Lobby Level.unity
+    guid: 9f81e2ad1ce07c749963da8d249d21a2
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
