@@ -5,6 +5,6 @@ public class MainMenuSwitch : MonoBehaviour
 {
     public void ChangeScene(string GameScene)
     {
-        SceneManager.LoadScene("Start Menu");
+        SceneManager.LoadScene("Shiver me timbers'");
     }
 }

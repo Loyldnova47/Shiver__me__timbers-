@@ -26,7 +26,7 @@ public class GameManager : MonoBehaviour
         Time.timeScale = 1;
 
         //Reload the current scene
-        SceneManager.LoadScene("GameScene (Main)");
+        SceneManager.LoadScene("Level 1");
     }
     public void QuitGame()
     {

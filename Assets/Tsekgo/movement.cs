@@ -19,7 +19,7 @@ public class movement : MonoBehaviour
     //private AudioSource audioSource;
 
     [Header("Audio Settings")]
-    public AudioSource audioSource;
+    
     public float minSpeed = 0f;
     public float maxSpeed = 5f;
     public float minVolume = 0.1f;
@@ -34,11 +34,7 @@ public class movement : MonoBehaviour
         originalScale = transform.localScale;
         targetRotation = transform.rotation;
 
-        if (audioSource != null)
-        {
-            audioSource.loop = true;
-            audioSource.playOnAwake = false;
-        }
+       
     }
 
     void Update()
@@ -95,6 +91,8 @@ public class movement : MonoBehaviour
         transform.position += moveDirection.normalized * moveSpeed * Time.deltaTime;
 
     } 
+
+
 }
 
     

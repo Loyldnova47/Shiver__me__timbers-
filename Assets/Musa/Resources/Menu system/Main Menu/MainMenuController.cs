@@ -30,13 +30,13 @@ public class MainMMenuController : MonoBehaviour
     public void OpenPlay() => SetState(MenuState.Play);
     public void OpenSettings() => SetState(MenuState.Settings);
     public void OpenControls() => SetState(MenuState.Controls);
-    public void OpenPrologue() => SetState(MenuState.Prologue);
 
     public void NewGame()
     {
-        SaveManager.DeleteSave();
+        SaveManager.DeleteSave(); // optional reset
         SceneManager.LoadScene("Prologue");
     }
+    
 }
 
 

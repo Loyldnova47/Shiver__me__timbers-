@@ -23,7 +23,7 @@ public class PauseMenu : MonoBehaviour
 
     public void MainMenuButton()
     {
-        UnityEngine.SceneManagement.SceneManager.LoadScene("Main Menu");
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Shiver me timbers'");
     }
 
     //This script was done with the assistance : https://www.youtube.com/watch?v=fspxIduosYQ&list=PLF0hyIu5ZqWIBYvj3QOLcvuNiU0akzal7&index=6
