@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class PlayMenuController : MonoBehaviour
+public class AMainMenuController : MonoBehaviour
 {
     //Populate these in the inspector
     public GameObject PlayMenuHolder;
