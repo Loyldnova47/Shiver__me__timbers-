@@ -1188,7 +1188,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &336884203
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1569,6 +1569,7 @@ GameObject:
   - component: {fileID: 444815636}
   - component: {fileID: 444815635}
   - component: {fileID: 444815634}
+  - component: {fileID: 444815642}
   m_Layer: 0
   m_Name: Worker Shark (1)
   m_TagString: Damage
@@ -1877,6 +1878,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 13.658, y: -14.747, z: -4.501}
+--- !u!114 &444815642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 444815633}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8614df88d107f10489b3c9a671f0db22, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SharkAnimationController
 --- !u!1 &484544935
 GameObject:
   m_ObjectHideFlags: 0
@@ -7594,6 +7607,7 @@ GameObject:
   - component: {fileID: 2060124758}
   - component: {fileID: 2060124757}
   - component: {fileID: 2060124756}
+  - component: {fileID: 2060124764}
   m_Layer: 0
   m_Name: Worker Shark (2)
   m_TagString: Damage
@@ -7904,6 +7918,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: -9519.695, y: -0.18099976, z: -180.44}
+--- !u!114 &2060124764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2060124755}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8614df88d107f10489b3c9a671f0db22, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SharkAnimationController
 --- !u!1 &2067158884
 GameObject:
   m_ObjectHideFlags: 0
