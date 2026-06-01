@@ -2826,7 +2826,7 @@ MonoBehaviour:
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.5
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 0
+  m_Intensity: 1
   m_LightVolumeIntensity: 1
   m_LightVolumeEnabled: 0
   m_ApplyToSortingLayers: 0000000015469cb2
@@ -4578,6 +4578,7 @@ GameObject:
   - component: {fileID: 1124696595}
   - component: {fileID: 1124696594}
   - component: {fileID: 1124696598}
+  - component: {fileID: 1124696599}
   m_Layer: 0
   m_Name: Worker Shark
   m_TagString: Damage
@@ -4595,7 +4596,7 @@ Animator:
   m_GameObject: {fileID: 1124696590}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 74550419ac03b67409b9e155d5e94e05, type: 2}
+  m_Controller: {fileID: 9100000, guid: e4f0858b633a1fa41909411cce677aeb, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -4886,6 +4887,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EEnemyDamage
   pplayerHealth: {fileID: 4762815672670402352}
   damage: 2
+--- !u!114 &1124696599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1124696590}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8614df88d107f10489b3c9a671f0db22, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
 --- !u!1 &1129713590
 GameObject:
   m_ObjectHideFlags: 0
