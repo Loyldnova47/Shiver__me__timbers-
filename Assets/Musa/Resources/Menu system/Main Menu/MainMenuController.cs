@@ -1,5 +1,6 @@
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MainMMenuController : MonoBehaviour
 {
@@ -21,6 +22,7 @@ public class MainMMenuController : MonoBehaviour
         PlayMenuHolder.SetActive(state == MenuState.Play);
         SettingsHolder.SetActive(state == MenuState.Settings);
         ControlsHolder.SetActive(state == MenuState.Controls);
+
     }
 
     public void OpenStart() => SetState(MenuState.Start);
@@ -28,7 +30,15 @@ public class MainMMenuController : MonoBehaviour
     public void OpenPlay() => SetState(MenuState.Play);
     public void OpenSettings() => SetState(MenuState.Settings);
     public void OpenControls() => SetState(MenuState.Controls);
+    public void OpenPrologue() => SetState(MenuState.Prologue);
+
+    public void NewGame()
+    {
+        SaveManager.DeleteSave();
+        SceneManager.LoadScene("Prologue");
+    }
 }
+
 
 public enum MenuState
 {
@@ -36,5 +46,6 @@ public enum MenuState
     Main,
     Play,
     Settings,
-    Controls
+    Controls,
+    Prologue
 }

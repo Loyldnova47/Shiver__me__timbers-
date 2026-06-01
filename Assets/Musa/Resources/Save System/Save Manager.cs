@@ -25,5 +25,14 @@ public class SaveManager : MonoBehaviour
         return PlayerPrefs.HasKey(LEVEL_KEY);
     }
 
+    public static void SavePrologueState(bool hasPlayed)
+    {
+        PlayerPrefs.SetInt("ProloguePlayed", hasPlayed ? 1 : 0);
+        PlayerPrefs.Save();
+    }
 
+    public static bool HasPlayedPrologue()
+    {
+        return PlayerPrefs.GetInt("ProloguePlayed", 0) == 1;
+    }
 }

@@ -8,15 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/The Game/Shiver me timbers'.unity
     guid: ebfd51a675aff8e458675388d068f547
-  - enabled: 0
-    path: Assets/Musa/Scenes/Menus/Pause Menu.unity
-    guid: 8d797cc3c60d34749bd28036d5fd343e
+  - enabled: 1
+    path: Assets/Scenes/The Game/The levels/Prologue.unity
+    guid: 3b9f2e1c821bece4997b94b7b39ce7ea
   - enabled: 1
     path: Assets/Scenes/The Game/The levels/Level 1.unity
     guid: b5339abed0574bb4bb5f93bdecfe16a7
-  - enabled: 0
-    path: Assets/Musa/Scenes/Menus/Main Menu.unity
-    guid: 262f5d434a96d9b4dbd8ce692cc0bf6e
   - enabled: 1
     path: Assets/Scenes/The Game/The levels/Level 2.unity
     guid: 828c88ea410727f41ad014aeae9318c8
