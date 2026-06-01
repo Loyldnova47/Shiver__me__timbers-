@@ -7,7 +7,6 @@ public class PaascodeExit : MonoBehaviour
     public string nextSceneName = "Level 2";
 
     [Header ("References")]
-    public GameObject exitTrigger;
     public PasscodeUI passcodeUI;
 
     private bool isQuillInRange = false;
