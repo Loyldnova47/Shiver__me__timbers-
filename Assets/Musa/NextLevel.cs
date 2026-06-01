@@ -25,14 +25,11 @@ public class LevelMove_Ref : MonoBehaviour
     {
         if (!collision.CompareTag(playerTag)) return;
 
-        if (collision.CompareTag(playerTag))
-        {
-            SoundEffectManager.PlaySoundEffect("PlayerVictory");
-            Debug.Log("STEP 1: Sound played. Starting Coroutine...");
+        SoundEffectManager.PlaySoundEffect("PlayerVictory");
 
-            StartCoroutine(DelaySceneLoadRoutine());
-        }
+        StartCoroutine(DelaySceneLoadRoutine());
     }
+
 
     private IEnumerator DelaySceneLoadRoutine()
     {
@@ -52,19 +49,22 @@ public class LevelMove_Ref : MonoBehaviour
 
     private void TriggerSceneLoad()
     {
-        Debug.Log($"STEP 4: Attempting to load scene index: {sceneBuildIndex}");
+        int currentScene = SceneManager.GetActiveScene().buildIndex;
+        int nextScene = currentScene + 1;
 
-        // Wrapped in try/catch to reveal if PlayerSaver is crashing the script
-        try
+        Debug.Log($"Current Scene: {currentScene}");
+        Debug.Log($"Next Scene: {nextScene}");
+
+        // Check if next scene exists in Build Settings
+        if (nextScene >= SceneManager.sceneCountInBuildSettings)
         {
-            PlayerSaver.SaveLevel(sceneBuildIndex);
-            Debug.Log("STEP 5: PlayerSaver executed successfully.");
-        }
-        catch (System.Exception e)
-        {
-            Debug.LogError($"CRASH in PlayerSaver: {e.Message}");
+            Debug.Log("Last level reached! Returning to menu.");
+            SaveManager.SaveLevel(1); // optional reset point
+            SceneManager.LoadScene(0);
+            return;
         }
 
-        SceneManager.LoadScene(sceneBuildIndex);
+        SaveManager.SaveLevel(nextScene);
+        SceneManager.LoadScene(nextScene);
     }
 }

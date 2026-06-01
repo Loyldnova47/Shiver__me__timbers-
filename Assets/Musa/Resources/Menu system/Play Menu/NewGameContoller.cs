@@ -5,6 +5,6 @@ public class NewGameController : MonoBehaviour
 {
     public void ChangeScene(string GameScene)
     {
-        SceneManager.LoadScene("GameScene (Main)");
+        SceneManager.LoadScene("Level 1");
     }
 }

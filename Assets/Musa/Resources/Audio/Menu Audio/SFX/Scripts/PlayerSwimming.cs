@@ -5,7 +5,7 @@ public class PlayerSwimming : MonoBehaviour
 {
     public AudioSource Swimming;
 
-    private moveDirection movement;
+    //private moveDirection movement;
 
     void Start()
     {
